@@ -5,6 +5,7 @@ ruby '2.2.2'
 
 group :development do
 	gem 'octopress'
+	gem 'aws-sdk-v1'
 end
 
 group :jekyll_plugins do
