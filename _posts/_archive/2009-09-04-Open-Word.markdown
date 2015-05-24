@@ -1,0 +1,58 @@
+--- 
+permalink: /blog/archives/764-Open-Word.html
+layout: post
+title: Open Word
+date: 2009-09-04 11:28:23 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/764-Open-Word.html
+categories: 
+- computers
+- thoughts
+---
+I spend much of my time, fixing broken documents sent my way, commonly due to users misusing Word Processing features, manually doing what the processor can do automatically. There are times where I see people spent no less than 2 hours, trying to get their document formatting into shape, just because they didn&#8217;t let automation do their jobs.
+
+I shall list a few very common usage scenarios, how people do it the wrong way, and how it should be done, efficiently.
+
+## Paragraph Spacing
+The first I&#8217;ll start off with is &#8216;paragraph spacing&#8217;. Ideally, after every press of the enter key, a gap is formed before the next line, as follows:-
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/ParagraphSpacing.png" alt="" />
+
+However, most people would just press enter twice, producing the &#8216;same&#8217; effect. This will create consistency issues across a huge document and unsightly gaps at the top of the page would be seen when an empty paragraph spills over to a new page. Then, we&#8217;ll see the user, manually and arbitrarily deleting the empty paragraphs to work-around this problem.
+
+The ideal solution would be to use the &#8216;paragraph spacing&#8217; configuration parameters under the Paragraph Formatting dialogue.
+
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/ParagraphSpacingOptions.png" alt="" />
+
+## Indentation
+The next significant time waster is paragraph indents. Users would want to move their paragraph in and spam their tab key at every protruding sentence. This is where a disaster awaits when the paragraph is amended.
+
+Here&#8217;s what I mean:-
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/ParagraphIndents.png" alt="" />
+
+The best practice way to do that nicely is to use the indent buttons:-
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/ParagraphIndentbuttons.png" alt="" />
+
+## Keeping with the Next Paragraph
+Sometimes, certain paragraphs, such as headings, list introducers, and titles, must logically follow the next paragraph and cannot be the last item before text flows off to the next page. Users tend to work-around this by creating unnecessary empty paragraphs (by pressing enter) right before the header, hoping to push it down to the next page. This might seem to work, but when text above is amended, stray blank paragraphs will start to pollute the document, increasing the amount of clean-up one needs to do before printing.
+
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/HangingHeaders.png" alt="" />
+
+My recommended solution is to enable the following option (under Format -> Paragraph) for all headings and titles:-
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/HangingHeadingOptions.png" alt="" />
+
+This way, the headings and titles will stay on the same page as the next paragraph. This can also be applied to table headings if you don&#8217;t want your first header row to be alone at the end of a page.
+
+## Styles
+If you&#8217;re a web designer, think of Styles as cascading styles sheets for your text documents. They inherit their parent styles and helps unify the formatting structure of your document with less clicks. In Microsoft Word, the &#8216;Normal&#8217; style is used as your baseline style which all body text in your document would take dressing from to have a default look; it is intuitively named &#8216;Body Text&#8217; in OpenOffice Writer.
+
+Then, there are &#8216;Heading 1&#8217;, &#8216;Heading 2&#8217; and all other levels of headings you&#8217;ll need in a generic and simple document.
+
+However, if you happen to create the documents that I have a hand in, you might have to deal with numbered paragraphs with alternatively numbered child paragraphs. This way, the Bullets and Numbering feature can work hand-in-hand with the Styles capability of the word processor to relieve you of tedious formatting.
+
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/StylewithNumberingandIndents.png" alt="" />
+
+All the paragraph numbering and sub-paragraph numbering is automatically generated. The only buttons you need to click on is the indents button which assigns the paragraph a particular &#8216;level&#8217;. The exact details on how to set this style up is left as an exercise for the reader. I would leave the following screen shots below as hints.
+
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/NumberingStyles.png" alt="" />
+<img src="http://static-s3.iphoting.com/blog/uploads/Computers/BulletsandNumbering.png" alt="" />
+
+This concludes my brief gripe about word processor misuse. In a future post, I *might* talk about version control and document management.

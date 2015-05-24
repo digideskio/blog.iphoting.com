@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/312-Great!.html
+layout: post
+title: Great!
+date: 2006-05-16 20:40:30 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/312-Great!.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>The all new <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/macbook/']);"  href="http://www.apple.com/macbook/">Macbook</a> is now out!... and in Black too.</p>
+</p><p class="break"><p>Time to buy...</p></p>

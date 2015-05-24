@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/133-COMEX.html
+layout: post
+title: COMEX
+date: 2005-09-04 23:29:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/133-COMEX.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><div class="serendipity_imageComment_center" style="width: 640px"><div class="serendipity_imageComment_img"><img width='640' height='480' border='0' hspace='5' src='http://static-s3.iphoting.com/blog/uploads/Life/COMEX-2005.jpg' alt='' /></div><div class="serendipity_imageComment_txt">Look at the crowds!</div></div>
+</p><p class="whiteline"><p>SatrHub&#8217;s Mobile service is really terrible. My parents (StarHub subscribers) could not be contacted by mobile while they were at COMEX 2005. A mailbox message was heard instead of the ringing tone. SingTel Mobile users however remain contactable.</p>
+</p><p class="whiteline"><p>A real case of system overload, I&#8217;ll say. It&#8217;s not even in an emergency and StarHub&#8217;s mobile network is overloaded. Imagine crisis situations. Those of you who are planning to terminate the ownership of landlines, be warned.</p>
+</p><p class="whiteline"><p>Also, it&#8217;s amusing how reliable esclators are. For the numerous past visits to COMEX, the bridge from CityLink Mall to Suntec, never fails to spot broken-down esclators. At least 3 out of 4 are down at any moment that I was there. How accessible.</p>
+</p><p class="break"><p>The crowds were really fun. Severe traffic jams to and fro Suntec City, a testimonial to LTA&#8217;s traffic management systems. I wonder if they&#8217;d employed anything else apart from ERP gantries, which don&#8217;t operate on Sundays and Public Holidays.</p></p>

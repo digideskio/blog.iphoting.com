@@ -1,0 +1,9 @@
+<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+<h2>
+  {% if post.linkpost and include.linkposts == 'true' %}
+  <a class="post-link" href="{{ post.title_url }}">{{ post.title_html }}</a>
+  {% else %}
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  {% endif %}
+</h2>

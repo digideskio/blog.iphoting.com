@@ -1,0 +1,34 @@
+# Site settings
+title: "Ronald's Scribblings"
+email: 
+description: "Observations and ramblings where I write about Technology and Current Affairs."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.iphoting.com" # the base hostname & protocol for your site
+twitter_username: iphoting
+github_username:  iphoting
+
+excerpt_separator: <!-- more -->
+excerpt_link: "Read more &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+
+linkblog:
+  permalink_label: "&#8734;"
+  linkpost:
+    marker: "&rarr;"
+
+exclude: [tmp]
+include: [.powrc]
+
+# Build settings
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title/
+
+#env: development
+
+paginate: 4
+paginate_path: "/blog/:num/"
+recent_posts: 15
+
+# Disqus Comments
+disqus_short_name: ronalds-reviews
+disqus_show_comment_count: true

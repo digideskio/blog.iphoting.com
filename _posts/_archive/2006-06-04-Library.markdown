@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/327-Library.html
+layout: post
+title: Library
+date: 2006-06-04 00:20:02 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/327-Library.html
+categories: 
+- computers
+- thoughts
+---
+<p class="break"><p>If you own a Mac (with iSight) and have numerous books, you ought to check out <a onclick="_gaq.push(['_trackPageview', '/extlink/www.delicious-monster.com/']);"  href="http://www.delicious-monster.com/">Delicious Library</a>. It allows you to catalogue, browse, and share all your books, movies, music, and video games. Check out the screenshots and try out the iSight barcode scanning. They are simply amazing.</p></p>

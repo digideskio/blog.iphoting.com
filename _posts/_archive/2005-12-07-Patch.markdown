@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/198-Patch.html
+layout: post
+title: Patch
+date: 2005-12-07 23:43:08 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/198-Patch.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Helped Nathan build a new comp today. Tight budget, more fun. The casing was a real challenge, especially with strange not-up-to-standard cuttings and skimpy material.</p>
+</p><p class="break"><p>Found this article which might be interesting: <a onclick="_gaq.push(['_trackPageview', '/extlink/www.azstarnet.com/news/105238']);"  href="http://www.azstarnet.com/news/105238">Gene variant may depress IQ of males</a>.</p><p class="break">Another reason why not to buy original cds: <a onclick="_gaq.push(['_trackPageview', '/extlink/www.boingboing.net/2005/12/06/warner_music_attacks.html']);"  href="http://www.boingboing.net/2005/12/06/warner_music_attacks.html">Warner Music attacks specialized web-browser</a>.</p><p class="break">The next garphics card that I&#8217;ll upgrade to if I want to spend any more money: <a onclick="_gaq.push(['_trackPageview', '/extlink/216.147.36.17/livestore/product_info.php?cPath=51_59&amp;amp;products_id=1926&amp;amp;osCsid=ec3ffe39f54e79e3c079ad8a3818e9c7']);"  href="http://216.147.36.17/livestore/product_info.php?cPath=51_59&amp;products_id=1926&amp;osCsid=ec3ffe39f54e79e3c079ad8a3818e9c7">GeForce 6600GT 128MB DDR3 2.2ns AGP 128bit</a>.</p></p>

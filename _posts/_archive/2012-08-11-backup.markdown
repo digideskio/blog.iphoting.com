@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Backup"
+date: 2012-08-11 14:28
+comments: true
+external-url: http://shawnblanc.net/2012/08/backup-2/
+categories: 
+- computers
+- technology
+- backups
+---
+[Shawn Blanc][source]:
+
+> It’s unfortunate that many people don’t think about backing up their data until it’s too late. I can’t imagine how devastating it would be to lose weeks, months, or years worth of family photos, important documents, project folders, and more.
+
+Especially, in [the case of Mat Honan][mat], he lost everything just because he didn't make usable backups (security issues are a topic of discussion for another day).
+
+In Shawn's post, he talks about how to go about creating a good backup system, and must consist of the following:
+
+- Local
+- Off-site
+- Automated
+
+This provides the necessary redundancy and convenience for the unfortunate eventuality.
+
+If you're still hesitating, go read the article and get working on creating backups.
+
+Ultimately, we all should have a system like his:
+
+> For $10 month and very little energy I have a system that backs up my data redundantly, securely, and thoroughly. And I don’t have to initiate anything to make it happen.
+
+Realistically, only 10% of computer users have such a system; don't be the 90%. It's really simple to get going, just read his post.
+
+[source]: http://shawnblanc.net/2012/08/backup-2/
+[mat]: http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/

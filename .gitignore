@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.gist-cache
+.ink-cache
+.code-highlighter-cache
+_deploy.yml

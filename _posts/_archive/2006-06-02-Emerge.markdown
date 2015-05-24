@@ -1,0 +1,20 @@
+--- 
+permalink: /blog/archives/324-Emerge.html
+layout: post
+title: Emerge
+date: 2006-06-02 17:18:40 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/324-Emerge.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>The Emerge conference is wonderful.</p>
+</p><p class="whiteline"><p>Anyway, I&#8217;m glad that a new version of Thunderbird is finally released, as a universal binary, allowing me to ditch Mail.app completely, as Mail.app&#8217;s IMAP implementation is buggy and slow.</p>
+</p><p class="whiteline"><p>Another thing, I&#8217;ve noticed that most PC wide-screen laptops do not know how to adequately compensate for reduced screen area when plugged into a projector, resulting in clipped presentation slides.</p>
+</p><p class="whiteline"><p>Xeno boy made a very nice <a onclick="_gaq.push(['_trackPageview', '/extlink/xenoboysg.blogspot.com/2006/06/when-minister-laughs.html']);"  href="http://xenoboysg.blogspot.com/2006/06/when-minister-laughs.html">commentary</a> on what persistently non-political podcasts mean.</p>
+</p><p class="whiteline"><p>This <a onclick="_gaq.push(['_trackPageview', '/extlink/youtube.com/watch?v=Gulv_bvZS94']);"  href="http://youtube.com/watch?v=Gulv_bvZS94">youtube video on R/C flight</a> is quite amazing.</p>
+</p><p class="whiteline"><p>Now, with a poetry book in hand, I&#8217;ve finally something to do that would in the very least, improve my poetry skills.</p>
+</p><p class="whiteline"><p>A day ago, I was chatting with my friends over pepper lunch and learnt quite a lot of outsider information. One of them is that there are people in this world who are so passionate that they are willing to donate a month of their pay to the cash-strapped establishment. I&#8217;m quite impressed by the methods used by the management to get their workers to comply. I&#8217;m not sure how true this is.</p>
+</p><p class="break"><p>I need more time.</p></p>

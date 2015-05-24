@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/181-More.html
+layout: post
+title: More?
+date: 2005-11-14 11:48:37 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/181-More.html
+categories: 
+- school
+- thoughts
+---
+<p class="break"><p>A. Maths Paper 1 tomorow. Let&#8217;s see what UCLES and/or MoE can come up with to trick us.</p></p>

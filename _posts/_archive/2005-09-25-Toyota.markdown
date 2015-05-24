@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/146-Toyota.html
+layout: post
+title: Toyota
+date: 2005-09-25 22:03:33 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/146-Toyota.html
+categories: 
+- thoughts
+---
+<p class="whiteline"><p>Cheap Toyota cars have weak security as one can shut off a triggered alarm within the car itself. So, where&#8217;s the security? It&#8217;s like putting your door keys under your mat.</p>
+</p><p class="break"><p>Maybe it&#8217;s just Toyota Corolla models. Cheap I guess.</p></p>

@@ -1,0 +1,20 @@
+--- 
+permalink: /blog/archives/199-Know.html
+layout: post
+title: Know?
+date: 2005-12-09 01:59:30 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/199-Know.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>I didn&#8217;t do much today... To think that I&#8217;ve wasted a day away was shocking. Upgrading MySQL and PHP took a morning. Slept in the afternoon and surfed the web at night. Really bad use of time. Looks like I&#8217;ve got to start coding stuff or go shopping.</p>
+</p><p class="whiteline"><p>The <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Epistemology']);"  href="http://en.wikipedia.org/wiki/Epistemology">Epistemology</a> section of Wikipedia is quite interesting. The flowy (is there such a word?) language is a breeze to read. Makes me wonder who writes all these stuff. I somehow feel that life&#8217;s too short to be thinking over questions related to epistemology. Getting it proved would take too long anyway; possibily longer than your lifetime. The most important thing that I see (currently) is that I doubt if understanding knowledge would affect the way you live. Especially when the duration of the difference is rather short to be widely noticed by people who don&#8217;t care.</p>
+</p><p class="whiteline"><p>It&#8217;s like asking &#8220;Do we exist?&#8221;. What if I say no? Would you just fall down and die (I hope not!)? So what if I say yes? You would be happy forever? But who am I to say yes or no, if it&#8217;s even a yes and no question? Thus, is there even a point in asking that question (other than proving that you&#8217;ve asked the question and the person questioned doesn&#8217;t have a perfect answer)?</p>
+</p><p class="whiteline"><p>The irony I see is that most far-sighted views are rarely adopted or comprehended as those that matter won&#8217;t understand nor see it (tyranny of the masses). Now, what&#8217;s foresight? Prudence. &#8216;Wisdom in handling practical matters; exercising good judgment or common sense&#8217;. Common sense is a paradox in itself. How funny.</p>
+</p><p class="whiteline"><p>It&#8217;s like, what if 1 + 1 is not equal to 2? Does 1 + 2 not make it 3 as such, or 1 + 1 + 1 for that matter?</p>
+</p><p class="whiteline"><p>I find joy in chatting with adults (assuming no language barrier exists). The wealth of experience and (occassionally) knowledge, where it cannot be found elsewhere, amazes and enraptures my insides; yet such opportunities don&#8217;t visit too often.</p>
+</p><p class="whiteline"><p>Still, the cooperation of human nature is worthy; <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/']);"  href="http://en.wikipedia.org/">Wikipedia</a>, a testimony.</p>
+</p><p class="whiteline"><p>Do you get annoyed by people who call you on your phone at 2.30am in the morning?</p>
+</p><p class="break"><p>3d2n LanParty awaits. I hope I don&#8217;t resort to Coffee although it tastes beautiful.</p></p>

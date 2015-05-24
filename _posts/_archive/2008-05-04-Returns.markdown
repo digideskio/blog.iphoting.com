@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/674-Returns.html
+layout: post
+title: Returns
+date: 2008-05-04 20:12:35 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/674-Returns.html
+categories: 
+- life
+---
+<p class="whiteline"><p>A few posts back, I mentioned about putting an amount of money into a Chinese Yuan account to capitalise on the capital gains thanks to an appreciating Chinese currency and a devaluating US dollar. I made a quick and rough calculation on the returns and found that in one and a half months, I managed to gain a 1.8% return on my savings, way higher than any interest rate anywhere (but still far from the inflation rate). That&#8217;s roughly HK$100 (S$18) a month.</p>
+</p><p class="break"><p>I have to admit that the gains are pretty low, but given the amount of risk it involves, the figures look pretty promising without any work at all.</p></p>

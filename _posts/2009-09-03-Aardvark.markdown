@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/763-Aardvark.html
+layout: post
+title: Aardvark
+date: 2009-09-03 23:59:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/763-Aardvark.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>There&#8217;s this new social service concept that is quite interesting and it&#8217;s known as <a onclick="_gaq.push(['_trackPageview', '/extlink/vark.com']);"  href="http://vark.com">Aardvark</a>. It is basically a question to answer matchmaker. You ask Aardvark a question and it sends your question to people within your social network (facebook, etc) that are on Aardvark. The people your question gets to has matching interests with your question, allowing the answers to your questions more focused and appropriate.</p>
+</p><p class="break"><p>Schematically:-</p><p class="whiteline"><a onclick="_gaq.push(['_trackPageview', '/extlink/vark.com']);"  href="http://vark.com"><!-- s9ymdb:97 --><img class="serendipity_image_center" width="600" height="241" src="http://static-s3.iphoting.com/blog/uploads/Aardvark.png" alt="" /></a></p>
+</p><p class="break"><p>I think this service has great potential and utility. Check it out!</p></p>

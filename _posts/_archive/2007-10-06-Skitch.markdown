@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/622-Skitch.html
+layout: post
+title: Skitch
+date: 2007-10-06 11:05:38 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/622-Skitch.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="break"><p>Yesterday, I got allowed to try out this cool and revolutionary piece of software, <a onclick="_gaq.push(['_trackPageview', '/extlink/plasq.com/skitch']);"  href="http://plasq.com/skitch">Skitch</a>. The following is a demonstration on what it can do in under 2 minutes, with integrated uploading and posting, epitome of the ease of use.</p><p class="whiteline"><img src="http://iphoting.iphoting.com/upload/mySkitch-20071006-111013.jpg" alt="" /></p>
+</p><p class="break"><p>As for the interesting picture I&#8217;d posted yesterday, I&#8217;m extremely glad that someone in the comments managed to understand how the picture works. Here it is again for a recap.</p><p class="break"><!-- s9ymdb:76 --><img width='300' height='400' src="http://static-s3.iphoting.com/blog/uploads/Life/optical-mind.gif" alt="" /></p><p class="whiteline">What I didn&#8217;t post is the preamble that comes with this image and I shall post it now.</p>
+</p><blockquote><p class="whiteline">&#8220;If you see the woman turning in clockwise, it means that the side works more is the right of the brain. If, however, you see it to turn in counter-clockwise direction, the left side of brain is used more&#8221;.
+</p><p class="break">To see the image turning in the counter-clockwise direction, formulate mentally mathematical questions. To see the image turning in the clockwise direction, think about works of art or simply music. Sometimes you get to see the direction change when you increase the activity of the right or left side of brain, or vice-versa.</p></blockquote><p>
+</p><p class="whiteline"><p>Translated from Portuguese, so pardon the grammar.</p>
+</p><p class="break"><p>Happy thinking. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/wink.png" alt=";-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></p>

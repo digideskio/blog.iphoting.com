@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/474-Baggy.html
+layout: post
+title: Baggy
+date: 2007-02-11 21:00:25 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/474-Baggy.html
+categories: 
+- thoughts
+---
+<p class="whiteline"><p>Today, Church gave out <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Cif']);"  href="http://en.wikipedia.org/wiki/Cif">Cif</a> and sponge to all attendees as a pre Chinese New Year gift. I thought that was a marvellous idea, giving out something which is needed and used by almost everyone at the right time. It&#8217;s a great alternative to empty red packets which everyone seem to be giving out now.</p>
+</p><p class="break"><p>I need some cool entertainment, like Maritime Simulator or something.</p></p>

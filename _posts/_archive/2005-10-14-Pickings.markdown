@@ -1,0 +1,22 @@
+--- 
+permalink: /blog/archives/161-Pickings.html
+layout: post
+title: Pickings
+date: 2005-10-14 14:39:59 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/161-Pickings.html
+categories: 
+- life
+- school
+- thoughts
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Hmm.. In this short morning, here are the websites which I&#8217;ve came across and might be of interest to you.</p>
+</p><p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/www.amasci.com/miscon/miscon.html']);"  href="http://www.amasci.com/miscon/miscon.html">Errors and science myths in K-6 Science Textbooks</a></p><p class="whiteline">It talks about how what we&#8217;re taught are really not science but lies.</p>
+</p><p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/www.roundcube.net/']);"  href="http://www.roundcube.net/">RoundCubeMail</a></p><p class="whiteline">A beautiful alpha but good quality webmail client based on AJAX.</p>
+</p><p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/msnbc.msn.com/id/9670156/']);"  href="http://msnbc.msn.com/id/9670156/">US envoy slaps Singapore over freedom of speech</a></p><p class="whiteline">From MSNBC.com, don&#8217;t bother digging in Straits Times. They&#8217;re not known to produce good and reliable news most of the time.</p>
+</p><p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/amasci.com/amateur/coilgen.html']);"  href="http://amasci.com/amateur/coilgen.html">Ultra-simple Electric Generator</a></p><p class="whiteline">A good tutorial on how exactly to make a realistic AC Generator. The textbooks are for drawings, not real-life usage.</p>
+</p><p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/www.todayonline.com/articles/77998.asp']);"  href="http://www.todayonline.com/articles/77998.asp">HK Reporters Protest over China&#8217;s Actions</a></p><p class="whiteline">Speaks a lot about (PR)China right?</p>
+</p><p class="whiteline"><p>Oh well, hope <a onclick="_gaq.push(['_trackPageview', '/extlink/www.vjc.moe.edu.sg/']);"  href="http://www.vjc.moe.edu.sg/">VJC</a>&#8217;s open house tomorrow would be a good use of my Saturday morning.</p>
+</p><p class="break"><p>One more thing, I believe that the <i>unannounced</i> deadline for the ACSi IBDP application is tomorrow. I&#8217;ve only found out about it when I dug out the well hidden IBDP application form from the ugly and <i>well</i> defaced website. Looks like I&#8217;m not going to submit my application; with one less applicant to consider, it&#8217;ll save them/me time and money. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/laugh.png" alt=":-D" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></p>

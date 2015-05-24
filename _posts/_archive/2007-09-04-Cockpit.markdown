@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/605-Cockpit.html
+layout: post
+title: Cockpit
+date: 2007-09-04 20:56:37 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/605-Cockpit.html
+categories: 
+- school
+- thoughts
+---
+<p class="whiteline"><p>Couple of days ago, I witnessed my teacher laboriously enter trivial &#8216;achievements&#8217; into the MoE&#8217;s School Cockpit system. From what I&#8217;d gathered, one needs to tediously connect via VPN and access this particular web-based administrative panel. The most amusing thing is that this system has no functionality to allow mass data import via CSV or XML. A user has to click on buttons on a webpage manually and enter data into the webforms via the keyboard. The most frustrating thing is that each database related operation requires a wait of over a minute.</p>
+</p><p class="whiteline"><p>Such waits in this 21st Century is unbelievable. We suspect that every modification is held and sent over to the ministar&#8217;s computer for live approval. I&#8217;m guessing that with 20,000 over popups on his desktop, the ministar has difficulty clicking allow while editing his speech about &#8216;Thinking Schools, Thinking Nation&#8217; scam.</p>
+</p><p class="whiteline"><p>In most businesses, such menial work is usually handed to unqualified work-interns or part-timers waiting for university terms to commence. It&#8217;s quite amazing that the service treats the teachers in such light.</p>
+</p><p class="whiteline"><p>If I had to do this annually for 25 or more students, each have a few &#8216;achievement&#8217; entries, I&#8217;ll be sure to code up some interface interaction bot to automate this process for me, especially when a button click requires close to 2 minutes for a response. If people can create such bots to train their WoW characters for sale, I don&#8217;t see the difficulty in filling up repetitive and generic forms, albeit very slowly but automated. Then, I&#8217;ll convert all the hand-written inputs into a neat CSV file and pipe it into this bot automator.</p>
+</p><p class="whiteline"><p>The initial coding might be as tedious as the input itself but it surely enjoyable if one can skip all these clicking every year henceforth. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="break"><p>From the <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Information_systems']);"  href="http://en.wikipedia.org/wiki/Information_systems">Information Systems</a> point of view, this certainly isn&#8217;t optimisation. It&#8217;s more like regression.</p></p>

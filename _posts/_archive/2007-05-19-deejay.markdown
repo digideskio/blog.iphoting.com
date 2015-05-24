@@ -1,0 +1,19 @@
+--- 
+permalink: /blog/archives/548-deejay.html
+layout: post
+title: deejay
+date: 2007-05-19 10:14:37 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/548-deejay.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>There&#8217;s this very fascinating and fun little application for the Mac platform, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.algoriddim.net/']);"  href="http://www.algoriddim.net/">djay</a>, which allows &#8220;you [to] control and mix your whole digital music collection with two realistic virtual, interactive turntables and both record and transmit the audio in real-time over the Bonjour network to other connected djays&#8221;.</p>
+</p><p class="whiteline"><p>Headphones or sound generating devices for ears, not for the hearing impaired, has suddenly surfaced in large amounts since the rise of the <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/itunes/']);"  href="http://www.apple.com/itunes/">Apple</a> <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Ipod']);"  href="http://en.wikipedia.org/wiki/Ipod">iPod</a> music device. 5 years ago, iPods were a rare sight, so were earphones. But to those who owned such devices, we stuck to a code of conduct with earphones, as a manner of courtesy to others around us, also known as etiquette.</p>
+</p><p class="whiteline"><p>At first, it started off with the <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Walkman']);"  href="http://en.wikipedia.org/wiki/Walkman">Sony Walkman</a>, which changed the perception of radios, once thought to be for-your-tables only. It made listening to wireless music possible, without the need to lug the heavy machines around. However, due to the limited nature of radio waves and that the Walkman did not reach an iconic status compared to that of the iPod, and earphones then were a selective sight.</p>
+</p><p class="whiteline"><p>Then, the white earphones came. I repeat, <em>white</em> earphones. For a moment, people started noticing, &#8220;Hey, what&#8217;s with those white earbuds? They look <em>cool</em>&#8221;. That, with Apple&#8217;s legendary ease of use and the intensive marketing machine brought music listening with earphones to a new height.</p>
+</p><p class="whiteline"><p>The once exclusive and obscure device, earphones, suddenly become accepted as a fashion statement.</p>
+</p><p class="whiteline"><p>However, the etiquette of earphone usage did not follow as closely, leading to extremely rude behaviour by people who have no idea of what they had done.</p>
+</p><p class="whiteline"><p>Back then, there were two basic rules. First, either remove your earphones completely or leaving <em>both</em> in your ear when communicating with people. Having one side plugged in and another dangling is extremely rude as it is a signal that &#8216;my music is more important than you&#8217;.</p>
+</p><p class="whiteline"><p>Second, do not listen to music using earphones when around a group of people, whether with acquaintances or close-friends, or even with potential acquaintances. It should be fine with strangers if you do not plan to have any form of contact (verbal or otherwise) with them. Listening to music using earphones can also be used as a sign to say, &#8220;I don&#8217;t want much verbal contact with you&#8221;, or &#8220;I&#8217;m just posing&#8221;.</p>
+</p><p class="break"><p>Subsequently, with earphones slowly becoming mainstream, I wonder if the above ill-mentioned conventions are still in effect.</p></p>

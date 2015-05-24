@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/182-T-Three.html
+layout: post
+title: T - Three
+date: 2005-11-15 19:24:44 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/182-T-Three.html
+categories: 
+- school
+- thoughts
+---
+<p class="whiteline"><p>Today&#8217;s A. Maths Paper 1 was relatively easy. However, sadly, I&#8217;d tripped and fell over a simple trigonometric question.</p>
+</p><p class="whiteline"><p>3cos(x) = 8tan(x)</p>
+</p><p class="whiteline"><p>There goes approxmately 5 marks.</p>
+</p><p class="whiteline"><p>As for the rest, it went well. Haven&#8217;t seen any other question which requires thinking. I think an A1 is possible if my paper 2 is attempted as well as this.</p>
+</p><p class="whiteline"><p>On my way home today, I saw a lady fully dressed in yellow, with a red plastic bag on her head, singing <i>loudly</i> for the (non)delight of the passengers within the carriage. I didn&#8217;t take a picture of her as I didn&#8217;t want to attract her attention, her (free) opera services was not needed. My music from my iPod is sufficient for my needs, thankyouverymuch.</p>
+</p><p class="whiteline"><p>Geography Paper 1 and Physics tomorrow, with 4 plus hours in between.</p>
+</p><p class="break"><p>A few links that I found interesting, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.hojohnlee.com/weblog/archives/2005/11/13/camping-out-at-singapore-changi-airport/']);"  href="http://www.hojohnlee.com/weblog/archives/2005/11/13/camping-out-at-singapore-changi-airport/">A traveller&#8217;s account of Singapore Changi Airport</a> and <a onclick="_gaq.push(['_trackPageview', '/extlink/www.mrbrown.com/blog/2005/11/a_little_known_.html']);"  href="http://www.mrbrown.com/blog/2005/11/a_little_known_.html">The little known role of unions (in Singapore)</a>.</p></p>

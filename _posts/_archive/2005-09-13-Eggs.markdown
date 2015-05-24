@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/139-Eggs.html
+layout: post
+title: Eggs
+date: 2005-09-13 14:22:51 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/139-Eggs.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Hmm... Today&#8217;s E Maths Paper 2 was much much easier than I&#8217;d expected. I expect an A1.</p>
+</p><p class="break"><p>Oh and <a onclick="_gaq.push(['_trackPageview', '/extlink/www.channelnewsasia.com/stories/singaporelocalnews/view/167812/1/.html']);"  href="http://www.channelnewsasia.com/stories/singaporelocalnews/view/167812/1/.html">news</a> on Singaporean &#8220;Bloggers&#8221; being charged under the <a onclick="_gaq.push(['_trackPageview', '/extlink/statutes.agc.gov.sg/non_version/cgi-bin/cgi_getdata.pl?&amp;amp;actno=1964-REVED-290&amp;amp;date=latest&amp;amp;method=whole']);"  href="http://statutes.agc.gov.sg/non_version/cgi-bin/cgi_getdata.pl?&amp;actno=1964-REVED-290&amp;date=latest&amp;method=whole">Sedition Act</a> has been made international and <a onclick="_gaq.push(['_trackPageview', '/extlink/yro.slashdot.org/yro/05/09/12/1515233.shtml?tid=95&amp;amp;tid=17']);"  href="http://yro.slashdot.org/yro/05/09/12/1515233.shtml?tid=95&amp;tid=17">on</a> <a onclick="_gaq.push(['_trackPageview', '/extlink/slashdot.org/']);"  href="http://slashdot.org/">Slashdot</a>. Well done, Singapore! A great way to be known to the world.</p></p>

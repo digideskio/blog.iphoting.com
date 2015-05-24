@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/15-SingNet.html
+layout: post
+title: SingNet
+date: 2005-01-22 09:04:04 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/15-SingNet.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>&#8220;An upgrade to 512kbps would cost you a monthly $52.50 as you are not a new customer&#8221;</p>
+</p><p class="break"><p>Ok. Fine. I shall no longer recontract with SingNet.</p></p>

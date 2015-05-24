@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/634-Catalyst.html
+layout: post
+title: Catalyst
+date: 2007-10-20 00:40:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/634-Catalyst.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>Some time back, I chanced upon <a onclick="_gaq.push(['_trackPageview', '/extlink/srslycool.com/12.aspx']);"  href="http://srslycool.com/12.aspx">this page</a> which depicted pictures which affected the world in some way. Of the lot, there is one image that stands out particularly to me and I shall reproduce it below, sourced from Wikipedia.</p><p class="break"><a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989']);"  href="http://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989"><!-- s9ymdb:78 --><img width='600' height='408' src="http://static-s3.iphoting.com/blog/uploads/Tankman.jpg" alt="" /></a></p><p class="whiteline">The <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Tank_man']);"  href="http://en.wikipedia.org/wiki/Tank_man">Tank Man</a> scene from <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989']);"  href="http://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989">The Tiananmen Square Protests of 1989</a>, with a related documentary, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.pbs.org/wgbh/pages/frontline/tankman/']);"  href="http://www.pbs.org/wgbh/pages/frontline/tankman/">Tank Man</a> by PBS.</p>
+</p><p class="break"><p>Really thought provoking. I&#8217;ll write something about this soon.</p></p>

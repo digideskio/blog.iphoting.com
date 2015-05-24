@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/256-Passt.html
+layout: post
+title: Passt
+date: 2006-02-15 09:42:42 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/256-Passt.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>I&#8217;ve found this cool thingy, <a onclick="_gaq.push(['_trackPageview', '/extlink/passwordmaker.org']);"  href="http://passwordmaker.org">Password Maker</a>. Yes, it generates passwords, but in a way that good enough for use. Do check it out if you have identical passwords for all your sites or that you tend to use the &#8216;forget password&#8217; link more often than the logout button.</p>
+</p><p class="whiteline"><p>Meanwhile, the $999 Acer laptop is a very good deal, considering the stuff that&#8217;s in it. Sadly, I&#8217;m out of cash currently to take advantage of this wonderful offer. Hmm... Maybe I should visit Courts or something to see if they have 0% interest installment plans available.</p>
+</p><p class="break"><p>A nice school holiday today for me to continue clearing my homework, generating file contents and conjure practical lab reports, and to catch up with some much needed sleep. Oh, and also to &#8216;prepare&#8217; for the magnitude of tests coming ahead.</p></p>

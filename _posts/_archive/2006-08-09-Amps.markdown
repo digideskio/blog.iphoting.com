@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/368-Amps.html
+layout: post
+title: Amps
+date: 2006-08-09 16:38:39 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/368-Amps.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Walked around major sport shops but I didn&#8217;t manage to locate a pair of track shoes which look good and feel good. Nike has terrible designs in Singapore; same for the other brands. Hence, I decided not to buy any until my trip to Hong Kong. For now, I&#8217;ll just use masking tape and double-sided tape and super glue to keep the shoe soles together.</p>
+</p><p class="whiteline"><p>A couple days ago, I chatted with someone from Lasalle-SIA College of the Arts. Being her first year there, she was recounting her &#8216;cultural shocks&#8217; upon entry to the school. From fashionable dressings to rampant body piercings, and very weird people. It&#8217;s something different and unique. Somehow, the conversation turned to gays in the school. &#8220;They are very nice people and their fashion sense is <em>very good</em>, as good as or better than us girls too&#8221;. They make good fashion consultants. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="whiteline"><p>Walking past guitar shops, they got me thinking. Are amplifiers really necessary? I agree that good hardware is crucial for good sound, i.e. electric guitars and speaker systems, but sound producers via good speaker systems used on computers are as good for guitar amplification, aren&#8217;t they? After all, you can plug the electric guitar straight to the computer for any form of amplification, distortion or effects. Chain the output from the computer into the home theatre system and done. I&#8217;m sure the sound reproduction would be much better than what most budget amplifiers can achieve, at a fraction of the price and better economies of scale.</p>
+</p><p class="whiteline"><p>There&#8217;s another thing that PC laptops are very bad at – sound recording. Plugging in any form of line-in into a PC laptop will result in a power hum. The only solution is to use a Mac. Yes, so far I haven&#8217;t met a PC laptop which doesn&#8217;t buzz when recording.</p>
+</p><p class="break"><p>Got myself Don Moen&#8217;s latest album &#8216;Hiding Place&#8217; and CCC&#8217;s &#8216;Great is Our God&#8217;. They are nice.</p></p>

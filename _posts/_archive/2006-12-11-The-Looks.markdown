@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/433-The-Looks.html
+layout: post
+title: The Looks
+date: 2006-12-11 14:30:54 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/433-The-Looks.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>This nvidia Geforce 7600GS (AGP) that I bought (through a proxy) is rather impressive for its class, netting me <a onclick="_gaq.push(['_trackPageview', '/extlink/service.futuremark.com/compare?3dm05=2408942']);"  href="http://service.futuremark.com/compare?3dm05=2408942">4079 3D`05 marks</a>, for such lousy system hardware. This S$210 card has a core and (GDDR3) memory clock of 500MHz, effective clock of 1GHz, with 12 pixel pipelines. Whatever all the numbers meant. S$10 more for such great out-of-the-box performance is quite a steal.</p>
+</p><p class="break"><p>On the other hand, my <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/macbook/macbook.html']);"  href="http://www.apple.com/macbook/macbook.html">Macbook</a> replacement is finally here. Haha, new machine, new battery, basically new everything. The downside of course would be migrating the 60 over gigabytes of data over in an elegant way.</p></p>

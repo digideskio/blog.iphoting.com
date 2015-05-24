@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/185-Post.html
+layout: post
+title: Post
+date: 2005-11-22 11:13:50 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/185-Post.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>Yesterday was a long day.</p>
+</p><p class="whiteline"><p>After lunch at Ajisen Ramen, I received an sms from greg telling me to go to sls immediately as he&#8217;s there. Ok. Fine. I told him I&#8217;ll be there in an hour&#8217;s time as I was at Tampines Mall then.</p>
+</p><p class="whiteline"><p>So, half-way through the journey on the train, he sms and said, &#8220;I&#8217;ll buy comp another day lah. I got to leave liao.&#8221;</p>
+</p><p class="whiteline"><p>Great! There goes my afternoon at Orchard. I don&#8217;t want to go home yet as I&#8217;ve got to rendezvous soon for some fun.</p>
+</p><p class="whiteline"><p>No choice lah. Instead of alighting at Bugis, I chose Orchard and went to Wheelock Place. At Borders, I saw a few interesting books.</p>
+</p><p class="whiteline"><p>Blink by Malcolm Gladwell was an amusing read. Didn&#8217;t buy it as I didn&#8217;t have a budget for books this month and that this book costs $47.</p>
+</p><p class="whiteline"><p>Went to PS then for a while for a quick shop, but didn&#8217;t buy anything yet as the season is not right. Then rendezvous to Paradiz. Arcade, Pool and LAN.</p>
+</p><p class="break"><p>Oh yah. I&#8217;ve also de-stuck the disclaimer post and shifted it into a static page, accessible on the right.</p></p>

@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/88-LanParty-2005.html
+layout: post
+title: LanParty 2005
+date: 2005-06-10 23:17:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/88-LanParty-2005.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>Today, LanParty 2005, jointly sponsored by vr-zone, gamesync and a(nova.com, is hosted at Chiat Hong Building.</p>
+</p><p class="whiteline"><p>Interesting activities and whatnots.</p>
+</p><p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/gallery.iphoting.com/lp05']);"  href="http://gallery.iphoting.com/lp05">Pictures avaliable</a>.</p></p>

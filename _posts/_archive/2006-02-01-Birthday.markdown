@@ -1,0 +1,19 @@
+--- 
+permalink: /blog/archives/246-Birthday.html
+layout: post
+title: Birthday
+date: 2006-02-01 23:18:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/246-Birthday.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>To all those who&#8217;ve wished me a Happy Birthday, thank you!</p>
+</p><p class="whiteline"><p>Now that I&#8217;m one year closer to death, it does make me reflect further on the true purposes of celebrating birthdays. Well, I think there are 2 sides to a &#8216;birthday&#8217;. Firstly, a celebration of past successes, achievements and the fact that one has lived to <i>n</i> number of years. Secondly, the enjoyment and &#8216;illusion&#8217; of an occasion; think about the New Year celebrations, not the lunar one but the calendar one. Parties of people celebrating over a rotation of the Earth. Doesn&#8217;t it really warrent such a celebration? Maybe. Or maybe, &#8216;celebrating&#8217; the new year is just a façade for something else.</p>
+</p><p class="whiteline"><p>Then, I wouldn&#8217;t say that the new year celebration is as meaningful as a birthday one. Sometimes, it&#8217;s just great to enjoy and party over nothing; life is short anyway, not everything that&#8217;s done needs to be justified.</p>
+</p><p class="whiteline"><p>Then again, what&#8217;s wrong with celebrating anyway? Nothing.</p>
+</p><p class="whiteline"><p>Case closed.</p>
+</p><p class="whiteline"><p>Imagine the thought processes above for every exam question.</p>
+</p><p class="whiteline"><p>The school site rework is finally at <a onclick="_gaq.push(['_trackPageview', '/extlink/cst.acs.sch.edu.sg/~acs-web/acs_indep/']);"  href="http://cst.acs.sch.edu.sg/~acs-web/acs_indep/">beta2</a>, can&#8217;t wait for it to reach RC2. And CSS and legacy html with xhtml 1.0 transitional is driving me nuts and up the wall at the same time.</p>
+</p><p class="whiteline"><p>School&#8217;s on tomorrow and homework&#8217;s due. Shouldn&#8217;t be difficult to clear them, I believe. What gave me a shock was that this Sunday is the 5th of Feburary, where Delirious? would be ministering in church. I was always under the impression that it&#8217;s next week until I saw the bulletin. Great!</p>
+</p><p class="break"><p>Now with funny Maths questions to boggle my mind while I sleep.</p></p>

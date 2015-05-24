@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/533-Yack-Yack.html
+layout: post
+title: Yack Yack
+date: 2007-04-25 21:32:54 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/533-Yack-Yack.html
+categories: 
+- life
+- school
+---
+<p class="whiteline"><p>Then today, B &amp; M came to the chapter on <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Leadership']);"  href="http://en.wikipedia.org/wiki/Leadership">Leadership</a>, which I dare say that the Wikipedia page provides more information that the notes I&#8217;ve received.</p>
+</p><p class="whiteline"><p>Stereotypically, there are the following generic types of leadership: Authoritarian, Democratic, Laissez-faire, and Paternalistic. And at the end of it says, &#8220;the most successful managers are those who can adapt their style to suit different situations&#8221;.</p>
+</p><p class="whiteline"><p>That aside, I&#8217;m pissed. My Macbook&#8217;s Bluetooth module or the USB bus connected to it has died and I must bring down to the service centre as the machine is not very efficient at this state. The OS attempts to restart the USB bus every second which the bluetooth module is connected to but fails, resulting in 1.5 error messages every second, streaming into the log files. This simple loop generates approximately 10ºC of more heat too. This will kill my battery if I bring it out on the move.</p>
+</p><p class="break"><p>Annoying.</p></p>

@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/233-Duo.html
+layout: post
+title: Duo
+date: 2006-01-11 06:05:17 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/233-Duo.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>The prediction was real right and head on. Great! My patience has been rewarded. Now to wait for O level results.</p>
+</p><p class="break"><p>In case you have no idea what I mean, I&#8217;m referring to the all new Intel-powered <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/macbookpro/']);"  href="http://www.apple.com/macbookpro/">Apple Macbook Pro</a>.</p></p>

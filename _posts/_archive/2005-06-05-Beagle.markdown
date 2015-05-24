@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/83-Beagle.html
+layout: post
+title: Beagle
+date: 2005-06-05 16:33:58 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/83-Beagle.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>Ever wanted near-Spotlight (OS X) capabilities on Linux (GNOME)? Well, it&#8217;s <a onclick="_gaq.push(['_trackPageview', '/extlink/beaglewiki.org/Main_Page']);"  href="http://beaglewiki.org/Main_Page">here</a>. Gone were the days where you&#8217;ll lose file should you not arrange them neatly in the deep, maze-like and mysterious file system.</p>
+</p><p class="whiteline"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/beaglewiki.org/Main_Page']);"  href="http://beaglewiki.org/Main_Page">Beagle</a> can index a <a onclick="_gaq.push(['_trackPageview', '/extlink/beaglewiki.org/Supported_Filetypes']);"  href="http://beaglewiki.org/Supported_Filetypes">whole range of file types</a>. It&#8217;s just amazing. I can&#8217;t wait for it to be become mainstream.</p>
+</p><p class="break"><p>It&#8217;ll be every computer user&#8217;s dream.</p></p>

@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/84-Phone.html
+layout: post
+title: Phone
+date: 2005-06-06 21:37:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/84-Phone.html
+categories: 
+- life
+---
+<p class="whiteline"><p>Bought a new <a onclick="_gaq.push(['_trackPageview', '/extlink/www.sonyericsson.com/spg.jsp?cc=sg&amp;amp;lc=en&amp;amp;ver=4000&amp;amp;template=pp1_loader&amp;amp;php=php1_10139&amp;amp;zone=pp&amp;amp;lm=pp1&amp;amp;pid=10139']);"  href="http://www.sonyericsson.com/spg.jsp?cc=sg&amp;lc=en&amp;ver=4000&amp;template=pp1_loader&amp;php=php1_10139&amp;zone=pp&amp;lm=pp1&amp;pid=10139">phone</a>, mother of all phones, in terms of problems. I doubt that I am the only one or that I&#8217;m plain unlucky.</p>
+</p><p class="whiteline"><p>Went to Wisma atria to fix my new phone. I think that the customer service officer should be grateful that I didn&#8217;t pay for the phone and/or that my mother wasn&#8217;t present. If so, he&#8217;s going to regret taking up this job.</p>
+</p><p class="break"><p>So, I highlighted the issues to him:-</p><p class="break">1) the charger didn&#8217;t charge the phone.</p><p class="whiteline">2) the phone loses GSM network reception when warm. When I say no reception, I mean <em>no</em> reception.</p>
+</p><p class="whiteline"><p>He then tested my charger and found it to be defective. He offered a replacement.</p>
+</p><p class="whiteline"><p>Onto the second point, the issue didn&#8217;t appear..... Possibly due to to the rather low temperatures there. The only &#8220;solution&#8221; to the problem, was to &#8220;reload&#8221; the firmware.</p>
+</p><p class="whiteline"><p>I was told that this process will take approximately 3 plus hours, and to wait. Great! 3 precious hours gone, with no phone to communicate and in a shopping district where I didn&#8217;t plan to shop.</p>
+</p><p class="whiteline"><p>Waiting to kill 3 hours, I went over to Nee Ann City. On the way there, I so happened to &#8220;knock into&#8221; the A. Maths teacher. Ate at Yoshinoya, had to wait for &#8220;fastfood&#8221;.</p>
+</p><p class="whiteline"><p>After eating, I went to Kinokuniya to read a book on Donald Trump. Interesting read.</p>
+</p><p class="break"><p>2 hours later, I&#8217;m back to the service center and collected my phone. Apparently, there isn&#8217;t any problem.</p></p>

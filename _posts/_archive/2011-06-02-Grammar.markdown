@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/803-Grammar.html
+layout: post
+title: Grammar
+date: 2011-06-02 20:26:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/803-Grammar.html
+categories: 
+- thoughts
+- blog
+- blogging
+- grammar
+- language
+- writing
+---
+<p class="whiteline"><p>It has come to my attention that my recent hiatus from writing has caused my grammar department to suffer. To be honest, I too was surprised by the grammatical mistakes. I have never expected myself to make those elementary mistakes.</p>
+</p><p class="break"><p>I shall thus aspire to blog more frequently to keep my English in shape. Readers, please kindly point out any mistakes you see in the comments. Thanks!</p></p>

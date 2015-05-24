@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/766-Spanning-Sync.html
+layout: post
+title: Spanning Sync
+date: 2009-09-19 10:36:31 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/766-Spanning-Sync.html
+categories: 
+- computers
+- thoughts
+- Work
+---
+<p class="break"><p>I might have mentioned this before but I&#8217;ll do this again.</p><p class="whiteline"><a onclick="_gaq.push(['_trackPageview', '/extlink/spanningsync.com/?r=KQR9TP']);"  href="http://spanningsync.com/?r=KQR9TP">Spanning Sync</a> is a awesome app at its 3rd version. What this application / service does is that it seamlessly syncs between your iCal and Google Calendar; Address Book and Google / Gmail Contacts.</p>
+</p><p class="whiteline"><p>As I sync all my personal mobile devices with Sync Services on my Mac, all my contacts and calendar entries flow from my iPod and mobile phone and to my Macbook automatically and beautifully, both ways. I have lived with this setup for a long time before my switch to <a onclick="_gaq.push(['_trackPageview', '/extlink/www.google.com/a/']);"  href="http://www.google.com/a/">Google Apps</a> as I handled my mail on my own server.</p>
+</p><p class="whiteline"><p>With the dwarfing amounts of spam coming into my mailbox, to the tune of ~40 pieces a day (which works out to ~1000 pieces a month), my SpamAssassin setup was starting to fall behind. My once always clean Inbox started to fill up with false-negative spam pieces despite my dedicated training programme for the Bayes classification system. Having to spend a few minutes daily, looking at spam and repeatedly deleting rubbish is an inelegant chore; I bit the bullet and migrated over to the Google Apps hosted mail solution. Then, it was still in beta and there wasn&#8217;t a paid enterprise service yet, but the spam filtering system is top notch. Much better than Yahoo Mail and Hotmail combined. I had to admit, my SpamAssassin setup did a great job of filtering out more spam than Yahoo and Hotmail services then, but <a onclick="_gaq.push(['_trackPageview', '/extlink/www.google.com/mail/help/fightspam/spamexplained.html']);"  href="http://www.google.com/mail/help/fightspam/spamexplained.html">Gmail does spam management better</a>.</p>
+</p><p class="whiteline"><p>With the move to Google Apps, all my contacts and events are no longer integrated into Gmail / Google&#8217;s interface. There were times where I clicked on the To: link and was looking forward to selecting a recipient from my Address Book, but I was disappointed. There is no link with my Mac OS X Address Book! Apple did come up with Gmail sync with the iPod Touch but it is still flaky.</p>
+</p><p class="whiteline"><p>In comes Spanning Sync and the missing link is solved. I now have my contacts and events, <em>everywhere</em>, updated and synchronised seamlessly. What elegance!</p>
+</p><p class="whiteline"><p>I did try out Spanning Sync previously, but then, the sync was flaky and duplicate entries in Google Calendar were quite common. 2 versions later, the algorithms became way more matured and I can trust it to do its job, with my hands off.</p>
+</p><p class="break"><p>So, they&#8217;re currently running a promotion, giving out $5 promo codes and a $5 referral bonus. If by any case you do intend to get a subscription or a life-long license, use <a onclick="_gaq.push(['_trackPageview', '/extlink/spanningsync.com/?r=KQR9TP']);"  href="http://spanningsync.com/?r=KQR9TP">this link to save $5</a> or this promo code, KQR9TP, to be entered upon checkout. After which, for every friend you refer, you&#8217;ll get to save $5 also.</p><p class="break"><em>Full disclosure: I paid for a 1 year subscription to this service.</em></p></p>

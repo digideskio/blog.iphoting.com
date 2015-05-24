@@ -1,0 +1,39 @@
+--- 
+permalink: /blog/archives/808-WWDC-2011-Part-2.html
+layout: post
+title: WWDC 2011 (Part 2)
+date: 2011-06-08 12:33:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/808-WWDC-2011-Part-2.html
+categories: 
+- computers
+- thoughts
+---
+<p>In this second post, I shall share some of my thought on iOS 5 that was announced in WWDC 2011.</p>
+
+<h3>iOS 5</h3>
+
+<p>With the launch of iOS 5, I can consider iOS to be a fully matured mobile OS platform with little missing usability-related features. Out of the 10 mentioned, there are 3 features that I find very significant.</p>
+
+<h4>Notifications</h4>
+
+<p>Yes, we&#8217;ve all heard it. Delivered late and copied. Most importantly, Apple is not famous for being the first (maybe even for the iPad), they are famous for copying, improvising, and perfecting ideas already out in the market. Chances are, Apple&#8217;s implementation is top-notch. It is a shame and disgrace that there are companies that imitate but end up with a half-past-six implementation.</p>
+
+<p>It is also good to know that Apple does look around the market for ideas and solutions to problems apart from developing on them in isolation. I believe that much of Apple&#8217;s official solutions are inspired by the work of the JailBreaking community.</p>
+
+<p>I remember that in the days before the iOS SDK was released, jail breakers have found a way to get apps onto the OS. They created their own App Store (named Installer). The app installation UX looked very similar to what we are all used to today.</p>
+
+<h4>News Stand</h4>
+
+<p>I like their system-wide solution to managing auto-delivery of reading materials, somewhat like the Kindle, without the costs associated. This sets the stage where I can already foresee a future where all our newspapers and magazines are delivered to our iPads, rather than our doorsteps.</p>
+
+<h4>iMessage</h4>
+
+<p>Taking a page out of RIM&#8217;s (the maker of BlackBerry) book, iMessage is Apple&#8217;s answer to RIM&#8217;s BBM. BB&#8217;s initial attraction was its BBM service which allowed inter-device multimedia communication, free-of-charge. What better time than now is it to tap capture RIM&#8217;s dwindling market-share for its BBs?</p>
+
+<p>While it may be true that it will only work with iOS devices, we should also not underestimate the install-base and its potential for growth. Given that iMessage is integrated with and supersedes the SMS Messages app, communicating between iOS devices (for free) will be frictionless, while non-iOS recipients will receive (chargeable) SMSes, seamlessly. There will be very little reason why iOS users will not choose to communicate via Apple&#8217;s iMessage service.</p>
+
+<p>Yes, Whatsapp does the same thing and its cross-platform, but their server availability is flaky at best. Thus far, I have yet to experience an outage of Apple&#8217;s push notifications service, ever since it was launched. I can&#8217;t say the same for Whatsapp. At the rate this goes, Whatsapp will be the messaging platform for non-iOS devices.</p>
+
+<p>With iMessage and the soon-to-be-3G-enabled FaceTime, we can see Apple relegating mobile service providers (carriers) to just an &#8220;ISP&#8221;, putting them back in their rightful place for retarding mobile innovation for a good decade. For all you know, these mobile carriers may just have to offer data plans by default with a mobile minutes and text options as &#8220;value-added services&#8221;.</p>
+
+<p>That concludes my remarks on iOS 5. Thoughts or comments? Let me know in the commenting section below.</p>

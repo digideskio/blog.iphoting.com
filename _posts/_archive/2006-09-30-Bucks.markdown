@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/400-Bucks.html
+layout: post
+title: Bucks
+date: 2006-09-30 22:55:31 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/400-Bucks.html
+categories: 
+- school
+- thoughts
+---
+<p class="whiteline"><p>I saw teachers using this application called &#8216;IB Questionbank&#8217; which, I think is quite cool. I think it&#8217;ll be nicer and more environmentally friendly for the school to distribute this piece of software than to print miles thick of FYS for students. Or better, allow students to choose, like the way they handle phonebook collection these days.</p>
+</p><p class="break"><p>There&#8217;s this amusing element, <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Administratium']);"  href="http://en.wikipedia.org/wiki/Administratium">Administratium</a>, that someone introduced me to. That, you might <em>not</em> want to get yourself associated with.</p></p>

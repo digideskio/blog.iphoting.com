@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/475-Captive.html
+layout: post
+title: Captive
+date: 2007-02-12 00:16:01 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/475-Captive.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>Opt1m4l pointed me to this cool Wifi community called <a onclick="_gaq.push(['_trackPageview', '/extlink/en.fon.com/']);"  href="http://en.fon.com/">Fon</a>. Its community router, available <a onclick="_gaq.push(['_trackPageview', '/extlink/www.fon.com/1yearold/']);"  href="http://www.fon.com/1yearold/">free</a>, has a real dream like captive portal that I&#8217;ve always wanted to create.</p>
+</p><p class="whiteline"><p>So, go grab a La Fonera router for free and start expanding the community. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="break"><p>Oh yah, also, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.vpost.com.sg/']);"  href="http://www.vpost.com.sg/">vpost</a> has this cool service which provides you with a USA mailing address where they will in turn ship what they&#8217;ve received to you. Think of it as a reverse-proxy for snail mail delivery.</p></p>

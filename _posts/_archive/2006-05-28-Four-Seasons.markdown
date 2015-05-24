@@ -1,0 +1,23 @@
+--- 
+permalink: /blog/archives/322-Four-Seasons.html
+layout: post
+title: Four Seasons
+date: 2006-05-28 23:38:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/322-Four-Seasons.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>The morning was filled with a blast of rain while I was at Singapore Expo. Nothing of much speculation happened until that evening when my family and I went to Genki Sushi for some dinner.</p>
+</p><p class="whiteline"><p>First of, we started eating some plates of food delivered via the conveyor belt but before long, the thought that the food variety is <em>lacking</em> starts to sink in. We poured through the various sets of menus to find if there&#8217;s anything worth ordering. It makes me wonder why they can&#8217;t consolidate non-dynamic items of food into one coherent menu, making it easy for us poor mortals who can&#8217;t keep track of multiple menus at once, to order food.</p>
+</p><p class="whiteline"><p>The waiter was sent for and he did come, albeit without the ordering PDA nor any slips of paper to take down orders. So, I stared at him for a moment, hoping that he&#8217;d understand that I&#8217;m trying to make an order. What&#8217;s hilarious was that he told me to begin dictating my orders. Wow. Maybe his memory is just as good or better than most coffee shop <em>aunties</em>? Off I went naming the orders. It was amusing to see that he is not capable of keeping tracking of them and hence, dashes off to grab bits and pieces of paper from the receipt printer at the corner of the room, and promptly came back to request that I repeat myself. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/tongue.png" alt=":-P" style="display: inline; vertical-align: bottom;" class="emoticon" /> After that, it became uneventful until the very end.</p>
+</p><p class="whiteline"><p>Before the bill arrived, we usually do a simple finger counting exercise to see what the bill would amount to. This practice has multiple benefits. Firstly, it helps improve or retain counting skills given the rampant usage of calculators these years. Secondly, it gives a mental picture of how value for money this meal is and whether to come back for such orders again in the future. Thirdly, it allows us to know is there&#8217;s an error with the bill should there be a discrepancy of figures greater than a few dollars.</p>
+</p><p class="whiteline"><p>With the sum in mind, we went to the counter to do the necessary. The resulting bill was $4 more than what was in my mind. I couldn&#8217;t be bothered to do anything attributing the discrepancy to my miscalculation and extra charges.</p>
+</p><p class="whiteline"><p>While walking out of the shop, my mother suddenly asked why it was $4 more than calculated and it&#8217;s only then that the bill was inspected (we were across the level by then). To her horror, she found that there was a mis-billing of free flow drinks that we&#8217;d not ordered.</p>
+</p><p class="whiteline"><p>Back to the shop. My mother explained the problem and the cashier (different from the last one) set out to work immediately.</p>
+</p><p class="whiteline"><p>Here comes the funny part.</p>
+</p><p class="whiteline"><p>While redoing the credit card thingy, she attempted to transfer liability that customers should always check their bills upon leaving the counter. Well, I wouldn&#8217;t say that we were entirely in the right here but her attempt to make us seem completely in the wrong and she being right certainly struck some chord within my father.</p>
+</p><p class="whiteline"><p>&#8220;You should always check the bill before leaving the counter,&#8221; claimed the cashier.</p>
+</p><p class="whiteline"><p>&#8220;I trusted you,&#8221; replied my father, &#8220;...but you have betrayed my trust, I&#8217;m so disappointed&#8221;.</p>
+</p><p class="whiteline"><p>The facial expressions of both cashiers was a Kodak moment. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/eek.png" alt=":-O" style="display: inline; vertical-align: bottom;" class="emoticon" /> + <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/eek.png" alt=":-O" style="display: inline; vertical-align: bottom;" class="emoticon" /> They became muted and stared at each other (the previous cashier returned) in utter amazement. I assure you, their eyes were wide open. Never had they thought that telling off a customer would result in a slap in the face together with a catch-22 situation.</p>
+</p><p class="break"><p>Unfortunately, everyone except my father burst out laughing at that awkward situation. That might have saved the cashiers some face.</p></p>

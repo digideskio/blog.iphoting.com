@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/619-Complete.html
+layout: post
+title: Complete
+date: 2007-10-02 20:52:46 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/619-Complete.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>For completeness sakes, PBS made a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.pbs.org/frontlineworld/stories/burma601/']);"  href="http://www.pbs.org/frontlineworld/stories/burma601/">documentary</a> on Burma. It&#8217;s worth reading and watching, just for the <em>respect</em> of the people there that risked their lives, just so the news could leave their lips.</p>
+</p><p class="whiteline"><p>In other news, I&#8217;m pretty amused when I read that there&#8217;s an &#8220;Appeal Board of Public Meetings and Processions&#8221; for demonstration applicants to appeal to, should they find the Police&#8217;s decision on their &#8220;Application for Notification of Public Procession/Meeting&#8221; less that satisfactory, i.e. allocating insufficient lanes on a road for the demonstration to take place, in Hong Kong. We need some appeal board and statistics on how many applications were made and how many were rejected and grounds for rejection.</p>
+</p><p class="break"><p>In happier news, demonoid is back.</p></p>

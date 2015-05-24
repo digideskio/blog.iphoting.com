@@ -1,0 +1,79 @@
+--- 
+permalink: /blog/archives/821-Something-is-Royally-Wrong-in-the-State-of-Singapore.html
+layout: post
+title: Something is Royally Wrong in the State of Singapore
+date: 2011-07-27 21:18:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/821-Something-is-Royally-Wrong-in-the-State-of-Singapore.html
+categories: 
+- life
+- Politics
+- thoughts
+- defence
+- economics
+- economy
+- education
+- hk
+- hong kong
+- productivity
+- public transport
+- sbs
+- singapore
+- sort
+- trains
+- transport
+---
+<p>I don&#8217;t know about you, but every time I return from an overseas trip, I&#8217;ve got this very nagging and frustrating feeling that there&#8217;s really something very terribly wrong in this country called Singapore. Why in the world would people actually bother risking their lives protecting this place, this system of governance, is absolutely beyond my wildest imagination. I shall write about 2 problems that I&#8217;ve observed about thought about today—transportation and economy (in terms of manpower and production).</p>
+
+<p>Recently, a debate on our public transportation system was sparked by the <a onclick="_gaq.push(['_trackPageview', '/extlink/www.todayonline.com/Singapore/EDC110712-0000051/Transport-operators-seek-fare-increases']);"  href="http://www.todayonline.com/Singapore/EDC110712-0000051/Transport-operators-seek-fare-increases">news of requests for fare increases by the various public transportation companies</a>. The <a onclick="_gaq.push(['_trackPageview', '/extlink/sg.news.yahoo.com/blogs/singaporescene/universal-transport-workers-party-051714188.html']);"  href="http://sg.news.yahoo.com/blogs/singaporescene/universal-transport-workers-party-051714188.html">Worker&#8217;s Party</a>, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.todayonline.com/Singapore/EDC110714-0000063/Serious-downsides-to-WP-suggestion']);"  href="http://www.todayonline.com/Singapore/EDC110714-0000063/Serious-downsides-to-WP-suggestion">Transport Minister Liu</a>, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.channelnewsasia.com/stories/singaporelocalnews/view/1142634/1/.html']);"  href="http://www.channelnewsasia.com/stories/singaporelocalnews/view/1142634/1/.html">Prime Minister Lee</a>, and the <a onclick="_gaq.push(['_trackPageview', '/extlink/theonlinecitizen.com/2011/07/public-transport-why-the-pap-and-wp-positions-fall-short-of-commuters’-needs/']);"  href="http://theonlinecitizen.com/2011/07/public-transport-why-the-pap-and-wp-positions-fall-short-of-commuters’-needs/">National Solidarity Party (NSP)</a> chimed in. As far as I can tell, the posture that the government has taken is to deny that there are any structural problems in the current system and to push all blame to rising costs caused by external factors, while strongly defending the status quo. If that&#8217;s the government&#8217;s position, it is clear that there will not be any changes as they have yet to acknowledge any underlying problems.</p>
+
+<p>While I&#8217;m not against the idea of raising fares per se, I am however against the idea of rising public transportation prices, coupled with falling service quality and standards. These factors should be mutually exclusive, not complementary.</p>
+
+<p>In my recent trip to Hong Kong (HK), I have noticed that HK similarly have private transportation operators, without the overcrowding and inefficiency we see here in Singapore. Their fares are not astronomically steeper and that the private operators aren&#8217;t making huge losses. So, why the difference?</p>
+
+<p>Having thought about it and experienced it, I believe the primary reason is the power of market forces, whereby the government takes a hands-off approach to managing public transport, somewhat similar to <a onclick="_gaq.push(['_trackPageview', '/extlink/theonlinecitizen.com/2011/07/public-transport-why-the-pap-and-wp-positions-fall-short-of-commuters’-needs/']);"  href="http://theonlinecitizen.com/2011/07/public-transport-why-the-pap-and-wp-positions-fall-short-of-commuters’-needs/">NSP&#8217;s proposal</a>. Buses in HK are allowed to duplicate routes served by the MTR (HK&#8217;s Metro System), offering commuters a choice between taking a public buses and the trains. In the bus market, the transport department of the government plans and determines routes that bus operators can tender to operate. Rather than allowing a private bus company to monopolise the market, the Transport Department also operates a &#8220;<a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Public_light_bus']);"  href="http://en.wikipedia.org/wiki/Public_light_bus">public light bus</a>&#8221; service (somewhat like a share taxi service) which offers a lower density ground transport option, possibly in direct competition or as a supplement to the standard bus routes operated by the private bus company. In essence, the government, through the Transport Department, is actually a player in the transportation market, without any form of nationalisation. This is actually a hybrid of both the WP&#8217;s and the NSP&#8217;s proposal in the management of the public transportation sector. Nobody has a monopoly, not even the government!</p>
+
+<p>As if there isn&#8217;t enough competition, about 18,000 taxis serve the whole of HK, most of which are privately owned. Taxi drivers that own their cabs do not have to pay rents to any taxi company and is free to run their own business according to the simple and standard fares set by the Transport Department. No nonsensical and complicated surcharges. Just a standard flag-down fare, two-tiered distance rate, toll-charges (if any) and baggages (carried in the boot, if any), 24 hours a day, 7 days a week, no variations. The free market manages the supply and demand automatically. The airport never has any cab shortages. The CBD always has cabs plying the streets. There is never a need price discriminate in order to manipulate the market demand. Why is Singapore the exception?</p>
+
+<p>Honestly, I have no qualms about not driving if the public transportation system can supersede it, when driving actually becomes a greater hassle. I believe many people would agree with me. The key to managing vehicle population cannot solely be based on the pricing mechanism (via COE and ERP), a more holistic approach is required by asking the right question—what does it take to get from one place to another. With the rights to own a car (COE) around the S$60,000 mark, it is clear that the COE system is causing more social problems (inflation, price-discrimination rather than needs-discrimination) than actually solving the vehicular-congestion problem. The reason why people need a car is because public transportation is horrendously underserving. The public transportation situation needs to be improved before the vehicular problem can be eased. As simple as that.</p>
+
+<p>Case in point: <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Transport_in_Berlin']);"  href="http://en.wikipedia.org/wiki/Transport_in_Berlin">Berlin&#8217;s public transport</a> is so developed and well-provisioned that there is hardly any traffic congestion even within the central business district during peak hours.</p>
+
+<p>The main problem with public transportation in Singapore is one of utility (and hence efficiency), not price or cost alone. If the government is poised to just address the symptoms with ineffective non-solutions, the mobility of Singaporeans (and by extension, the economy) is in serious trouble. Alex Au has <a onclick="_gaq.push(['_trackPageview', '/extlink/yawningbread.wordpress.com/2011/05/22/rail-interchange-upgraded-transportation-issue-much-wider-than-that/']);"  href="http://yawningbread.wordpress.com/2011/05/22/rail-interchange-upgraded-transportation-issue-much-wider-than-that/">a critique on the government&#8217;s approach to Singapore&#8217;s transportation</a>.</p>
+
+<p>On subject of the economy, I have noticed that HK is similarly flooded with PRC mainlanders, compared to Singapore. They are everywhere that you can set your eyes to.</p>
+
+<p>The stunning difference, in the case of HK, is that the PRC mainlanders are tourists, not employees of any kind. <em>All employment</em>, ranging from construction to road sweeping, is held by locals who hold the HKID (permanent residency card). The only way to get a HKID is 1) to be born in HK, or 2) to have ordinarily resided in HK for a continuous period of no less than 7 years.</p>
+
+<p>What about Singapore?</p>
+
+<p>Don&#8217;t you find it strange that employment in the service industries (apart from the unglamorous jobs) are held by non-locals in Singapore? Under the pretext of keeping costs down, employers have been preferring non-locals in their hires as they are cheaper and do not come with National Service Reservist liability (more on that later). However, cheaper never equates to better.</p>
+
+<p>One of the greatest incentives to improving productivity and thus efficiency is the need to control cost, due to price (and quality) competition. By replacing employees with cheaper alternatives, operating costs can be reduced without the need to improve productivity, efficiency, or technology. In classical economics, the economic capacity of the country will not increase. How far can a country control its costs and grow its economy without actually improving its domestic economic capacity (by way of technology and productivity via education and the like) before the law of nature calls the bluff? With imported inflation (largely from the USA printing money), and domestic inflation (from flawed domestic policies, such as raising GST, CoE, and ERP), costs will still grow and the economy will eventually suffer due to a neglect in actual sustainable improvements. There&#8217;s only so much beating a dead horse can do. Singapore actually needs to bite the bullet and invest in raising a living and healthy horse. I believe this can explain why <a onclick="_gaq.push(['_trackPageview', '/extlink/www.asiaone.com/Business/News/My+Money/Story/A1Story20100129-195280.html']);"  href="http://www.asiaone.com/Business/News/My+Money/Story/A1Story20100129-195280.html">Singapore&#8217;s productivity is among the lowest in the world</a>. A minimum wage may also help but that is another write-up for another day.</p>
+
+<p>What are the alternative solutions?</p>
+
+<p>Recently, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.tanjeesay.com/']);"  href="http://www.tanjeesay.com/">Tan Jee Say</a>, released a paper entitled, <a onclick="_gaq.push(['_trackPageview', '/extlink/theonlinecitizen.com/wp-content/uploads/2011/04/New_Economy_-_Jobs_and_enterprise_Singapore_15_Feb_11.pdf']);"  href="http://theonlinecitizen.com/wp-content/uploads/2011/04/New_Economy_-_Jobs_and_enterprise_Singapore_15_Feb_11.pdf">Creating Jobs and Enterprise in a New Singapore Economy – Ideas for Change</a>, detailing a plan for Singapore&#8217;s economy. Consisting of three parts, namely 1) What’s wrong with the current Singapore growth model?; 2) A S$60 billion National Regeneration Plan; 3) Improving Singaporeans’ standard of living; The Online Citizen has a <a onclick="_gaq.push(['_trackPageview', '/extlink/theonlinecitizen.com/2011/04/tan-jee-says-paper-on-new-economy-reproduced-here-in-full/']);"  href="http://theonlinecitizen.com/2011/04/tan-jee-says-paper-on-new-economy-reproduced-here-in-full/">three-part summary</a> of his 45-page long paper.</p>
+
+<p>Not surprisingly, the ruling party&#8217;s only rebuttals to the paper were red herrings. No substantial nor logically sound arguments against it were raised. I was hoping for a good, honest, and intellectual discourse, but all we got were mudslinging. There weren&#8217;t even any task-forces convened to look into his proposals and study their feasibilities, just an outright rejection of &#8220;we know the best&#8221;. Clearly, the ruling party is not interested in any alternative solutions (even if they could be meritious), all they want is their only solution.</p>
+
+<p>I actually have another proposal but I expect to be ignored. Firstly, Singapore should tighten the defence budget and instead, redirect the spending towards education. Our future lies in the younger generation, not propping-up defence machinery and promoting inefficiency at the expense of education! At the very least, Singapore&#8217;s defence budget (as a percentage of GDP) should not exceed that of other countries (technically still at war), like Taiwan and South Korea, and more importantly, should not be increasing annually.</p>
+
+<p>Secondly, National Service liability should be reduced to match countries that are technically still at war, such as Taiwan and South Korea. If the Taiwanese defence forces can manage with a 12-month (soon to be reduced to 4-month by 2014) long conscription, why is Singapore unable to do the same? Is our population a lot more stupid? Or is the defence force so inefficient that it needs 24 months to do what the Taiwanese can do in 4 months?</p>
+
+<p>With the male population relieved of 12–20 months of forced labour, the economy can actually employ these people productively. The argument that Singapore does not have enough people is moot, as the most productive part of the population is wasted unproductively through National Service.</p>
+
+<p>If productivity and efficiency is the issue, we can go by the Transport Minister&#8217;s logic and privatise our defence because &#8216;an entity that depends on Government funding and which operates on a cost-recovery basis, &#8220;would have little incentive to keep costs down&#8221;&#8217; [<a onclick="_gaq.push(['_trackPageview', '/extlink/www.todayonline.com/Singapore/EDC110714-0000063/Serious-downsides-to-WP-suggestion']);"  href="http://www.todayonline.com/Singapore/EDC110714-0000063/Serious-downsides-to-WP-suggestion">1</a>]. A good start would be to tighten the budget and limit the conscription duration.</p>
+
+<p>Thirdly, conscripted soldiers should be paid the market-rate (pay received by the professional &#8220;regulars&#8221;) for their contributions to the state. After all, civil servants and ministers are also paid salaries pegged to the market-rate so as to adequately compensate opportunity cost in joining public service. Unless of course, such market-rate salaries are for other reasons not publicly stated.</p>
+
+<p>Most certainly, the ruling party&#8217;s (and by extension, the government&#8217;s) stance is to keep the status quo and to reject any proposals, I don&#8217;t think we will see any policy changes anytime soon.</p>
+
+<p>This status quo is clearly troubling. Integrated Resorts to prop-up the GDP while our productivity is at an all time low, rejecting all suggestions to diversify stronger into the services industry, resisting calls to favour education over defence, denying that National Service is a drain on the nation&#8217;s economic productivity. Are these the policies that make Scandinavian countries so successful, or is Singapore in a race towards the bottom?</p>
+
+<p>My intuition tells me that Singapore is heading down a cliff. Even the &#8220;venerable&#8221; former Minister Mentor was said to worry that Singapore may not be able to last as long as other countries.</p>
+
+<p>For all you know, Singapore&#8217;s undoing could solely be attributed to the hands of his party, not the opposition as he so loves to claim.</p>
+
+<p>While the docile population isn&#8217;t interested in changing the status quo, the only logical step is to emigrate to a place where the government is sufficiently competent and isn&#8217;t in denial.</p>
+
+<p>Less fire-fighting, more pro-active. How can we expect any less from the world&#8217;s highest paid public office holders? It&#8217;ll be an insult to those who can do better for less.</p>

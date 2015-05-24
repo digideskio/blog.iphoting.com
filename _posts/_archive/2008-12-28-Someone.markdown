@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/724-Someone.html
+layout: post
+title: Someone
+date: 2008-12-28 18:02:56 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/724-Someone.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>Tell someone so that the someone can let someone know what someone thinks:-</p><p class="break"><a onclick="_gaq.push(['_trackPageview', '/extlink/dilbert.com/strips/comic/2008-12-28/']);"  href="http://dilbert.com/strips/comic/2008-12-28/"><img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/30000/6000/500/36595/36595.strip.print.gif" /></a></p><p class="break">Reminds me of my work place – to get things done, and fast, you&#8217;ll actually need to know people.</p></p>

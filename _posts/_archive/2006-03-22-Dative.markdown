@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/277-Dative.html
+layout: post
+title: Dative
+date: 2006-03-22 23:13:45 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/277-Dative.html
+categories: 
+- school
+- thoughts
+---
+<p class="whiteline"><p>Chemistry lessons have been the most interesting so far. I like the way the lessons are conducted - I got to put in 90% concentration in order to follow and comprehend information being dished out at little yet provoking amounts. This certainly bugs my curiosity such that I will go find out more about such &#8216;theoretical&#8217; concepts, meanwhile invalidating a dozen or more theories that I was taught to know. So far, I&#8217;m glad that every question that I&#8217;ve asked has an answer, though it need not be answerable in a few breaths.</p>
+</p><p class="whiteline"><p>Today, I learnt that school sells Nescafé: Latte. Although I don&#8217;t really fancy drinking coffee in times of no-need, I decided to satisfy my liking for latte and try it out. To my horror, the coffee smells and tastes in a standard that&#8217;s less than desirable.</p>
+</p><p class="break"><p>I think I&#8217;ve mentioned this before but I&#8217;ll mention it again as it has certain made my life in comp labs easier. <a onclick="_gaq.push(['_trackPageview', '/extlink/portableapps.com/apps/internet/browsers/portable_firefox']);"  href="http://portableapps.com/apps/internet/browsers/portable_firefox">Portable Firefox</a> is a great way of running <a onclick="_gaq.push(['_trackPageview', '/extlink/www.mozilla.org/']);"  href="http://www.mozilla.org/">Mozilla Firefox</a> in a more private way. Cookies and cache don&#8217;t get littered all over the comp, possibly reducing the chance of being caught clicking on ads. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/tongue.png" alt=":-P" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></p>

@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/685-Shudder.html
+layout: post
+title: Shudder
+date: 2008-07-26 19:03:09 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/685-Shudder.html
+categories: 
+- thoughts
+---
+<p class="whiteline"><p>I was reading the <a onclick="_gaq.push(['_trackPageview', '/extlink/www.singnet.com.sg/help/ip_faq.asp']);"  href="http://www.singnet.com.sg/help/ip_faq.asp">Intellectual Property FAQ</a> posted on the SingNet website and found something scary.</p>
+</p><blockquote><p class="break">SingNet has a <em>right</em> to protect the rights of our customers while adhering to the legal system. We reject requests from third parties for information pertaining to our customers. Such information is only released under a court order <em>or if requested by the law enforcement or regulatory agencies</em>.</p></blockquote><p>
+</p><p class="whiteline"><p>Emphasis mine.</p>
+</p><p class="whiteline"><p>Now, what on earth are <em>regulatory agencies</em>? RIAS? MPAS? ODEX? The fact that they even dare to offer up personally incriminating information <em>without</em> a court order indicates that they are absolutely not interested in protecting the rights of their customers.</p>
+</p><p class="whiteline"><p>Moreover, SingNet claims that its ability to protect the rights of their customers is only a &#8220;right&#8221; which can be optionally exercised at their will. Why isn&#8217;t protecting the rights of their users an obligation rather than their will or fancy?</p>
+</p><p class="break"><p>So, that explains why they didn&#8217;t even bother to object to giving information to ODEX when requested.</p></p>

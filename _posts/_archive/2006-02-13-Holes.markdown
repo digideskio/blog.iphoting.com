@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/255-Holes.html
+layout: post
+title: Holes
+date: 2006-02-13 20:32:48 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/255-Holes.html
+categories: 
+- life
+---
+<p class="break"><p>This has been circulating around lately. For the fun of it, and if you know me, try it out <a onclick="_gaq.push(['_trackPageview', '/extlink/kevan.org/johari?name=RIP']);"  href="http://kevan.org/johari?name=RIP">here</a>.</p></p>

@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/444-Dear-Rain.html
+layout: post
+title: Dear Rain
+date: 2006-12-27 09:50:59 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/444-Dear-Rain.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>I suspect that the telephone exchange that my house phones are connected to got fried by the rain, or something to that effect. The house is no longer receiving external dial-ins while dial-outs work fine. Whenever someone calls, they will hear a ring or two and lots of static, similar to what you see in horror movies.</p>
+</p><p class="whiteline"><p>Apart from this, my internet connection has become intermittent. The problem is that the repair man would only be here tomorrow morning.</p>
+</p><p class="break"><p>I hope my modem holds up to this as I don&#8217;t have a surge protector for telephone lines.</p></p>

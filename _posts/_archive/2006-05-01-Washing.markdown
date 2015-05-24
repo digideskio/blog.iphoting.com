@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/300-Washing.html
+layout: post
+title: Washing
+date: 2006-05-01 09:05:53 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/300-Washing.html
+categories: 
+- life
+---
+<p class="whiteline"><p>Here&#8217;s the <a onclick="_gaq.push(['_trackPageview', '/extlink/electionrally.blogspot.com/2006/04/singapore-election-2006-party.html']);"  href="http://electionrally.blogspot.com/2006/04/singapore-election-2006-party.html">place</a> to see party broadcasts, in order of candidate numbers.</p>
+</p><p class="whiteline"><p>Just hear the nonsense that the ruling party is trying to say; it&#8217;s just laughable. The speeches by the various opposition leaders are quite interesting too.</p>
+</p><p class="break"><p>Oh, one more thing I&#8217;d learnt, if you are voting. Be sure to mark an X within the grey box of the black framed box. If not, it could be marked as an invalid vote. This is very important especially when your vote is not sanctioned by the ruling party.</p></p>

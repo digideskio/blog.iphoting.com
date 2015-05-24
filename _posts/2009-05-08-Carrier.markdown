@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/749-Carrier.html
+layout: post
+title: Carrier
+date: 2009-05-08 15:09:39 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/749-Carrier.html
+categories: 
+- life
+---
+<p class="break"><p>I&#8217;m currently watching this awesome docudrama called <a onclick="_gaq.push(['_trackPageview', '/extlink/www.pbs.org/weta/carrier/']);"  href="http://www.pbs.org/weta/carrier/">Carrier</a> by PBS. It&#8217;s a very good watch.</p><p class="break"><a onclick="_gaq.push(['_trackPageview', '/extlink/www.pbs.org/weta/carrier/']);"  href="http://www.pbs.org/weta/carrier/"><!-- s9ymdb:92 --><img class="serendipity_image_center" width="593" height="344" src="http://static-s3.iphoting.com/blog/uploads/CarrierPBS.jpg" alt="" /></a></p></p>

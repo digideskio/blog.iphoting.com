@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/753-24-Points.html
+layout: post
+title: 24 Points
+date: 2009-05-23 16:01:35 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/753-24-Points.html
+categories: 
+- thoughts
+- Work
+---
+<p class="whiteline"><p>Somedays back, one of my co-workers popped this mathematical question for us to think about. It is fairly simple but complex for our minds. Anyway, here&#8217;s the question:-</p>
+</p><p class="break"><p>5 . 5 . 5 . 5 . 5 = 24</p><p class="whiteline">Replace the . with any of the following operators: +, -, *, /. You may add brackets anywhere in-between the numbers or operators.</p>
+</p><p class="break"><p>There are many solutions, have fun!</p></p>

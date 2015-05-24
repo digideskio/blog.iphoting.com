@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/299-Seen.html
+layout: post
+title: Seen
+date: 2006-04-30 00:42:01 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/299-Seen.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>I&#8217;ve posted some of my photos that I&#8217;ve taken on my Shanghai trip on <a onclick="_gaq.push(['_trackPageview', '/extlink/www.flickr.com/photos/iphoting/']);"  href="http://www.flickr.com/photos/iphoting/">Flickr</a> and my <a onclick="_gaq.push(['_trackPageview', '/extlink/gallery.iphoting.com/']);"  href="http://gallery.iphoting.com/">gallery</a>.</p></p>

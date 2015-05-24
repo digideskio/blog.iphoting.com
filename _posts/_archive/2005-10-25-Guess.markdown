@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/169-Guess.html
+layout: post
+title: Guess
+date: 2005-10-25 00:04:42 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/169-Guess.html
+categories: 
+- school
+- thoughts
+---
+<p class="break"><p>This morning would be my live encounter with the O Level Chemistry Practical examination. I pray that all would go normal and that strange and unconventional occurrences would just be a fragment of my imagination or a past memory from a practical lesson.</p></p>

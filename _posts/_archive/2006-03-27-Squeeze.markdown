@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/279-Squeeze.html
+layout: post
+title: Squeeze
+date: 2006-03-27 22:16:06 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/279-Squeeze.html
+categories: 
+- life
+---
+<p class="whiteline"><p><img width='427' height='164' border='0' hspace='5' src='http://static-s3.iphoting.com/blog/uploads/Life/budget1.png' alt='' /></p>
+</p><p class="whiteline"><p>This is how I tend to fail in achieving my savings goals. The number 1 rule to budgeting is to stick to your budget.</p>
+</p><p class="whiteline"><p>Today, I&#8217;ve proven my point about hair lengths, id est ACJC, or any other JC for that matter, sanctioned hair lengths are <em>not</em> accepted in this school. The next thing to prove would be the hand phone business.</p>
+</p><p class="whiteline"><p>Now that the administration have moved into the new building, I&#8217;m glad that this means that the new building now has internet connection. After some simple diagnosis, there certainly <em>is</em> networking with the whole school, albeit at half the speed. My guess would be that the switch interconnects are running on insufficient fibres channels.</p>
+</p><p class="whiteline"><p>Still, I find the work of a &#8216;Network Implementor&#8217; quite amazing - overcoming physical limitations, technical issues and getting things right.</p>
+</p><p class="whiteline"><p>Sadly, my Chemistry teacher has changed his teaching style as I suppose a large number of people in class couldn&#8217;t quite catch him. It is both a good thing<sup>TM</sup> and a bad thing<sup>TM</sup>. Firstly, people who used to not catch him can now follow easier. Secondly, I can occasionally rest my mind. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/laugh.png" alt=":-D" style="display: inline; vertical-align: bottom;" class="emoticon" /> What&#8217;s even more surprising was that there are certain concepts that were repeated and reiterated, at times greater than three! By the way, this is <em>not</em> a complaint.</p>
+</p><p class="break"><p>Looking at Web 2.0, I think tagging would supersede filing; it would be cool to have a tag named &#8216;untagged&#8217;, which does as named though.</p></p>

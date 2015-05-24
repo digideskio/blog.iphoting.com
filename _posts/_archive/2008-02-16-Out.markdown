@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/667-Out.html
+layout: post
+title: Out
+date: 2008-02-16 15:57:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/667-Out.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Today, I spent one of my long weekends doing some computer maintenance shopping. Although the computer systems in my house need little maintenance, still new technology should be acquired once in a while to make things look good.</p>
+</p><p class="whiteline"><p>Thus far, over the course of this year, my family bought a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.samsung.com/sg/consumer/detail/detail.do?group=printermultifunctionfax&amp;amp;type=printermultifunctionfax&amp;amp;subtype=colourlaserprinters&amp;amp;model_cd=CLP-300/XST']);"  href="http://www.samsung.com/sg/consumer/detail/detail.do?group=printermultifunctionfax&amp;type=printermultifunctionfax&amp;subtype=colourlaserprinters&amp;model_cd=CLP-300/XST">Samsung colour laser printer</a> for $299, a pair of <a onclick="_gaq.push(['_trackPageview', '/extlink/www.aztech.com/prod_homeplug_hl108e.html']);"  href="http://www.aztech.com/prod_homeplug_hl108e.html">Homeplug AV</a> devices for $207, and 2 external harddisks to sustain the Time Machine setups.</p>
+</p><p class="break"><p>Next up to be purchased would probably be <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/imac/']);"  href="http://www.apple.com/imac/">iMacs</a> to replace my 7 year old desktops, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/timecapsule/']);"  href="http://www.apple.com/timecapsule/">Apple Time Capsule</a> to bring my wireless network to the N generation with <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/macosx/technology/bonjour.html']);"  href="http://www.apple.com/macosx/technology/bonjour.html">Bonjour printer sharing</a>, modernising ancient but working technologies in my house.</p></p>

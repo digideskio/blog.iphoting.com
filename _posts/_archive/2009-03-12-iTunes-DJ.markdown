@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/738-iTunes-DJ.html
+layout: post
+title: iTunes DJ
+date: 2009-03-12 21:12:25 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/738-iTunes-DJ.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>With the release of iTunes 8.1 by Apple this morning, the little publicised Party Shuffle feature has been rebranded as iTunes DJ with a few new features added. The most significant of which, in my opinion, is the ability for Guests to &#8216;Request a Song&#8217; via the Remote application on their iPhones or iPod Touches.</p>
+</p><p class="whiteline"><p>I mean, it&#8217;s exceptionally useful in a multi-user scenario where the control of iTunes is best done in a wireless and distributed manner. Guests can look through your media library and choose music that they would like to be played next in the special iTunes DJ playlist. If there are multiple Guests, the voting option can be enabled to allow popular suggested music be played first.</p>
+</p><p class="break"><p>If there&#8217;s a web-based interface for iTunes remote, it&#8217;ll be perfect.</p></p>

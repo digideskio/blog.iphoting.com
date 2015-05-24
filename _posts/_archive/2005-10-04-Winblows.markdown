@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/152-Winblows.html
+layout: post
+title: Winblows
+date: 2005-10-04 19:09:46 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/152-Winblows.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Darned Windows. Screwing up again. Wasted my time trying to repair it. And the printer is connected to <em>that</em> comp when I need it., urgently.</p>
+</p><p class="break"><p>If Bill is to pay US$1 for every time Windows crashes, Micro$oft can file for bankruptcy within 5 years.</p></p>

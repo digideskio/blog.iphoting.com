@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/581-Sorting.html
+layout: post
+title: Sorting
+date: 2007-07-15 21:48:26 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/581-Sorting.html
+categories: 
+- life
+---
+<p class="whiteline"><p style="font-size:8pt;"><a onclick="_gaq.push(['_trackPageview', '/extlink/www.thealmightyguru.com/reviews/harrypotter/docs/quiz-house.html']);"  href="http://www.thealmightyguru.com/reviews/harrypotter/docs/quiz-house.html"><img src="http://www.thealmightyguru.com/reviews/harrypotter/docs/quizzes/hp-Slytherin.png" style="border:none; width:256px; height106px;" title="Slytherin"></a><br /><a onclick="_gaq.push(['_trackPageview', '/extlink/www.thealmightyguru.com/reviews/harrypotter/docs/quiz-house.html']);"  href="http://www.thealmightyguru.com/reviews/harrypotter/docs/quiz-house.html">Which Hogwarts house will you be sorted into?</a></p>
+</p><p class="whiteline"><p>Your in-depth results are:</p>
+</p><p class="break"><p>Slytherin - 12</p><p class="break">Ravenclaw - 11</p><p class="break">Hufflepuff - 10</p><p class="break">Gryffindor - 8</p></p>

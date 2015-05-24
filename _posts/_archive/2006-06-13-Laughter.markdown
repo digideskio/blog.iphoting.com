@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/331-Laughter.html
+layout: post
+title: Laughter
+date: 2006-06-13 23:30:12 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/331-Laughter.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>I remember the times when Challenger used to have an area which displays Apple products, where beautiful white Macs are lined up along the table. People would walk pass then, some curious would go forward to try the machines out. Most of the time, there would be amusing people who loudly declare that Windows is better than the Mac. Those were the times I&#8217;d found great enjoyment. No doubt, there will still be a huge following behind Windows Vista, I have no idea why.</p>
+</p><p class="whiteline"><p>Apparently, it seems like someone has done a more in-depth analysis about <a onclick="_gaq.push(['_trackPageview', '/extlink/www.groklaw.net/article.php?story=20060608002958907']);"  href="http://www.groklaw.net/article.php?story=20060608002958907">Microsoft&#8217;s Calling Home Problem, a Matter of Informed Consent</a>. That explains why the cracked version of Windows Genuine Advantage was spreading like wild fire.</p>
+</p><p class="whiteline"><p>Tomorrow would be the start of a camp which I would find myself involved in. IDE to USB convertors are extremely useful here considering the limited size of my Macbook harddisk and that I have a 200GB harddisk lying around.</p>
+</p><p class="whiteline"><p>9 more hours to the camp, I&#8217;d better start packing. Hope my server stays intact during my absence from home.</p>
+</p><p class="whiteline"><p>By the way, I&#8217;ve found this interesting <a onclick="_gaq.push(['_trackPageview', '/extlink/www.ochenk.com/entry.php?id=63']);"  href="http://www.ochenk.com/entry.php?id=63">post</a> on hearing frequency, together with various samples that you can test yourselves with.</p>
+</p><p class="break"><p>I should have my camera with me. Hopefully, I won&#8217;t forget my charger and the cable.</p></p>

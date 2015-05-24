@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/487-Just.html
+layout: post
+title: Just
+date: 2007-03-03 12:37:12 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/487-Just.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>While blog surfing, I came across this youtube music video. I love Jazzy stuff.</p><p class="break"><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/-bLloLR8GZo"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/-bLloLR8GZo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p><p class="whiteline">In addition, <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/The_Fray_(band)']);"  href="http://en.wikipedia.org/wiki/The_Fray_(band)">The Fray</a> makes good music too. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="break"><p>Spent the early morning cycling to the bank to get some paper work done, while picking up breakfast on the way back.</p></p>

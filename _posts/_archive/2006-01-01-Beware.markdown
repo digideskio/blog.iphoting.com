@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/224-Beware.html
+layout: post
+title: Beware
+date: 2006-01-01 19:51:46 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/224-Beware.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>If you were to buy music cds from stores, watch for some of the sneeky ways that recording companies like to treat their customers.</p>
+</p><p class="break"><p>Don&#8217;t get what I mean, refer to <a onclick="_gaq.push(['_trackPageview', '/extlink/www.boingboing.net/2006/01/01/coldplays_new_cd_has.html']);"  href="http://www.boingboing.net/2006/01/01/coldplays_new_cd_has.html">this</a> where it says that &#8220;Coldplay&#8217;s new CD has rules: No MP3s, no DVD players, no car stereos&#8221;. Makes me wonder what that cd is for... an expensive coaster anyone?</p></p>

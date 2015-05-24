@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/216-Service.html
+layout: post
+title: Service
+date: 2005-12-24 20:40:50 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/216-Service.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>I fully support the abolishment of 10% service charge at various service oriented outlets. My past experiences with certain restaurants have not been entirely plesant. It makes me wonder if the 10% service charge goes to the &#8216;service providers&#8217; instead of the products themselves.</p></p>

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        {% include archive_post.html linkposts='true' %}
+
+        <article class="post-content">
+          {% if post.excerpted %}
+          {{ post.excerpt }}
+          <footer>
+            <a rel="full-post" href="{{ post.url | prepend: site.baseurl }}">{{ site.excerpt_link }}</a>
+          </footer>
+          {% else %}
+          {{ post.content }}
+          {% endif %}
+          {% if post.linkpost %}
+          {{ post.permalink }}
+          {% endif %}
+        </article> 
+      </li>
+    {% endfor %}
+  </ul>
+
+  <div class="pagination">
+    {% if paginator.next_page %}
+      <a class="prev" href="{{ paginator.next_page_path }}">&larr; Older</a>
+    {% endif %}
+    <a href="{{ site.baseurl }}/blog/archives/">Blog Archives</a>
+    {% if paginator.previous_page %}
+      <a class="next" href="{{ paginator.previous_page_path }}">Newer &rarr;</a>
+    {% endif %}
+  </div>
+
+</div>

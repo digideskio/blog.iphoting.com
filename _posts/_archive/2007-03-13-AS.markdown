@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/495-AS.html
+layout: post
+title: AS
+date: 2007-03-13 14:06:19 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/495-AS.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>The <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Asperger_syndrome']);"  href="http://en.wikipedia.org/wiki/Asperger_syndrome">Asperger&#8217;s Syndrome (AS)</a> is quite interesting. Within the article, there&#8217;s a list of situations which might reveal the differences in social interaction between people with AS.</p>
+</p><p class="whiteline"><p>However, thinking about it, most people diagnosed with AS have a very high probability of being very intelligent, and as such, it makes me wonder if intelligence is used to compensate for the lack of ability in social interactions. For example, one could over time, develop a database of social conditions and situations with relevant responses therein. Thus, coupled with quick thinking, one might be able to function like a <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Turing_machine']);"  href="http://en.wikipedia.org/wiki/Turing_machine">Turing Machine</a>, matching situation with a response at high speeds, simulating real and normal social interactions.</p>
+</p><p class="whiteline"><p>What this could mean is that people with AS can actually be hard to identify and maybe diagnose, until maybe a highly unorthodox and/or embarrassing situation were to occur. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="break"><p>And this SingTel has yet to activate my 3G USIM card after more than 24 hours. Better yet, the CSO suggest that I bring along the 3G USIM card with my phone so that I can swap with my 2G SIM card when it gets deactivated &#8216;anytime soon today&#8217;. Oh wells, sent a &#8216;Urgent USIM activation request&#8217; (within 3 hour activation), and hope they do what they claim. I can&#8217;t imagine having my SIM card deactivated while on the phone and outdoors.</p></p>

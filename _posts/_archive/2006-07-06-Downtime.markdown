@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/349-Downtime.html
+layout: post
+title: Downtime
+date: 2006-07-06 23:26:38 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/349-Downtime.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Today&#8217;s internet outage was long. From failing DNS to damaged local and foreign routing. I wonder what they are doing.</p>
+</p><p class="break"><p>It sure pays to have your own DNS and proxy servers. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></p>

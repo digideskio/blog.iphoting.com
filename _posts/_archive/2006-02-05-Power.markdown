@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/248-Power.html
+layout: post
+title: Power
+date: 2006-02-05 17:17:03 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/248-Power.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Wow! Delirious?&#8217;s worship today was electrifying.</p>
+</p><p class="break"><p>Anyway, check out Salling Clicker for both <a onclick="_gaq.push(['_trackPageview', '/extlink/www.salling.com/Clicker/mac/']);"  href="http://www.salling.com/Clicker/mac/">Mac</a> and <a onclick="_gaq.push(['_trackPageview', '/extlink/www.salling.com/Clicker/windows/']);"  href="http://www.salling.com/Clicker/windows/">Windows</a>. It&#8217;s really cool.</p></p>

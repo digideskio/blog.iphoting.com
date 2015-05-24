@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/207-Numbers.html
+layout: post
+title: Numbers
+date: 2005-12-16 12:15:27 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/207-Numbers.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Now that I&#8217;ve found the algorithm for the last &#8216;checkletter&#8217; for NIRC, it makes me want to see if working backwards is possible. Let&#8217;s say, I have the first and the last alphabet, and the first two numbers; would I be able to figure out the rest and/or the positions of the last 5 numbers.</p>
+</p><p class="break"><p>This is getting exciting.</p></p>

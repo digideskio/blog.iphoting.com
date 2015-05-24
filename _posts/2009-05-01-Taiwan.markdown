@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/747-Taiwan.html
+layout: post
+title: Taiwan
+date: 2009-05-01 20:59:06 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/747-Taiwan.html
+categories: 
+- life
+- thoughts
+- Work
+---
+<p class="whiteline"><p>I&#8217;m glad that I&#8217;m finally back from southern Taiwan. I was there on an assigned overseas exercise and I managed to meet quite a few NSmen there. The reason why I love overseas exercises is that I get to meet and live with &#8216;intelligent&#8217; people from all walks of life for a few weeks.</p>
+</p><p class="whiteline"><p>Having little real-world experience, learning from these NSmen can be an eye opening experience as they share with us their work and past experiences with this organisation. Within the short stint, many of them have infused their common sense and efficiency into our work processes, leaving with us some cool Microsoft Access files (to automatically generate passes with serial numbers) and various useful Microsoft Excel macros to make our bean counting jobs easier.</p>
+</p><p class="whiteline"><p>Moreover, I finally got to see people using real-world skills, solving unreal problems. Seeing them thoroughly annoyed by the organisation which created all the problems in the first place, namely inefficiency, poor leadership and management, makes me very amused. In fact, it&#8217;s quite funny hearing them whine and grumble about the ridiculous lack of directions some people are giving.</p>
+</p><p class="whiteline"><p>Particularly, I&#8217;d met a total of three NSmen whose work involves working with computers and technology intimately – ERP consultant, computer engineer and a programme design manager. Other professions range widely from civil engineer to bankers to marketing.</p>
+</p><p class="break"><p>These are the times where NS is interesting.</p></p>

@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/14-Light.html
+layout: post
+title: Light
+date: 2005-01-20 21:52:36 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/14-Light.html
+categories: 
+- Movies
+- thoughts
+---
+<p class="whiteline"><p>I&#8217;ve finished watching the whole Spiral anime series finally.</p>
+</p><p class="whiteline"><p>The storyline is good. The time I&#8217;ve spent on it is worth it.</p>
+</p><p class="break"><p>And I believe that with faith, one can go a long way...</p></p>

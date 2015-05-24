@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/172-HMT.html
+layout: post
+title: HMT
+date: 2005-11-01 12:26:08 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/172-HMT.html
+categories: 
+- school
+- thoughts
+---
+<p class="whiteline"><p>Have been really busy for the past days and that accounts for my lack of updates. I believe such occurrences would last until the end of my O Levels, 18th November.</p>
+</p><p class="whiteline"><p>My Higher Chinese Paper yesterday went not-so-good, but still better than the prelims, I hope.</p>
+</p><p class="whiteline"><p>This week would be a full-speed-ahead rush on all 9 subjects before the examinations finally kick-in at crazy pace.</p>
+</p><p class="break"><p>Meanwhile, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.sysinternals.com/blog/2005/10/sony-rootkits-and-digital-rights.html']);"  href="http://www.sysinternals.com/blog/2005/10/sony-rootkits-and-digital-rights.html">a proof</a> of why DRM is a very <em>bad</em> idea (or why RIAA is bullshitting), and a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.time.com/time/2005/100books/the_complete_list.html']);"  href="http://www.time.com/time/2005/100books/the_complete_list.html">list</a> of books that I&#8217;m going to read after my exams if I can get my hands on them.</p></p>

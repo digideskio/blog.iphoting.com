@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/467-Toggle.html
+layout: post
+title: Toggle
+date: 2007-01-31 22:55:35 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/467-Toggle.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Haha. The soccer match was one of the most amusing ones, the part without the ball action. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="break"><p>Got the 802.11n Enabler installed finally.</p><p class="whiteline"><img width='638' height='387' src="http://static-s3.iphoting.com/blog/uploads/Computers/802.11n.png" alt="" /><br />Looks good.</p>
+</p><p class="break"><p>I hated growing old ever since I was fourteen. It was then that I&#8217;d calculated and roughly understood the meaning of life.</p></p>

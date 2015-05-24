@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/799-Reeder.html
+layout: post
+title: Reeder
+date: 2011-05-16 12:31:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/799-Reeder.html
+categories: [iOS, RSS, OSX, reading]
+---
+<p class="whiteline"><p>I&#8217;ve been using <a onclick="_gaq.push(['_trackPageview', '/extlink/reederapp.com/']);"  href="http://reederapp.com/">Reeder</a> for both iPhone and iPad for quite sometime and I think it is still the best RSS reader out there, even surpassing Google Reader. These days, I&#8217;ve also beta testing Reeder for Mac and have found that it is similarly fantastic.</p>
+</p><p class="whiteline"><p>Although I admit that there are still a few missing features, the basics of what makes Reeder good are all there. A few conventions were copied from the iPad and are slowly refined into the Mac OS X paradigm. As of draft 15, Reeder for Mac looks almost perfect for daily use and is extremely stable for a beta product.</p>
+</p><p class="break"><p>If you read lots of RSS feeds and have a Mac, and would like to get your hands down the rough edges of beta software, do give Reeder for Mac (beta) a whirl <a onclick="_gaq.push(['_trackPageview', '/extlink/madeatgloria.com/brewery/silvio/reeder']);"  href="http://madeatgloria.com/brewery/silvio/reeder">here</a>.</p></p>

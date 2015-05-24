@@ -1,0 +1,25 @@
+--- 
+permalink: /blog/archives/566-Phone.html
+layout: post
+title: Phone
+date: 2007-06-20 19:47:45 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/566-Phone.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Apple products spoilt me; the Macintosh philosophy raised my expectations on software and lowered my tolerance on poor usability.</p>
+</p><p class="whiteline"><p>These days, I find my $0 K610i somewhat difficult to use; the S$400 Nokia N73 felt more like a paperweight; and the $700 dopod feels like part of a dustbin.</p>
+</p><p class="whiteline"><p>Usability of mobile phones has drastically fallen although its main purpose, to make and receive phone calls, has remained unchanged. However, the new phone models I see do not make this basic usage any easier nor efficient – clumsy HID (keypad), unintuitive commonly used features, and totally unnecessary extra buttons around the keypad which give rise to input mistakes, hindering usability. The most annoying &#8216;feature&#8217; of all phones I&#8217;ve seen is the severe lack of responsiveness in the interface of the phone.</p>
+</p><p class="whiteline"><p>In the case of the N73, I&#8217;m surprised that I need to wait a whole second for the menu to fully appear before I could activate a function on the menu. Yet, the model seems to be a rather popular one around.</p>
+</p><p class="whiteline"><p>The Windows Mobile OS seems to have the usability option hidden in some crazy option page that I didn&#8217;t manage to locate and activate. Seriously, I&#8217;m wondering how on earth people use these devices to improve their productivity.</p>
+</p><p class="whiteline"><p>Still, thus far, the Palm OS philosophy, though lacking in substantiated progress, is rather similar to the Macintosh platform. The emphasis on a unified user-interface design made most 3rd party applications easy to use on first sight. The feature which I&#8217;m extremely pleased with in the Palm OS is the menu bar on the top of the screen, revealed upon tapping the application&#8217;s name.</p>
+</p><p class="whiteline"><p>Conceptually, it is exactly the same as that of the Macintosh&#8217;s permanent menu bar, which arguably is the Mac&#8217;s greatest and IMO most powerful (and efficient) aspect.</p>
+</p><p class="whiteline"><p>Although visible development on the Palm OS has apparently stalled, there has yet to be a sufficiently capable replacement unfortunately. I can only sigh; my Tungsten | T is starting to fail (in terms of hardware) and I need a solution really fast.</p>
+</p><p class="whiteline"><p>For the fun of it, here are the things I use my Palm for:-</p>
+</p><ul><li>Bible</li><li>Bus Guide</li><li>Contacts</li><li>Date Book</li><li>To-Do</li><li>Train Journey Duration Calculator</li><li>Scribbles</li></ul><p>
+</p><p class="whiteline"><p>The downside is that it lacked WiFi capabilities. If not, it&#8217;ll have been my web browser on the go too. And no, GPRS/3G data charges are too expensive to be practical.</p>
+</p><p class="whiteline"><p>To close this entry, there&#8217;s this article that I came across that I&#8217;ll link. <a onclick="_gaq.push(['_trackPageview', '/extlink/www.dumblittleman.com/2007/06/39-ways-to-live-and-not-merely-exist.html']);"  href="http://www.dumblittleman.com/2007/06/39-ways-to-live-and-not-merely-exist.html">Ways to Live and Not Merely Exist</a>.</p>
+</p><p class="whiteline"><p>Point 23 come with the greatest impact to me – Play with children. &#8220;Children, more than anyone else, know how to live. They experience everything in the moment, fully. When they get hurt, they really cry. When they play, they really have fun. Learn from them, instead of thinking you know so much more than them. Play with them, and learn to be joyful like them.&#8221;</p>
+</p><p class="whiteline"><p>That said, I&#8217;ll probably touch my Google Reader on alternative weeks only.</p>
+</p><p class="break"><p>God Bless.</p></p>

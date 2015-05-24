@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/800-The-iPad-2.html
+layout: post
+title: The iPad 2
+date: 2011-05-16 17:24:47 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/800-The-iPad-2.html
+categories: 
+- computers
+- thoughts
+- apple
+- computers
+- iOS
+- iPad
+- thoughts
+---
+<p class="whiteline"><p>No, I didn&#8217;t get the iPad 2, yet. I had to get this on-the-record, as the number of iPad buyers increase. What I&#8217;m to say applies to both iPad and iPad 2 models.</p>
+</p><p class="whiteline"><p>Here it is: Between the WiFi and WiFI + 3G models, apart from the obvious lack of 3G in the former model, it also lacks a less publicised feature—GPS. Yes, the WiFi-only model does not come with a GPS chip and relies solely on WiFi triangulation when its connected to a WiFi base-station. However, it can tap into the iPhone&#8217;s location system when connected via the Personal Hotspot feature. Even if you do not wish to use the 3G capability nor get a MicroSIM and subscription, the GPS chip works well independently without any network connection.</p>
+</p><p class="break"><p>So, here&#8217;s my advice, invest $180 more into your iPad purchase and get the WiFI + 3G model, it is worth more than the $130 upgrade for any additional internal storage. You are unlikely to need so much storage anyway, unless you plan to carry your movie collection around. Then, after awhile of using the iPad, you would most probably, like me, invest in MultiSIM at ~$10/month to get your iPad connected via 3G.</p></p>

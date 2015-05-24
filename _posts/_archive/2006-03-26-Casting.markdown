@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/278-Casting.html
+layout: post
+title: Casting
+date: 2006-03-26 23:30:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/278-Casting.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>If the weather was behaving erratically, blame it on us. My sub-zone went to East Coast Park today for some team games, which were rather mind relaxing.</p>
+</p><p class="whiteline"><p>At first, during lunch at Bedok, there&#8217;s one guy who didn&#8217;t like to play and thus prayed for heavy rain. Hence, really heavy rain came. By the time we got on to the bus towards East Coast Park, it was still raining, albeit heavier. Then, in order to have a well spent time at such an inaccessible place, we prayed for clear skies on the bus. As such, when the destination arrived, the heavy down pour suddenly stopped and the sun shown brightly. Some of us felt that the strong sun was too hot and therefore asked for cloudy skies. Expectedly, grey clouds formed overhead within minutes. However, the air was still, and together with the humidity, it was a pain.</p>
+</p><p class="whiteline"><p>Guess what? Someone asked for winds, grey skies but no rain and it was granted promptly. The sky held on, occasionally releasing countable drops of rain. As you can see, this is how we can have great weather.</p>
+</p><p class="whiteline"><p>On the other hand, I found out that H.263 uses less CPU cycles to display large resolution videos for bandwidth. This Monday, I wonder if H.263 can improve picture quality and reduce CPU cycle usage as laptops have weak CPUs. That accounts for the severe pixelation seen during high-delta movements.</p>
+</p><p class="break"><p>Now, back to my Chemistry lab report; it&#8217;s record breaking that it has reached 6 pages, for something so simple.</p></p>

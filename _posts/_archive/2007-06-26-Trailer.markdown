@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/569-Trailer.html
+layout: post
+title: Trailer
+date: 2007-06-26 01:28:46 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/569-Trailer.html
+categories: 
+- school
+---
+<p class="break"><p><!--<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/qNjE9MubxFw"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/qNjE9MubxFw" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>--></p><p class="break"><object type="application/x-shockwave-flash" width="370" height="195" data="http://iphoting.iphoting.com/player/flvplayer.swf?file=http://iphoting.iphoting.com/player/movingup.flv&amp;autoStart=false;"></p><p class="break"><param name="movie" value="http://iphoting.iphoting.com/player/flvplayer.swf?file=http://iphoting.iphoting.com/player/movingup.flv&amp;autoStart=false;" /></object></p><p class="break">Funny.</p></p>

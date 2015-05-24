@@ -1,0 +1,20 @@
+--- 
+permalink: /blog/archives/559-Internet.html
+layout: post
+title: Internet
+date: 2007-06-11 12:49:09 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/559-Internet.html
+categories: 
+- computers
+- thoughts
+---
+<p class="break"><p>This is called broadband:-</p><p class="break"><!-- s9ymdb:67 --><img width='363' height='305' src="http://static-s3.iphoting.com/blog/uploads/Computers/DownloadSpeed-HongKong.png" alt="" /></p><p class="whiteline">1.1 MB/s. Mega<em>bytes</em> per second, not bits. The subscription cost as much as a SingNet 1500 kbps plan.</p>
+</p><p class="whiteline"><p>Over the past months, I&#8217;m always puzzled by why public buses in Singapore travel at speeds no greater than 60 km/h, regardless of road type, even on expressways. Imagine a termed Express bus with higher pricing, travelling at speeds no greater than 60 km/h on ECP when the road is clear; where has the value of the word Express gone?</p>
+</p><p class="whiteline"><p>Yesterday, I was fortunate to have boarded a full double-decker public bus in Hong Kong. As I was standing next to the driver, I was able to keep an eye on the speed-o-meter. The bus, on average, travels at 50 km/h on small and narrow regular streets and at least 60 km/h on roads, when traffic permits.</p>
+</p><p class="whiteline"><p>When the bus got onto the pseudo-expressway, aka island corridor as termed there, the full capacity double-decker bus travelled at 70 to 80 km/h.</p>
+</p><p class="whiteline"><p>From this, I gather that SBS buses travelling at a maximum of 60 km/h is not a technical issue. Public single-decker buses can, at the very least, go much faster. So, this has got to be an attitude and competence issue. This is one reason why I hate the public transport in Singapore – gross complacency due to guaranteed monopoly.</p>
+</p><p class="whiteline"><p>I&#8217;ve learnt that in Hong Kong, bus routes are defined by the government and offered for tender by various bus companies. The most consumer-favourable proposal will win the tender to run that particular route. This way, multiple bus companies serve overlapping areas and yet have their own exclusive routes through the area, leaving consumers with choice to choose between companies and the efficiency of routes – express, budget, or point to point.</p>
+</p><p class="whiteline"><p>If bus routes don&#8217;t cut, there&#8217;s always the electric tram, MTR, and mini-buses to cater to the population.</p>
+</p><p class="whiteline"><p>When a bus company does not meet quality standards as deemed by an independent body, the government can take action by transferring the rights to a route to another bus company.</p>
+</p><p class="whiteline"><p>Well of course, Singapore indeed has its fine points compared to Hong Kong, such as cheap housing and robust education system. The pros however end here.</p>
+</p><p class="break"><p>Ok. That&#8217;s as much fact and opinion as I have time to write.</p></p>

@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/40-Whatever.html
+layout: post
+title: Whatever
+date: 2005-04-02 13:06:28 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/40-Whatever.html
+categories: [blogging, writing]
+---
+<p class="whiteline"><p>Telepatic Blogging. I&#8217;ll be one of those to use it... when it&#8217;s available.</p>
+</p><p class="whiteline"><p>Lowly subjects that I&#8217;ve seen rip information from sites and pose it as their own, without attribution or whatsoever. Annoying.</p>
+</p><p class="break"><p>Clouded mind, the writer has forgotten what to write.</p></p>

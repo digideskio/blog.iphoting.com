@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/318-Its-Here.html
+layout: post
+title: It's Here
+date: 2006-05-24 23:00:40 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/318-Its-Here.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>Yep. The Macbook arrived this afternoon. It&#8217;s simply amazing that it arrived within 25 hours since I&#8217;d placed my order.</p>
+</p><p class="break"><p>Photos coming up but only after my completion of the Maths Portfolio.</p></p>

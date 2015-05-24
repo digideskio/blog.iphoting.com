@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/179-Four.html
+layout: post
+title: Four
+date: 2005-11-11 18:53:03 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/179-Four.html
+categories: 
+- school
+- thoughts
+---
+<p class="whiteline"><p>1 1 2 3 5 8 13 21 34 55 89 144 233 ...</p>
+</p><p class="whiteline"><p>Yep, the Fibonacci Sequence appeared in the E. Maths Paper 2. What a beauty! The paper today was rather easy, but less straight forward <i>finally</i>.</p>
+</p><p class="whiteline"><p>My next paper, A. Maths paper 1, would take place on next Tuesday afternoon. 3 days to spare now.</p>
+</p><p class="whiteline"><p>Saw another 15" PowerBook in action today. Really really attractive; both inside and outside.</p>
+</p><p class="break"><p>Before the Christmas shopping season arrives full swing, check out <a onclick="_gaq.push(['_trackPageview', '/extlink/singaporeangle.blogspot.com/2005/11/white-elephant-t-shirts.html']);"  href="http://singaporeangle.blogspot.com/2005/11/white-elephant-t-shirts.html">these</a> cute &#8220;Save the White Elephants&#8221; t-shirts.</p></p>

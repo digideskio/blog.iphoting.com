@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/651-Amusing.html
+layout: post
+title: Amusing
+date: 2007-11-14 20:42:11 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/651-Amusing.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>I know I&#8217;m easily amused. A friend showed me this pretty funny <a onclick="_gaq.push(['_trackPageview', '/extlink/www.dooce.com/archives/daily/07_16_2007.html']);"  href="http://www.dooce.com/archives/daily/07_16_2007.html">blog post</a> about hate-mail. Really, the witty responses to the hate-mail the author received are very good. Go check it out if you haven&#8217;t.</p>
+</p><p class="whiteline"><p>Then, I was clicking around the net and I noticed a referrer which I haven&#8217;t seen before. Quite amusing; that guy (he&#8217;s quite good at precision art or whatever you call that) <a onclick="_gaq.push(['_trackPageview', '/extlink/paul-ooi.blogspot.com/2007/10/personal-profiling.html']);"  href="http://paul-ooi.blogspot.com/2007/10/personal-profiling.html">said</a> that I was &#8220;[s]o rich as to set up his own site &amp; get it so professionally done&#8221;. That&#8217;s really complimentary, but seriously, I spend no more than S$12 a year keeping this site (which includes my mail and files) running smoothly (and hopefully professionally too). <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="whiteline"><p>At that, I realise that I haven&#8217;t announced free hosting offers for the past 4 years. So, I hereby anounce that you can get free hosting and email (subject to my terms and conditions) from my site by dropping me an <a href="mailto:iphoting+hosting@iphoting.com">email</a> with your intentions on what to do with the space, such as running wordpress or your personal site (no illegal stuff). Please write at least 10 words but not more than 100 words in your description, and I&#8217;ll assign disk space according to your needs. Just ask again if you need more. Of course, if you insist on donating some of your spare change to help me fund some bills, you are welcome.</p>
+</p><p class="break"><p>Well, today&#8217;s examinations were very amusing. I shall refrain from leaking any details for the well-being of everyone. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/laugh.png" alt=":-D" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></p>

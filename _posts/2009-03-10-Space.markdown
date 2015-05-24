@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/737-Space.html
+layout: post
+title: Space
+date: 2009-03-10 08:16:53 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/737-Space.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>Reading through articles on Space Exploration and Travel have never failed to amaze me. Inventions amount from the <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Space_shuttle']);"  href="http://en.wikipedia.org/wiki/Space_shuttle">Shuttle Transportation System</a>, and the <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Hubble_Space_Telescope']);"  href="http://en.wikipedia.org/wiki/Hubble_Space_Telescope">Hubble Space Telescope</a>, to the most impressive, <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Mars_Exploration_Rover']);"  href="http://en.wikipedia.org/wiki/Mars_Exploration_Rover">Mars Exploration Rovers</a>, Spirit and Opportunity; surely this list isn&#8217;t exhaustive but it is just a sample of what USA Space programme can deliver.</p>
+</p><p class="whiteline"><p>Mission transcripts are pretty exciting too, especially that of those where faults and unexpected events have occurred. <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Apollo_13']);"  href="http://en.wikipedia.org/wiki/Apollo_13">Apollo 13</a> was one such mission. The ingenuity of the people planning, operating, and living the mission are simply beyond description. Life-and-death situations with real time-pressing problems are documented to seem like they can be easily solved in just a couple of hours or days.</p>
+</p><p class="whiteline"><p>The amount of detail put into planning is also tremendous. In the Mars Exploration Rovers missions for example, every aspect of the 500 million km journey is thought out and planned, all the way to landing the craft artfully onto the surface of Mars.</p>
+</p><p class="whiteline"><p>Really, this dwarfs all the planning that we employ in everyday life, but it is just as important.</p>
+</p><p class="break"><p>What about those that don&#8217;t even plan ahead?</p></p>

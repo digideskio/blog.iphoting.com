@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/63-Rules.html
+layout: post
+title: Rules
+date: 2005-05-13 00:48:21 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/63-Rules.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>Living and breaking rules is something that&#8217;s <em>bad</em>. Living and keeping within the constrains of rules is <em>good</em> but <em>boring</em>. Living and threading on rules should be <em>exciting</em>. Moreover, walking on grey-areas should be <em>entertaining</em> and <em>enlightening</em>.</p>
+</p><p class="break"><p>And, if you think folding clothes take a long time, I suggest that you read <a onclick="_gaq.push(['_trackPageview', '/extlink/www.howtofoldashirt.net/']);"  href="http://www.howtofoldashirt.net/">this</a>.</p></p>

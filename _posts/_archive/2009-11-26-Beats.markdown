@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/777-Beats.html
+layout: post
+title: Beats
+date: 2009-11-26 19:47:44 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/777-Beats.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>As I&#8217;ve have been listening to dance remixes, I always wondered how DJs transition and mix between each track, while maintaining the tempo at a constant. Obviously, with technology these days, it isn&#8217;t that difficult but still requires some bit of skill. Imagine the days of turntables and a mixer board only.</p>
+</p><p class="break"><p>I guess DJs are a spontaneous bunch of skilful sound engineers.</p></p>

@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/266-Slip.html
+layout: post
+title: Slip
+date: 2006-03-03 22:41:49 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/266-Slip.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>The JC posting results might have brought shock to those that took part in the JAE, but I&#8217;m thankful nonetheless. I&#8217;ve got to thank God for getting me to choose ACSi as the first choice during PAE, allowing me to stay here as such after the JAE. Had I chosen VJC, I&#8217;d have ended up in CJC or worst.</p>
+</p><p class="whiteline"><p>This year&#8217;s results and posting have been very unusual. Thanks to IP schools, not-so-top schools now have popularity of top schools, depriving others a chance for nice education, where MoE rules over everything, including where food can be consumed in school.</p>
+</p><p class="whiteline"><p>Then, X was telling me about tea sessions with the perm sec of the ministry. &#8220;They usher us into a room and tell us to only say the good things&#8221;, &#8220;what&#8217;s the use of a feedback session then?&#8221;. Ego boasting, of course, this is Singapore! Don&#8217;t believe, refer to <a onclick="_gaq.push(['_trackPageview', '/extlink/singabloodypore.civiblog.org/blog/_archives/2006/3/1/1790784.html']);"  href="http://singabloodypore.civiblog.org/blog/_archives/2006/3/1/1790784.html">this article</a>. Also, I was told that civil servants acting in such a way was largely attributed to the way the education system is modelled. &#8220;That&#8217;s what you get for putting retired army personnel into these positions&#8221;.</p>
+</p><p class="whiteline"><p>Anyway, all the best to those who are appealing and congratulations to those who&#8217;ve achieved your choices.</p>
+</p><p class="whiteline"><p>Today, I played with the PowerMac G4 once again after upgrading the Mac OS X to 10.4.5. It feels as fast an 800MHz x86 processor, given the way I use computers; it&#8217;s really impressive. Windows&#8217; way way behind in this case; Vista&#8217;s just another version of Window$.</p>
+</p><p class="break"><p>I finally got my mail server fixed after so much hair pulling and tinkering and debugging. It was a simple permissions problem.</p></p>

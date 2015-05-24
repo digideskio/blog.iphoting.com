@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/96-Speak.html
+layout: post
+title: Speak
+date: 2005-06-30 18:16:45 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/96-Speak.html
+categories: 
+- life
+---
+<p class="break"><p>Here&#8217;s an interview with Dr Chee Soon Juan, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.geocities.com/newsintercom/sp/interviews/chee2.html']);"  href="http://www.geocities.com/newsintercom/sp/interviews/chee2.html">http://www.geocities.com/newsintercom/sp/interviews/chee2.html</a>. It&#8217;s quite a nice read if your live with your eyes open enough.</p></p>

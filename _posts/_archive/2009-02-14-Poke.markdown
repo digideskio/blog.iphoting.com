@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/735-Poke.html
+layout: post
+title: Poke
+date: 2009-02-14 08:30:35 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/735-Poke.html
+categories: 
+- thoughts
+---
+<p class="break"><p><img src="http://iphoting.iphoting.com/upload/Hamster-20090214-083051.jpg" alt="" /></p><p class="break">Found this and thought that it is very cute, and pokable.</p></p>

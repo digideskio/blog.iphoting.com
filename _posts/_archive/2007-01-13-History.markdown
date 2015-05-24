@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/458-History.html
+layout: post
+title: History
+date: 2007-01-13 16:53:44 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/458-History.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=188446582&amp;amp;s=143441&amp;amp;i=188446647']);"  href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=188446582&amp;s=143441&amp;i=188446647">Chris Tomlin - Made to Worship</a></p><p class="whiteline"><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/CeFAYZ4LJSY"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/CeFAYZ4LJSY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+</p><p class="break"><p>The lyrics are beautiful; this is Praise!</p></p>

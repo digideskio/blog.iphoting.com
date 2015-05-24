@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/731-Memory.html
+layout: post
+title: Memory
+date: 2009-01-24 21:39:33 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/731-Memory.html
+categories: 
+- computers
+---
+<p class="break"><p>Awesome, I love the look of this:-</p><p class="break"><img src="http://iphoting.iphoting.com/upload/Memory_Usage-20090124-213816.png" alt="" /></p><p class="break">Especially when the full 4GB is allocatable for usage, unlike 32-bit Windows which has a cap of 3.8 GB of allocatable RAM.</p></p>

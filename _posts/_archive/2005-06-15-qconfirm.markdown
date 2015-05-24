@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/90-qconfirm.html
+layout: post
+title: qconfirm
+date: 2005-06-15 23:14:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/90-qconfirm.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>I&#8217;ve finally gotten myself to install <a onclick="_gaq.push(['_trackPageview', '/extlink/smarden.org/qconfirm/']);"  href="http://smarden.org/qconfirm/">qconfirm</a> on my mailbox. It&#8217;s similar to TMDA; all unrecognized senders would require email validation to ensure that the mail account is valid and does not belong to any spammers. I choose qconfirm instead of TMDA was due to its size and language used. Configuration wise, qconfirm is quicker and easier, more qmail like.</p>
+</p><p class="whiteline"><p>So, in a nutshell, whenever sending mail to me for the first time, be prepared to respond to confirmation requests. Meanwhile, I will still keep an eye on the pending list so that I don&#8217;t get myself dropped off mailing lists.</p>
+</p><p class="whiteline"><p>If by any chance I fail to receive emails from you, please contact me via other means so that I can get it fixed.</p>
+</p><p class="whiteline"><p>My intention on this isn&#8217;t to make life difficult for users, its just to reduce the amount of spam I am receiving despite my spamassassin running faithfully, classifying mail between spam and ham.</p>
+</p><p class="whiteline"><p>With only spamassassin running, I get 2 to 3 pieces of spam in my Inbox (theres also a junk folder) daily. With qconfirm, I expect none; the need for a junk folder would also cease to exist.</p>
+</p><p class="whiteline"><p>Don&#8217;t get me wrong, spamassassin does a very good job in differentiating emails between spam and ham. Approximately 10% false-negatives. I&#8217;ve yet to see a false-positive.</p>
+</p><p class="break"><p>Nevertheless, I expect the spam problem to be eradicated when domain key and spf come in as a standard in all email (smtp) servers. However, &#8220;legitimate&#8221; spam might still be around but our blacklists are much automated and easier to maintain.</p></p>

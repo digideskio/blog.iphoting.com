@@ -1,0 +1,35 @@
+--- 
+permalink: /blog/archives/813-WWDC-2011-Part-3.html
+layout: post
+title: WWDC 2011 (Part 3)
+date: 2011-06-29 16:50:53 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/813-WWDC-2011-Part-3.html
+categories: 
+- computers
+- thoughts
+- apple
+- iCloud
+- iOS
+- OSX
+- technology
+- WWDC
+---
+<p>This post took me a long time as I was thinking about the right perspective to approach this new service—iCloud. I consider it one of they most mysterious of the three products announced at the keynote.</p>
+
+<p>All the time was spent demonstrating and explaining what iCloud is and what it can do for end-users from Apple&#8217;s perspective, not much was mentioned about developers and the potential applications of the technology available to 3rd party developers.</p>
+
+<p>However, in recent days, some functionality of the APIs offered to developers under the Non-disclosure Agreement (NDA) has been leaked. According to <a onclick="_gaq.push(['_trackPageview', '/extlink/thisismynext.com/2011/06/27/icloud-apis-path-continuous-client/']);"  href="http://thisismynext.com/2011/06/27/icloud-apis-path-continuous-client/">an article</a> from This is My Next, 3 key APIs are offered for 3rd party developers for integration into their applications. The article further postulates that one of them offers the ability for applications to save and restore preference &#8220;key-pairs&#8221;, and this offers a potential for applications to save state across different devices.</p>
+
+<p><a onclick="_gaq.push(['_trackPageview', '/extlink/www.engadget.com/2010/05/26/a-modest-proposal-the-continuous-client/']);"  href="http://www.engadget.com/2010/05/26/a-modest-proposal-the-continuous-client/">An article on Engadget</a> further elaborates on the concept of the &#8220;continuous client&#8221;. Imagine a time where you can be messaging, surfing the web and listening to music on your desktop machine, and then decide to continue doing exactly that somewhere else on a laptop. The &#8220;continuous client&#8221; allows you to do exactly that by saving and synchronising application state across devices. You could just turn on your laptop and continue exactly where you&#8217;d left off on the desktop.</p>
+
+<p>This is actually inline with the vision that Steve Jobs articulated in the <a onclick="_gaq.push(['_trackPageview', '/extlink/tumblr.iphoting.com/post/6201650099/apple-wwdc-97-steve-jobs-closing-keynote-by']);"  href="http://tumblr.iphoting.com/post/6201650099/apple-wwdc-97-steve-jobs-closing-keynote-by">closing WWDC keynote of 1997</a>. Looking at the advances of Lion (with autosave and resume), iOS 5 with very tight coupling with iCloud (already with autosave and resume), and finally iCloud being offered for free to all users, it looks like the situation that I&#8217;ve mentioned above might be a reality really soon.</p>
+
+<p>Just recently, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.google.com/chromebook/']);"  href="http://www.google.com/chromebook/">ChromeBook</a>s, powered by Chrome OS, were released to the public. Google has a slightly different view from Apple regarding the concept of cloud. Google wants applications to be powered from the cloud through the context of the browser, anywhere. Apple wants the cloud to be the enabler of various applications through the context of their hardware. The difference is in the viewport. Native OS chrome versus browser-based chrome.</p>
+
+<p>I believe that native chrome UI will prevail in the long run as the browser rendering engine is still limited. Only a subset of applications can be used with a browser chrome UI without difficulty. Just recall when Apple first launched the original iPhone for sale, users were all up in arms when Steve Jobs mentioned that there will be no 3rd-party native applications available and encouraged developers to write web-applications. Hatred towards browser-based web-applications were very visible. JailBreakers raced to crack the iPhone wide-open, bringing in plenty of unauthorised, but very useful, 3rd party applications.</p>
+
+<p>Given that short history, why would users change their mind and embrace the ChromeOS philosophy? Users want &#8220;continuous client&#8221; across devices, but not a consistent yet unoptimised viewport of their applications.</p>
+
+<p>To conclude my post, here&#8217;s <a onclick="_gaq.push(['_trackPageview', '/extlink/kickingbear.com/blog/archives/202']);"  href="http://kickingbear.com/blog/archives/202">an article by kicking bear</a> on how an innocent Push Notifications Service launched by Apple in 2008 has slowly but surely, morphed silently to what iCloud is when launched.</p>
+
+<p>With the release of iCloud, Apple is declaring war against Google, proper.</p>

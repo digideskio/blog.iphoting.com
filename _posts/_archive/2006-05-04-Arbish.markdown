@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/304-Arbish.html
+layout: post
+title: Arbish
+date: 2006-05-04 20:32:20 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/304-Arbish.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/www.channelnewsasia.com/stories/singaporelocalnews/view/206530/1/.html']);"  href="http://www.channelnewsasia.com/stories/singaporelocalnews/view/206530/1/.html"> DPM Wong dismisses opposition&#8217;s pledge over full-time MPs</a>. Can you believe that? Check out this article on <a onclick="_gaq.push(['_trackPageview', '/extlink/singaporeelection.blogspot.com/2006/05/singapore-ministers-pay-legitimised.html']);"  href="http://singaporeelection.blogspot.com/2006/05/singapore-ministers-pay-legitimised.html">Legitimised Corruption</a> too. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/wink.png" alt=";-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></p>

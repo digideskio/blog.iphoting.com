@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/386-Mystery.html
+layout: post
+title: Mystery
+date: 2006-09-08 17:05:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/386-Mystery.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>What makes school so valuable is not the information you get explicitly from the teachers. It is the process and experiences, largely implicit, that makes school ever so worth while.</p>
+</p><p class="whiteline"><p>A simple but not the best example that I can think of is this morning&#8217;s Chemistry crash class. Apart from being reminded how lazy Chemists are for putting 3 definitions and concepts in one word, mole, I was enlightened that my lips were actually allergic to <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Glutamic_Acid']);"  href="http://en.wikipedia.org/wiki/Glutamic_Acid">glutamate</a> in general rather than <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Monosodium_glutamate']);"  href="http://en.wikipedia.org/wiki/Monosodium_glutamate">monosodium glutamate</a> alone.</p>
+</p><p class="whiteline"><p>This holidays hasn&#8217;t lived up to its name, sadly. I&#8217;m so tired; my desktop is littered with blog posts and I&#8217;ve yet to find time to edit and put them up. What&#8217;s worst, school&#8217;s about to resume its might, even though it hasn&#8217;t really stopped.</p>
+</p><p class="whiteline"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/sr=1-2/qid=1157793664/ref=pd_bbs_2/102-3318164-0812107?ie=UTF8&amp;amp;s=books']);"  href="http://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/sr=1-2/qid=1157793664/ref=pd_bbs_2/102-3318164-0812107?ie=UTF8&amp;s=books">Blink</a> by Malcolm Gladwell is quite a good read if you&#8217;re interesting in intuitive thinking.</p>
+</p><p class="break"><p>Meanwhile if you&#8217;re bored, check out this <a onclick="_gaq.push(['_trackPageview', '/extlink/forums.hardwarezone.com/showthread.php?t=1395056&amp;amp;page=1&amp;amp;pp=15']);"  href="http://forums.hardwarezone.com/showthread.php?t=1395056&amp;page=1&amp;pp=15">forums thread</a> on educators. The discussion later in the thread is quite insightful.</p></p>

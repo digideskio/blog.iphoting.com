@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/280-Heat.html
+layout: post
+title: Heat
+date: 2006-03-27 23:31:54 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/280-Heat.html
+categories: 
+- life
+- school
+---
+<p class="whiteline"><p>Here&#8217;s what people do when they are bored.</p>
+</p><p class="whiteline"><p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/iD9YFab6RPY"></param><embed src="http://www.youtube.com/v/iD9YFab6RPY" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+</p><p class="break"><p>Fun right? My Sec 2 OEP experience, something that classrooms won&#8217;t ever provide.</p></p>

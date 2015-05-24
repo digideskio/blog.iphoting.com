@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/26-Side.html
+layout: post
+title: Side
+date: 2005-03-04 20:52:27 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/26-Side.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Today is a day which I shall remember for my life.</p>
+</p><p class="break"><p>The true side of human-nature, the false side of security. The right side things, the left side childhood. The front side fire, the rear side of involvment. The up side against the ciff, the down side of the sky.</p></p>

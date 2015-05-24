@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/265-Bounce.html
+layout: post
+title: Bounce
+date: 2006-03-01 22:29:37 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/265-Bounce.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>Freedom of speech has spoken. Check out this <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Race_and_intelligence']);"  href="http://en.wikipedia.org/wiki/Race_and_intelligence">article</a> on Wikipedia to see what I mean. No where else can one find such articles available for public viewing except for that place; a true testimonial to the partial sum of human knowledge.</p></p>

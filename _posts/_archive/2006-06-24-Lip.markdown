@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/336-Lip.html
+layout: post
+title: Lip
+date: 2006-06-24 15:41:45 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/336-Lip.html
+categories: 
+- computers
+- thoughts
+---
+<p class="break"><p>I&#8217;m currently at the Central Lending Library and have finished setting up a VPN connection to my home. This way, I get relatively faster surfing speeds using the free iCell WiFi. Alright, I&#8217;ll resume my Chinese nuisance now.</p></p>

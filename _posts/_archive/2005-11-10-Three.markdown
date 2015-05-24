@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/178-Three.html
+layout: post
+title: Three
+date: 2005-11-10 21:39:05 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/178-Three.html
+categories: 
+- school
+- thoughts
+---
+<p class="whiteline"><p>The end of the climax. Examinations henceforth would be much easier and quicker.</p>
+</p><p class="whiteline"><p>Geography Paper 2, the thousand word essays one, was rather easy. Not much tricks but the mark allocation is somewhat worrying. Easy questions have rather high weightage; complex questions not so though. A2 maybe.</p>
+</p><p class="whiteline"><p>Biology was as usual. Much easier than the prelims too. I think I should be able to get an A1.</p>
+</p><p class="whiteline"><p>Tomorrow would be E. Maths Paper 2, which I hope it would be as easy as Paper 1.</p>
+</p><p class="break"><p>Meanwhile, check out the <a onclick="_gaq.push(['_trackPageview', '/extlink/sgentrepreneurs.blogspot.com/2005/11/three-rules-of-fundraising.html']);"  href="http://sgentrepreneurs.blogspot.com/2005/11/three-rules-of-fundraising.html">three rules of fund raising</a>.</p></p>

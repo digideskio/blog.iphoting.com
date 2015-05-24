@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/402-Natives.html
+layout: post
+title: Natives
+date: 2006-10-03 22:43:22 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/402-Natives.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>For those of you who need some enjoyment and enlightenment on English:-</p>
+</p><p class="whiteline"><p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/QCsZdbfBuSY"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/QCsZdbfBuSY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+</p><p class="break"><p>Hope you enjoy this ecstatic entertainment.</p></p>

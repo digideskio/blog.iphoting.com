@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/69-Cracker.html
+layout: post
+title: Cracker
+date: 2005-05-15 08:56:30 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/69-Cracker.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>Today, I was looking through my logs (thanks to LogWatch), that I spotted a cracker who entered my system. A quick peep into the .bash_history and access_log showed that he is unskillful, and is an inexperienced Unix user.</p>
+</p><p class="whiteline"><p>He only uses pico as a text editor, which wasn&#8217;t installed on my machine. Then, he went on to using cat. I am willing to bet that he doesn&#8217;t know how to use vi. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="whiteline"><p>He accessed via ftp and downloaded nothing, leaving traces of his IP address <em>everywhere</em>, in all sorts of logs.</p>
+</p><p class="whiteline"><p>I then found out that he runs windows with windows firewall on and is from US.</p>
+</p><p class="break"><p>On the other hand, I think PalmOne has a new product. LifeDrive. It&#8217;ll be released in a few days and I think I&#8217;m definitely going to buy one, when I have the cash.</p></p>

@@ -1,0 +1,14 @@
+---
+layout: page
+title: Error 404
+footer: false
+menu: false
+---
+<p>The page you have requested cannot be found. Why not read some of my latest entries instead?</p>
+<div id="blog-archives" class="missing">
+{% for post in site.posts limit: 10 %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
+</div>

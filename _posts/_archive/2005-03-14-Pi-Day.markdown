@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/31-Pi-Day.html
+layout: post
+title: Pi Day
+date: 2005-03-14 00:01:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/31-Pi-Day.html
+categories: 
+- school
+---
+<p class="break"><p>To all Maths lovers and non-lovers alike, Happy Pi Day!</p></p>

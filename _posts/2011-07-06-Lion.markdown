@@ -1,0 +1,20 @@
+--- 
+permalink: /blog/archives/816-Lion.html
+layout: post
+title: Lion
+date: 2011-07-06 02:25:05 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/816-Lion.html
+categories: 
+- computers
+- thoughts
+- apple
+- lion
+- mac
+- OSX
+- technology
+---
+<p>I&#8217;ve succeeded and my backups worked flawlessly. The only problem was that it took way too long to copy files from my backup to my main drive.</p>
+
+<p>Applications that I&#8217;ve installed so far are working rather well. <a onclick="_gaq.push(['_trackPageview', '/extlink/roaringapps.com/']);"  href="http://roaringapps.com/">Roaringapps.com</a> has an application compatibility list for Lion. Do take a look before upgrading.</p>
+
+<p>That aside, I&#8217;m loving how Lion is a little snappier in the interface and it comes with iPhone&#8217;s autocorrect. It&#8217;s just that the scrolling requires some getting used to. I&#8217;ll post more when I&#8217;ve got more to say.</p>

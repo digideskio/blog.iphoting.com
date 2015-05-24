@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/320-Greet.html
+layout: post
+title: Greet
+date: 2006-05-26 23:59:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/320-Greet.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Today, I&#8217;ve met teachers from the two ends of the spectrum. One which apologises when he found that he was in the wrong, and another which shifts the blame back onto the students despite the obvious incompetence.</p>
+</p><p class="whiteline"><p>Behaving like the latter is sure to top my dislike chart.</p>
+</p><p class="whiteline"><p>Onto my third day with the Macbook and it has bring me much help and convenience everywhere. Especially when last minute printing of some presentation is required and that the nearest printer is unfortunately in the library.</p>
+</p><p class="whiteline"><p>Of course, there are cons of this portable. First of all and most damning of all, it&#8217;s the heat. I dare not give the machine any form of CPU intensive compiling job whenever it&#8217;s not sitting within an air-conditioned room. Classrooms fortunately have very powerful air-conditioning that can keep this hot plastic cool.</p>
+</p><p class="whiteline"><p>As for the pros, I&#8217;ll skip harping on how good Mac OS X is as I&#8217;ve done that before. The nice thing is that this machine does not exactly need to be shut down, integrating well with my working style. The screen is very bright; I only need half-brightness in my room (with a window facing the screen). The keyboard is great; feels exactly like my desktop keyboard. The gigantic trackpad is wonderful, so is the two-finger right-click feature. The best thing of all is the battery-life per charge. 5 plus hours is wonderful especially when the classroom has only a grand total of 4 usable power sockets, inconveniently placed at the front and back.</p>
+</p><p class="break"><p>Oh well, the holidays have started and my mock IOP is scheduled on this Tuesday. So much for holidays.</p></p>

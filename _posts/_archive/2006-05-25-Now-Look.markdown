@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/319-Now-Look.html
+layout: post
+title: Now Look
+date: 2006-05-25 22:07:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/319-Now-Look.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>With the maths portfolio out of the way, I&#8217;ll now post, as promised, pictures of the box opening ritual which most mac users tend to document</p>
+</p><p class="whiteline"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/gallery.iphoting.com/v/Macbook/']);"  href="http://gallery.iphoting.com/v/Macbook/"><img src="http://gallery.iphoting.com/d/7368-2/IMG_1669.JPG" /></a></p>
+</p><p class="whiteline"><p>Those are the quick pictures that I&#8217;d managed to take before starting on my work.</p>
+</p><p class="whiteline"><p>I&#8217;m now mentally dead but I would like to feed you with some cheap food for though. Ever wondered why the news papers have been so interested on the reforms of the Singapore Judiciary System?</p>
+</p><p class="break"><p>Despite the low price that I&#8217;ve paid for the Macbook, I&#8217;ve got only one complaint. That&#8217;s the heat that Intel Core Duos generate. I think the thermal paste issue is only a small yet minor contributing factor to such high temperatures.</p></p>

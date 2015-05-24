@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/340-Goof.html
+layout: post
+title: Goof
+date: 2006-06-29 00:01:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/340-Goof.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>What goofy. I&#8217;ve finally found the authors of various blogs; one that deals with coffee spoons, another with cows and another with professional matters. That certainly took longer than I thought I would need on retrospect.</p></p>

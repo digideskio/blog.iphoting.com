@@ -1,0 +1,20 @@
+--- 
+permalink: /blog/archives/354-Sync.html
+layout: post
+title: Sync
+date: 2006-07-11 06:00:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/354-Sync.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Many months ago, I&#8217;ve created a simple bash script to parse incoming Google Calendar Notification email messages and forwarding their plain text content to my phone via SMS, live. So, every morning, I get the latest revision of the day&#8217;s agenda in case I don&#8217;t have time to sync my Palm and mobile with iCal. The thing missing from Google Calendar would be a todo list facility. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="whiteline"><p>For you curious people, <a href="http://iphoting.iphoting.com/message.sh">here it is</a>. You&#8217;ll need singtelsms.py, maildrop and possibly procmail.</p>
+</p><p class="whiteline"><p>To use it, create a Procmail recipe to pipe all Google Calendar Daily Agenda mails into this script and ensure that the necessary auxiliary programmes are in your or Procmail&#8217;s path.</p>
+</p><p class="whiteline"><p>Lately, I&#8217;ve been receiving more intelligent spam than ever. The spams are cleverly crafted like all other legitimate mails with perfectly legitimate words but illogical sentences, and managed to successfully get through both my <a onclick="_gaq.push(['_trackPageview', '/extlink/spamassassin.apache.org/']);"  href="http://spamassassin.apache.org/">spamassassin</a> and <a onclick="_gaq.push(['_trackPageview', '/extlink/bogofilter.sourceforge.net/']);"  href="http://bogofilter.sourceforge.net/">bogofilter</a> spam analysis and rating filters. The most annoying part is that their subjects are not obviously spam to the eyes. I need to open them up to see if they are spam. Sometimes, I have to read and comprehend the message before I can differentiate them between spam and ham.</p>
+</p><p class="whiteline"><p>This is made worst by legitimate people who send one liner messages with poor grammar and paragraphing, allowing my poor eyes to mistake them for possible spam.</p>
+</p><p class="whiteline"><p>The next thing that I&#8217;m going to implement to reduce spam would be to highlight all messages which are from senders not from my address book (read: whitelist). This way, I hope that it would be easier to differentiate between definitely legitimate mails, possibly legitimate mails and definitely spam mails.</p>
+</p><p class="whiteline"><p>Still, I&#8217;m glad that spammers took so long before they&#8217;d reached this stage, allowing anti-spam solutions to work hard, positioning themselves almost one step ahead of the spammers. I believe that emails would be usable without paid priority emails and would work even better without such monetary segregation.</p>
+</p><p class="break"><p>In this other <a onclick="_gaq.push(['_trackPageview', '/extlink/www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=394399&amp;amp;in_page_id=1770']);"  href="http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=394399&amp;in_page_id=1770">news</a>, I&#8217;m sure we would be happy to hear it. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/laugh.png" alt=":-D" style="display: inline; vertical-align: bottom;" class="emoticon" /> Thanks Chris for the link.</p></p>

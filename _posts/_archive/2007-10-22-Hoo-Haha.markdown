@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/636-Hoo-Haha.html
+layout: post
+title: Hoo Haha
+date: 2007-10-22 19:24:45 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/636-Hoo-Haha.html
+categories: 
+- school
+- thoughts
+---
+<p class="break"><p>Lately, there&#8217;s been this loud commotion spilled over to the forum section of the TODAY newspapers. Naturally, I avoid the straits times but this time, I managed to spot an article on the &#8216;difficulty&#8217; of the PSLE mathematics paper.</p><p class="break"><!-- s9ymdb:79 --><img width='560' height='862' src="http://static-s3.iphoting.com/blog/uploads/School/2007-PSLE-Maths.jpg" alt="" /></p><p class="whiteline">I have to admit, I&#8217;m rusty with model diagrams and mental/finger arithmetic, but still, these questions are extremely manageable within 10 minutes, even with the methods employed by students in the primary level.</p>
+</p><p class="whiteline"><p>The problem I see is that those crying students have difficulty thinking on their feet or to reinterpret slightly (only slightly) unorthodox questions. Formula doesn&#8217;t always work. Brute-force is not possible without a calculator, so what do you do? Think, obviously!</p>
+</p><p class="whiteline"><p>The first question is certainly a no-brainer. Simple model question which shouldn&#8217;t need more explanation than a line: 3 units = 156 - 72, leading to the final answer, 44 kg.</p>
+</p><p class="whiteline"><p>The second question is still a simple model question, just differently worded. It shouldn&#8217;t even need a line but for the sake of solving this, 7 units - 6 units = 112 chairs. 14 units = 112 ⨉ 14 = 1568 chairs.</p>
+</p><p class="whiteline"><p>The third question is equally simple. It just required thinking! I solved it by finding the initial volume of tank A. Since the breadths of the tanks are identical, why not just push them together and assume them to be one tank? So, the height can be derived by dividing the volume by the area [(50 cm + 70 cm) ⨉ 40 cm]. Cancel things off and you get easy to manage small numbers, with 25 cm as the height.</p>
+</p><p class="whiteline"><p>And, I have no comments for the retired teacher.</p>
+</p><p class="break"><p>Still, to the students who ended up crying, please learn to take failures in stride.</p></p>

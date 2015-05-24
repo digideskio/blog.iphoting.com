@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/184-Backlog.html
+layout: post
+title: Backlog
+date: 2005-11-20 22:45:18 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/184-Backlog.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>I&#8217;ve finally cleared the backlog of entries piled up in my RSS reader over the past 2 days. I&#8217;ve added a boycott section on the right and found a few interesting sites that you might find interesting.</p>
+</p><p class="whiteline"><p>They are, <a onclick="_gaq.push(['_trackPageview', '/extlink/pomonahistorical.org/12times.htm']);"  href="http://pomonahistorical.org/12times.htm">An article on folding paper into half, greater than 12 times</a>, <a onclick="_gaq.push(['_trackPageview', '/extlink/wiki.ehow.com/Read-12-Digit-UPC-Barcodes']);"  href="http://wiki.ehow.com/Read-12-Digit-UPC-Barcodes">Reading UPC Barcodes</a> and <a onclick="_gaq.push(['_trackPageview', '/extlink/malapropos-wisecracks.blogspot.com/2005/07/singapores-status-quo.html']);"  href="http://malapropos-wisecracks.blogspot.com/2005/07/singapores-status-quo.html">The Status Quo of Singapore</a>.</p>
+</p><p class="break"><p>Btw, the cheapest USB barcode reader that I know of is $250.</p></p>

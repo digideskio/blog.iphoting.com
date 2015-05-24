@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/227-First.html
+layout: post
+title: First
+date: 2006-01-03 22:18:37 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/227-First.html
+categories: 
+- computers
+- school
+- thoughts
+---
+<p class="whiteline"><p>Looks like I&#8217;ll needa reuse the titles a little, since it&#8217;s the new year and it&#8217;s getting harder to look for a word which has not been used before and is relevant to the post and sort of makes up a story when the titles are strung up in time.</p>
+</p><p class="whiteline"><p>Digression. So, today was a start. Fortunately, I was reached school quite early (7am) and found that my orientation group wasn&#8217;t bad, in fact it was better than I&#8217;d expect.</p>
+</p><p class="whiteline"><p>New building is really coming up and classrooms are finally done. The automatic taps are cool; a great way to save money/water I guess.</p>
+</p><p class="whiteline"><p>I felt that the theme for this year was somewhat deeper than before; it&#8217;s as if there&#8217;s more to it that it meets the eye. And the ACS talk was cool.</p>
+</p><p class="whiteline"><p>School&#8217;s tiring and I&#8217;ll sleep now.</p>
+</p><p class="break"><p>Meanwhile, check out <a onclick="_gaq.push(['_trackPageview', '/extlink/pchere.blogspot.com/2005/12/50-best-firefox-extensions-for-power.html']);"  href="http://pchere.blogspot.com/2005/12/50-best-firefox-extensions-for-power.html">this list</a> of popular firefox extensions.</p></p>

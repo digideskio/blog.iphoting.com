@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/310-Rest.html
+layout: post
+title: Rest
+date: 2006-05-12 17:10:39 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/310-Rest.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>On this day of given rest, I rested; away from work and the thought of  work, immersing myself in the freedom of the web and the fun of reading.</p>
+</p><p class="whiteline"><p>I expended my blog reading list further to encapsulate year 1s and other edges of the framework. It is very interesting to note that the blogs are highly influential to their neighbours and I managed to see traces of similarity within a &#8216;cell&#8217;. They are like independent islands among the vast ocean, linked tightly to each other via bridges, and also connecting them to the outside world.</p>
+</p><p class="whiteline"><p>Upon <a onclick="_gaq.push(['_trackPageview', '/extlink/theoneandonlyuncleedna.blogspot.com/']);"  href="http://theoneandonlyuncleedna.blogspot.com/">this blog</a> that I&#8217;d stumbled, I found something special; I&#8217;m not exactly sure what but it&#8217;s interesting.</p>
+</p><p class="whiteline"><p>There are a few things that I would like to achieve in my lifetime. One of them is to have something like <a onclick="_gaq.push(['_trackPageview', '/extlink/web.mit.edu/zacka/www/midas.html']);"  href="http://web.mit.edu/zacka/www/midas.html">this</a> installed/built in my future house.</p>
+</p><p class="break"><p>Today, Rev. Dr. Phil Pringle gave a very very good and enlightening sermon. You must check it out.</p></p>

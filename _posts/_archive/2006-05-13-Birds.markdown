@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/311-Birds.html
+layout: post
+title: Birds
+date: 2006-05-13 15:35:14 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/311-Birds.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Found this <a onclick="_gaq.push(['_trackPageview', '/extlink/vyew.com/']);"  href="http://vyew.com/">Vyew</a>, &#8220;a browser-based conferencing and always-on collaboration platform that provides instant visual communication without the need for client downloads or installations&#8221;.</p>
+</p><p class="break"><p>Check it out. It&#8217;s pretty amazing what non-IE (or Flash) can bring to you.</p></p>

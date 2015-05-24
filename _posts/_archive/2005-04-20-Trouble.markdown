@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/45-Trouble.html
+layout: post
+title: Trouble
+date: 2005-04-20 19:22:35 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/45-Trouble.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>&#8220;I don&#8217;t look for trouble, trouble finds me&#8221;</p>
+</p><p class="whiteline"><p>My sanity has almost been drained out of me. A bullet, high speed and low visibility; once you&#8217;ve seen it, it&#8217;s too late.</p>
+</p><p class="break"><p>Ask me not what happened, for you will know in due time.</p></p>

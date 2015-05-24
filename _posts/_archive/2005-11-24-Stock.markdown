@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/187-Stock.html
+layout: post
+title: Stock
+date: 2005-11-24 09:46:04 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/187-Stock.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Prior to the end of the great and not-so-great examinations, my mind has been (partially) filled with plans on indexing, aka stock taking, everything in my house which is not used daily. Those stuff are usually found in the store room, waiting for visits by vermin and who-knows-what.</p>
+</p><p class="whiteline"><p>So, I spent some time looking for a decent barcode font/convention and a method to mass print them (non-identical ones). As with all things, I can&#8217;t settle for a font. Code 128B or Code 39? ISBN is out of the question as it has a strange numbering algorithm. Other nicer ones are not available on opensource barcode generators. I&#8217;m eyeing on PDF417 but I&#8217;m not sure if budget barcode scanners can interpret this 2D format.</p>
+</p><p class="whiteline"><p>Maybe I should spend my time on something else instead.</p>
+</p><p class="break"><p>Oh, and I&#8217;m giving my hair a <i>deep currant</i> colour.</p></p>

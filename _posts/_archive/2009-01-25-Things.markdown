@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/732-Things.html
+layout: post
+title: Things
+date: 2009-01-25 19:37:53 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/732-Things.html
+categories: 
+- computers
+- life
+---
+<p class="whiteline"><p>I&#8217;ve finally come across a decent &#8220;GTD&#8221; kind of application, which is basically a very powerful ToDo list manager. It can finally hold back todo items till a certain date before it pops up, removing a lot of clutter from my todo list.</p>
+</p><p class="whiteline"><p>Check out this amazing application aptly named, <a onclick="_gaq.push(['_trackPageview', '/extlink/culturedcode.com/things/']);"  href="http://culturedcode.com/things/">Things</a>. It has a Mac and iPhone edition, allowing Wifi sync between the two apps.</p>
+</p><p class="break"><p>That aside, I love the design of the site. Clean and functional, blending syntax with schema.</p></p>

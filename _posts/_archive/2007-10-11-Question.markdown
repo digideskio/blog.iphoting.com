@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/626-Question.html
+layout: post
+title: Question
+date: 2007-10-11 00:34:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/626-Question.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>I wonder how observant everyone around here is. I have a question and I&#8217;m curious to see what answers I&#8217;ll get. Here goes, &#8220;what is the most interesting sight at 9 am in the school canteen?&#8221;.</p>
+</p><p class="break"><p>Happy watching. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/wink.png" alt=";-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></p>

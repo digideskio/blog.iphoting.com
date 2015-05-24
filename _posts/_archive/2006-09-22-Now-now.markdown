@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/393-Now-now.html
+layout: post
+title: Now now
+date: 2006-09-22 20:43:49 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/393-Now-now.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Keeping my posts short, I&#8217;ll post a video and write a few words.</p>
+</p><p class="whiteline"><p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/5ixTtWR3PLI"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/5ixTtWR3PLI" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+</p><p class="whiteline"><p>School has been cutting corners to new heights. Air-conditioning in the Canteen can be mysteriously remain turned off until way past school hours. Chemistry remedial notes can come printed 4 pages a side on rough paper. I can barely make up the words, much worst the superscripts used in the exponents. Seriously, if we&#8217;re so tight on funds, please sell some brooms and dustpans and buy the teachers more paper. Or better, get the online Learning Management System working so that less papers need to be used. I sincerely doubt that the organisation is that caring about the environment. Not to mention, the External Validation presentations are just flooded with statistics, which according to Mark Twain, are one of the three types of lies - &#8220;Lies, Damn Lies and Statistics&#8221;.</p>
+</p><p class="whiteline"><p>I hope the secrecy of the past-year paper answer key has nothing to do with the exam paper. After all, beginning with the end in mind is easier than driving blind along a hazy road.</p>
+</p><p class="break"><p>10 days.</p></p>

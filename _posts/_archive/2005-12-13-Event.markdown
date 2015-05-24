@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/203-Event.html
+layout: post
+title: Event
+date: 2005-12-13 13:02:27 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/203-Event.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>Starting to get bored at home, I looked up what the hype of Sudoku is all about. Lo and behold, it&#8217;s a interesting number arrangement game. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /> And of course, being a lazy person, I would naturally start thinking of a way for the computer to solve it. Computers are tools right? So, what&#8217;s wrong with using it to solve problems?</p>
+</p><p class="whiteline"><p>A quick look into the all-informative Wikipedia yielded some results. Several algorithms are already available for solving such problems and Sudoku can be solved by a deterministic finite automaton that knows the entire game tree. One of them is <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Graph_coloring']);"  href="http://en.wikipedia.org/wiki/Graph_coloring">graph colouring</a>. Another is <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Dancing_Links']);"  href="http://en.wikipedia.org/wiki/Dancing_Links">Dancing Links</a>, which I&#8217;ve downloaded a paper to read. It&#8217;s quite hard to understand due to my insufficient mathematical knowledge (now who says maths is useless or difficult). This should be a good project to embark on: Understanding the Dancing Links algorithm. Then, apply it in solving Sudoku puzzles.</p>
+</p><p class="whiteline"><p>Meanwhile, I&#8217;ve noticed something amusing. From my observation, a person&#8217;s personality/character seem to resemble his facial expression and/or features. The way the pair of eyes move and the duration of pauses before responses all seem to follow a pattern.</p>
+</p><p class="whiteline"><p>I&#8217;ve met a person somewhere and got a rough (personality) sketch/spec of him. On the bus one day, I happen to notice another person with similar facial expressions/features. And surprisingly, the way he speaks is also similar to the former! The way he walks and how he approaches people or objects is also bares resemblence to the former. This is just one easy to illustrate example; I&#8217;ve seen more.</p>
+</p><p class="whiteline"><p>This makes me wonder. Apart from all the personality test, i.e. DISC, etc, are there any other tests which are based purely on physical appearance alone?</p>
+</p><p class="break"><p>This brings me to another point. Are fingerprints unique? I&#8217;ve yet to be able to locate scientific proof/paper that declares as such. And we&#8217;re talking about thumbprint scanners a door locks.</p></p>

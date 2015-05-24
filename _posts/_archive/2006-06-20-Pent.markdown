@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/334-Pent.html
+layout: post
+title: Pent
+date: 2006-06-20 23:18:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/334-Pent.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Spent the whole night fixing up links on sites and moving things around the messy web root. Looks like it&#8217;s time to lock out all wannabe webmasters from handling any sites.</p>
+</p><p class="whiteline"><p>In other news, we&#8217;ve got our very own <a onclick="_gaq.push(['_trackPageview', '/extlink/tomorrow.sg/archives/2006/06/19/guide_dog_discrimination_in_sing.html']);"  href="http://tomorrow.sg/archives/2006/06/19/guide_dog_discrimination_in_sing.html">guide dog and blind man discrimination video</a>. Someone got annoyed by the RIAA and decided to do something good to the community, that is to <a onclick="_gaq.push(['_trackPageview', '/extlink/www.ghacks.net/2006/06/16/how-to-boycott-the-music-industry-and-still-enjoy-music/']);"  href="http://www.ghacks.net/2006/06/16/how-to-boycott-the-music-industry-and-still-enjoy-music/">educate users on music shopping</a>. For more reasons why going original need not be the best thing, check out this <a onclick="_gaq.push(['_trackPageview', '/extlink/www.networkworld.com/newsletters/sbt/2006/0612networker3.html?page=1']);"  href="http://www.networkworld.com/newsletters/sbt/2006/0612networker3.html?page=1">commentary</a>.</p>
+</p><p class="whiteline"><p>For a budget and fun project, check out this cool <a onclick="_gaq.push(['_trackPageview', '/extlink/www.eng.uwaterloo.ca/%7Egmilburn/ac/']);"  href="http://www.eng.uwaterloo.ca/%7Egmilburn/ac/">homebrew air conditioner construction howto</a>. It&#8217;s a real cheap way of cooling the house on a hot day when air conditioners are too weak.</p>
+</p><p class="whiteline"><p>Here&#8217;s a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.bbc.co.uk/science/humanbody/sex/']);"  href="http://www.bbc.co.uk/science/humanbody/sex/">quick test</a> to determine the gender of your brain.</p>
+</p><p class="whiteline"><p>As for cool equipment, check out this <a onclick="_gaq.push(['_trackPageview', '/extlink/www.gizmag.co.uk/go/5764/']);"  href="http://www.gizmag.co.uk/go/5764/">chainless bicycle</a> and this <a onclick="_gaq.push(['_trackPageview', '/extlink/www.thinkgeek.com/gadgets/watches/7d2b/']);"  href="http://www.thinkgeek.com/gadgets/watches/7d2b/">funky Stonehenge clock</a>.</p>
+</p><p class="break"><p>Most importantly, <a onclick="_gaq.push(['_trackPageview', '/extlink/images.businessweek.com/ss/06/06/intern_mistakes/index_01.htm']);"  href="http://images.businessweek.com/ss/06/06/intern_mistakes/index_01.htm">Internship Mistakes</a> is a must read for people on their way to work.</p></p>

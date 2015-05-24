@@ -1,0 +1,19 @@
+--- 
+permalink: /blog/archives/143-Music.html
+layout: post
+title: Music
+date: 2005-09-22 01:54:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/143-Music.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>My 2 cents on (the) Music (industry).</p>
+</p><p class="whiteline"><p>There are currently only 2 and a half options for getting music in Singapore.</p>
+</p><p class="break"><p>Option 1: Run down to a brick and mortar store and purchase a shiny new cd with DRM and friends for SG$20, where ripping music out onto your mp3 players and what not are severely hampered and illegal.</p><p class="break">Option 1.5: Visit ;Play online music stall and &#8220;rent&#8221; crippled music where the terms and conditions of music enjoyment is governerned by the labels even <em>after</em> you&#8217;ve paid for them (songs).</p><p class="whiteline">Option 2: Download albums of music via the internet for no charge and have the freedom to copy it into your mp3 player and what nots.</p>
+</p><p class="whiteline"><p>If you&#8217;ve got choices, which would you choose?</p>
+</p><p class="whiteline"><p>Now, I&#8217;m not advocating piracy. Instead, the recording companies themselves are, with their (terrible) practices, ill-treating all their past, present and future (if any) customers. And they blame everyone else satisfying their customers.</p>
+</p><p class="whiteline"><p>Would you re-visit a hotel which mis-treated you, gave you inconvenience and charged exorbitant prices for their services (or lack thereof) again?</p>
+</p><blockquote><p class="break">Cheat me once, shame on you;</p><p class="break">Cheat me once more, shame on me.</p></blockquote><p>
+</p><p class="whiteline"><p>And thus, ever wondered why music cd sales are dropping? All they blame are pirates, p2p development, China, etc, etc, except their marketing practices. And by the way, there&#8217;s at least a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.switchfoot.com/']);"  href="http://www.switchfoot.com/">band</a> which <a onclick="_gaq.push(['_trackPageview', '/extlink/forums1.sonymusic.com/groupee/forums/a/tpc/f/716102313/m/5201067064']);"  href="http://forums1.sonymusic.com/groupee/forums/a/tpc/f/716102313/m/5201067064">doesn&#8217;t approve</a> of such DRM nonsense (instructions on how to circumvent the protection at previous link). It&#8217;s also <a onclick="_gaq.push(['_trackPageview', '/extlink/yro.slashdot.org/article.pl?sid=05/09/19/0343251&amp;amp;tid=141&amp;amp;tid=17']);"  href="http://yro.slashdot.org/article.pl?sid=05/09/19/0343251&amp;tid=141&amp;tid=17">covered</a> on <a onclick="_gaq.push(['_trackPageview', '/extlink/slashdot.org/']);"  href="http://slashdot.org/">Slashdot</a>.</p>
+</p><p class="break"><p>So all that lost cd sales due to piracy, is really something to be suspicious about. It&#8217;s not like piracy is new. If so, the music industry, aka recording companies, would have closed down long long time ago.</p></p>

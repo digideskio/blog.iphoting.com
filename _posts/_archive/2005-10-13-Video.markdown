@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/160-Video.html
+layout: post
+title: Video
+date: 2005-10-13 07:41:22 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/160-Video.html
+categories: 
+- computers
+- thoughts
+- computers
+- thoughts
+---
+<p class="whiteline"><p><a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/ipod/ipod.html']);"  href="http://www.apple.com/ipod/ipod.html">iPod, with Video</a>. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/eek.png" alt=":-O" style="display: inline; vertical-align: bottom;" class="emoticon" /> The 60GB model looks perfect for my needs. At least, it can fit slightly half of my media collection. Moreover, it&#8217;s smaller than the older iPod, which means I can probably fit this in my pocket without removing my current (pocket) setup arrangement.</p>
+</p><p class="whiteline"><p>I&#8217;m going to get that once my iPod Mini fails, which I hope not so soon.</p>
+</p><p class="whiteline"><p>I hope <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/itunes/overview/']);"  href="http://www.apple.com/itunes/overview/">iTunes 6</a> would be more responsive.</p>
+</p><p class="break"><p>One more, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.palm.com/us/products/handhelds/tx/']);"  href="http://www.palm.com/us/products/handhelds/tx/">Palm&#8217;s T|X</a> is impressive.</p></p>

@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/752-Pre.html
+layout: post
+title: Pre
+date: 2009-05-19 20:54:36 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/752-Pre.html
+categories: 
+- computers
+- thoughts
+---
+<p class="break"><p>Looking at the <a onclick="_gaq.push(['_trackPageview', '/extlink/www.palm.com/us/products/phones/pre/']);"  href="http://www.palm.com/us/products/phones/pre/">Palm Pre</a> concept demonstration videos, I can&#8217;t help but smile – the Palm that I&#8217;d known in my primary school days.</p><p class="break"><!-- s9ymdb:95 --><img class="serendipity_image_center" width="259" height="445" src="http://static-s3.iphoting.com/blog/uploads/Computers/PalmPre.jpg" alt="" /></p><p class="whiteline">A simple, unified and consistent interface, efficient access, flawless synchronisation and a huge 3rd party application eco-system.</p>
+</p><p class="whiteline"><p>Assuming that it delivers as advertised, its potential is vast and unhindered. Probably a renaissance for Palm, finally.</p>
+</p><p class="break"><p>I look forward to its launch on the 6th of June, 2009.</p></p>

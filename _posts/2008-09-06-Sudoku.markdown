@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/705-Sudoku.html
+layout: post
+title: Sudoku
+date: 2008-09-06 09:15:29 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/705-Sudoku.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Lately, I&#8217;ve just started playing this game called Sudoku and found it quite interesting. As usual, the first thing that comes to my mind when I have a rough idea of how a game works is to code an algorithm to solve the puzzle using a computer.</p>
+</p><p class="whiteline"><p>There are a few approaches to this problem I can think of so far. The easiest and slowest of all is the brute-force iteration method. Just sub in a number, check if it contradicts any rules, and move to the next box, with a whole decision making tree of what to do upon alternative situations.</p>
+</p><p class="whiteline"><p>The second approach is by elimination. Fill up all the blanks with all possible but legal numbers. Through the checking of rules in a circular method from the centre, alternatives will be eliminated and most puzzles can be solved.</p>
+</p><p class="whiteline"><p>The third approach, the hardest and most interesting, is by inspection. By &#8220;visually&#8221; inspecting how set numbers are placed in a gird, reference to the rules of the game, some solutions are obvious and can be easily solved. The greatest challenge is to let a linear piece of code &#8220;read&#8221; the grids and say, &#8220;this looks like the only possible solution here&#8221;.</p>
+</p><p class="whiteline"><p>I shall think a little more about the data representation schema before starting work.</p>
+</p><p class="break"><p>Python sounds like a rather good language to use...</p></p>

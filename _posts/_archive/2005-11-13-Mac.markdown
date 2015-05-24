@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/180-Mac.html
+layout: post
+title: Mac
+date: 2005-11-13 23:11:51 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/180-Mac.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>After some thought today, I&#8217;ve decided to get a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com.sg/macmini/']);"  href="http://www.apple.com.sg/macmini/">Mac Mini</a> <i>first</i> before I get a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com.sg/powerbook/index15.html']);"  href="http://www.apple.com.sg/powerbook/index15.html">15" PowerBook</a>.</p>
+</p><p class="whiteline"><p>As the specifications are somewhat similar, a Mac Mini would allow me to experience a PowerPC-based Mac with a low upfront investment, i.e. S$1,100 instead of S$3,400. Furthermore, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.appleinsider.com/article.php?id=1368']);"  href="http://www.appleinsider.com/article.php?id=1368">reliable sources</a> mentioned that Intel-based Macs, more specifically the iMac and PowerBooks, would be released around January, 2006.</p>
+</p><p class="whiteline"><p>So, I just sell off my computer for $800 and use that plus a little top-up to buy the Mac Mini.</p>
+</p><p class="whiteline"><p>Today&#8217;s service in Church was somewhat not too conventional. At least, I didn&#8217;t felt that the sermon was complete.</p>
+</p><p class="whiteline"><p>You might find <del>this documentary</del> interesting. (Link removed as that documentary is <em>banned</em> in Singapore) To access it, <b>at your own risk</b> or if you are outside Singapore, visit Google Video and search &#8216;singapore&#8217;.</p>
+</p><p class="break"><p><i>Updated: Removed link to enlightenment</i></p></p>

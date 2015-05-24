@@ -1,0 +1,22 @@
+--- 
+permalink: /blog/archives/257-Fad.html
+layout: post
+title: Fad
+date: 2006-02-18 14:00:38 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/257-Fad.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Now now, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.eff.org/deeplinks/archives/004409.php']);"  href="http://www.eff.org/deeplinks/archives/004409.php">ripping cds to iPods is not Fair Use, says RIAA</a>. Does that mean that every iPod owner has broken the law? Yes, it apparently is, according to RIAA. So, this means that there&#8217;s no way for people who own iPods in countries where iTunes music store is unavailable to obtain music legally, right?</p>
+</p><p class="whiteline"><p>Hence in short, it&#8217;s illegal to obtain music from cds, so as from the internet.</p>
+</p><p class="whiteline"><p>Since both are illegal and the latter is free, this gives people more reason to download music and avoid dangerous music cds! Yeah! Two wrongs doesn&#8217;t make a right anyway. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/tongue.png" alt=":-P" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="whiteline"><p>After a week or two of disconnection, I finally gave my iPod Mini a much needed resuscitation by plugging it into my comp for some battery juice. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /> It&#8217;d be cool if Apple would release &#8216;autofill&#8217; for its range of iPod products as I&#8217;m sure &#8216;everyone&#8217;s&#8217; music collection is larger than that of his iPod.</p>
+</p><p class="whiteline"><p>Yesterday, I sat within a wonderful discussion with no particular agenda. The richness of words that flowed around surely did make life worth living for them. How rarely can these stuff happen. Then, there was this idea of podcasting lectures (iTunes U) and &#8216;drinking tea makes you hot&#8217;. What amusement.</p>
+</p><p class="whiteline"><p>If you are those who, like me, would like a method to do MindMaps(R) digitally instead of via ink, correction fluid and paper, might want to check out <a onclick="_gaq.push(['_trackPageview', '/extlink/www.mindjet.com/us/products/mindmanager_pro6/index.php?s=1']);"  href="http://www.mindjet.com/us/products/mindmanager_pro6/index.php?s=1">MindManager</a> by Mindjet. Alternatively, for something free, check out <a onclick="_gaq.push(['_trackPageview', '/extlink/freemind.sf.net/']);"  href="http://freemind.sf.net/">FreeMind</a>, a very nice programme written in Java.</p>
+</p><p class="whiteline"><p>Now, to tackle the weekend.</p>
+</p><p class="whiteline"><p>One thing for sure, &#8216;ignorance <em>is</em> a bliss&#8217;. Ever since teaching my conscious mind in disecting body language and human responses (with their intended meanings), I&#8217;ve gradually found it to be less fun to be with people... I got to feel what I&#8217;ve not intentionally felt before and seen what I ought not see...</p>
+</p><p class="whiteline"><p>The more one knows, the more one know that he knows not. I believe that it may come to a time where one might know a little too much that he would find that it&#8217;s much better not knowing that much in the first place. &#8216;The red or the blue pill?&#8217;</p>
+</p><p class="whiteline"><p>I am somehow unwilling to discover that we might just be living in a &#8216;matrix&#8217;-like concept. There&#8217;s just too much that would become invalidated and trivialized. That&#8217;s denial in action or inaction.</p>
+</p><p class="whiteline"><p>Still, how am I to prove that &#8216;the cat is on the mat&#8217;? That&#8217;s &#8216;malnourishment&#8217; for thoughts.</p>
+</p><p class="break"><p>Anyway, <a onclick="_gaq.push(['_trackPageview', '/extlink/blog.guykawasaki.com/2006/01/how_to_get_a_st.html']);"  href="http://blog.guykawasaki.com/2006/01/how_to_get_a_st.html">here&#8217;s</a> something on public speaking.</p></p>

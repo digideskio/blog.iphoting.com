@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/479-Mean.html
+layout: post
+title: Mean
+date: 2007-02-18 16:37:38 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/479-Mean.html
+categories: 
+- computers
+---
+<p class="whiteline"><p>I chanced upon this paper, <a onclick="_gaq.push(['_trackPageview', '/extlink/labs.google.com/papers/disk_failures.pdf']);"  href="http://labs.google.com/papers/disk_failures.pdf">Failure Trends in a Large Disk Drive Population</a>, released by engineers at <a onclick="_gaq.push(['_trackPageview', '/extlink/www.google.com/']);"  href="http://www.google.com/">Google</a>.</p>
+</p><p class="break"><p>It&#8217;s quite an interesting read. Summary at <a onclick="_gaq.push(['_trackPageview', '/extlink/slashdot.org/']);"  href="http://slashdot.org/">Slashdot</a>, <a onclick="_gaq.push(['_trackPageview', '/extlink/hardware.slashdot.org/article.pl?sid=07/02/18/0420247&amp;amp;from=rss']);"  href="http://hardware.slashdot.org/article.pl?sid=07/02/18/0420247&amp;from=rss">here</a>.</p></p>

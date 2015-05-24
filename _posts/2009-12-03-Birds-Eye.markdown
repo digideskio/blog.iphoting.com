@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/781-Birds-Eye.html
+layout: post
+title: Bird's Eye
+date: 2009-12-03 00:14:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/781-Birds-Eye.html
+categories: 
+- computers
+- thoughts
+---
+<p class="break"><p><!-- s9ymdb:108 --><img class="serendipity_image_center" width="600" height="375" src="http://static-s3.iphoting.com/blog/uploads/Computers/WorldMapDesktop.png" alt="" /></p><p class="whiteline">I run a piece of software called <a onclick="_gaq.push(['_trackPageview', '/extlink/www.timepalette.com/earthdesk.php']);"  href="http://www.timepalette.com/earthdesk.php">EarthDesk</a> which sets the picture above as my second-screen desktop wallpaper, updated every few minutes with live data.</p>
+</p><p class="whiteline"><p>It&#8217;s rather therapeutic watching the city-lights go on at night and fade off on sunrise. Then, clouds perpetually cover the place where I live. I get to watch tropical cyclones form and move around.</p>
+</p><p class="break"><p>Quite entertaining, just like a fish tank.</p></p>

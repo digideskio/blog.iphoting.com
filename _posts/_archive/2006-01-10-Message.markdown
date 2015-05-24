@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/232-Message.html
+layout: post
+title: Message
+date: 2006-01-10 23:09:47 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/232-Message.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>2 hours away to the start of MacWorld Expo Keynote, aka Stevenote. I wonder what would be announced. I&#8217;ll know in the morning. Let&#8217;s see how accurate <a onclick="_gaq.push(['_trackPageview', '/extlink/krose.typepad.com/kevinrose/2006/01/macworld_2006.html']);"  href="http://krose.typepad.com/kevinrose/2006/01/macworld_2006.html">this</a> prediction turns out.</p>
+</p><p class="break"><p>School starts again tomorrow. I hope it&#8217;s less boring.</p></p>

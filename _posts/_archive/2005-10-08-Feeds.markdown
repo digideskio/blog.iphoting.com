@@ -1,0 +1,17 @@
+--- 
+permalink: /blog/archives/155-Feeds.html
+layout: post
+title: Feeds
+date: 2005-10-08 11:17:14 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/155-Feeds.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Google&#8217;s Feed <a onclick="_gaq.push(['_trackPageview', '/extlink/reader.google.com/']);"  href="http://reader.google.com/">Reader</a> is really cool. From there, I&#8217;d found out that all blogspot blogs have support for remote syndication, surprisingly.</p>
+</p><p class="whiteline"><p>Although the feed URL is not really published on the skin, it&#8217;s embeded in the meta tags and Mozilla Firefox should be able to pick it up. Anyway, the feed address (for most blogs) is http://<i>blogname</i>.blogspot.com/atom.xml</p>
+</p><p class="whiteline"><p>Yep, it&#8217;s Atom, not RSS.</p>
+</p><p class="whiteline"><p>This is great. It&#8217;ll save me time from surfing sites and enduring terrible font and colours.</p>
+</p><p class="whiteline"><p>In other news, Bloggers have been jailed. Watch out, there&#8217;s no such think as free speech, not even free thoughts.</p>
+</p><p class="break"><p>Oh yah, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.wakingashland.com/']);"  href="http://www.wakingashland.com/">Waking Ashland</a> makes beautiful music.</p></p>

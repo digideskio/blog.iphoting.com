@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/325-Up.html
+layout: post
+title: Up
+date: 2006-06-02 19:39:53 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/325-Up.html
+categories: 
+- computers
+- thoughts
+---
+<p class="break"><p>After looking through my palm todo list, it suddenly occurred to me that my domain is about to expire (September). This would set me back by US$9.20 for an extension of a year. On the other hand, I have some intention of getting another domain. I guess I&#8217;ll think about it when the timer starts ticking more loudly.</p></p>

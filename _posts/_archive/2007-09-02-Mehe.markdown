@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/603-Mehe.html
+layout: post
+title: Mehe
+date: 2007-09-02 18:05:37 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/603-Mehe.html
+categories: 
+- life
+---
+<p class="break"><div align="center"> </p><table style="color: black; background: #B7C3BA" border="0" cellpadding="0" cellspacing="2" width="270"> <tr> <td style="color: black; background: #eeeeee"> <div align="center">Big Five Word Test Results</div> </td> </tr> <tr> <td><b>Extroversion</b> (50%) medium which suggests you are moderately talkative, outgoing, sociable and interacting.<br /> <b>Accommodation</b> (47%) medium which suggests you are moderately kind natured, trusting, and helpful while still maintaining your own interests.<br /> <b>Orderliness</b> (50%) medium which suggests you are moderately organized, structured, and self controlled while still remaining flexible, varied, and fun.<br /> <b>Emotional Stability</b> (72%) high which suggests you are very relaxed, calm, secure, and optimistic.<br /> <b>Inquisitiveness</b> (64%) moderately high which suggests you are intellectual, curious, imaginative but possibly not very practical.<br /> </td> </tr> </table><p> <a onclick="_gaq.push(['_trackPageview', '/extlink/similarminds.com/big-5-word-pair.html']);"  href="http://similarminds.com/big-5-word-pair.html">Take Free Big Five Word Choice Test</a><br /><font size="1"><a onclick="_gaq.push(['_trackPageview', '/extlink/similarminds.com/']);"  href="http://similarminds.com/">personality tests by similarminds.com</a></font></div></p>

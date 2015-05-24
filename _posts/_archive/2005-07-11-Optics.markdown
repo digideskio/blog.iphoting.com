@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/102-Optics.html
+layout: post
+title: Optics
+date: 2005-07-11 00:13:21 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/102-Optics.html
+categories: 
+- life
+---
+<p class="whiteline"><p>Yesterday, I went with my sister to have her eyes checked. From there, I&#8217;d learnt about the method they used to check eye sight.</p>
+</p><p class="break"><p>In one of the screens, i.e. Red and Green, the testee will be asked to see which colour contains clearer circles. If the circle in the Red is clearer than the Green, the power of the current eye glass setting is not powerful enough. If the reverse is true, the glasses are overpowered.</p></p>

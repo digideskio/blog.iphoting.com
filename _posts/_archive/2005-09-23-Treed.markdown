@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/145-Treed.html
+layout: post
+title: Treed
+date: 2005-09-23 22:08:09 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/145-Treed.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><div class="serendipity_imageComment_center" style="width: 377px"><div class="serendipity_imageComment_img"><img width='377' height='226' border='0' hspace='5' src='http://static-s3.iphoting.com/blog/uploads/Computers/CCC-Table-2.png' alt='' /></div><div class="serendipity_imageComment_txt">The End Product</div></div>
+</p><p class="whiteline"><p>Having spent quite a number of hours, I&#8217;ve finally come up with a solution. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/laugh.png" alt=":-D" style="display: inline; vertical-align: bottom;" class="emoticon" /> But, I&#8217;d cheated a little (due to a lack of mental capacity).</p>
+</p><p class="whiteline"><div class="serendipity_imageComment_center" style="width: 476px"><div class="serendipity_imageComment_img"><img width='476' height='220' border='0' hspace='5' src='http://static-s3.iphoting.com/blog/uploads/Computers/CCC-Table-3.png' alt='' /></div><div class="serendipity_imageComment_txt">The Tweak</div></div>
+</p><p class="whiteline"><p>Here, with tweaks in the name column, it&#8217;s much easier now.</p>
+</p><p class="break"><p>Oh, in case your wondering what I was doing this for, it&#8217;s for the &#8216;Media Management&#8217; component of CCC (CCC&#8217;s COMPSERV&#8217;s CMS).</p></p>

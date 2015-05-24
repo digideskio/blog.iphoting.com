@@ -1,0 +1,14 @@
+--- 
+permalink: /blog/archives/144-Tree.html
+layout: post
+title: Tree
+date: 2005-09-22 23:20:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/144-Tree.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p><img width='351' height='218' border='0' hspace='5' src='http://static-s3.iphoting.com/blog/uploads/Computers/CCC-Table.jpg' alt='' /></p>
+</p><p class="whiteline"><p>Cranking my head hard for the past few hours but I&#8217;ve yet to come up with a solution in <a onclick="_gaq.push(['_trackPageview', '/extlink/www.php.net/']);"  href="http://www.php.net/">PHP</a> to generate a directory tree (in HTML) from the <a onclick="_gaq.push(['_trackPageview', '/extlink/www.mysql.com/']);"  href="http://www.mysql.com/">MySQL</a> table structure above.</p>
+</p><p class="whiteline"><p>The problem arises when the number of children and grandchildren of each parent is to be &#8220;unlimited&#8221;. Something to the effect of a loop within a loop and on-demand loop.</p>
+</p><p class="break"><p>I guess I&#8217;ve got to try out recursive functions (a function calling itself) but I&#8217;ve got no idea if PHP is optimised for it as it is in C.</p></p>

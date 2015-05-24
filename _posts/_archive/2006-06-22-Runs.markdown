@@ -1,0 +1,19 @@
+--- 
+permalink: /blog/archives/335-Runs.html
+layout: post
+title: Runs
+date: 2006-06-22 22:56:54 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/335-Runs.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Today is a day of errands. Spent well over 2 hours doing housekeeping matters such as shopping for EE necessities, going for a nice hair cut and visiting the library to do some literature review for my EE.</p>
+</p><p class="whiteline"><p>Before that, I used the short span of the morning playing Warcraft 3: Frozen Throne on my Mac. The performance of the Intel GMA 950 has been impressive. Running with Rosetta (WC3 is a PPC binary), medium graphics and on a 1024 by 600 resolution, lags were surprisingly not seen. I&#8217;m glad that this Macbook performed well in my (bank)books. Hence, this will finally be a Lanparty capable machine.</p>
+</p><p class="whiteline"><p>At my favourite hair management shop, I overheard the hair stylists chatting casually among each other, in Cantonese. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /> They were like talking bad about their boss over his newly acquired cash register which was amazingly troublesome to operate. Moments later, it generated into how lousy the radio (poor reception) and how he (my hair stylist) wanted to just walk to the radio and use the scissors to cut off the wires. The analogies and slangs used in the said language made my day well. <img src="http://static-s3.iphoting.com/blog/templates/default/img/emoticons/laugh.png" alt=":-D" style="display: inline; vertical-align: bottom;" class="emoticon" /></p>
+</p><p class="whiteline"><p>After that, I visited the Regional Library which I&#8217;m not very fond of to return a book. Walking between the narrow aisles of library shelves, locating an out-of-place book and enjoying the presence of immense wisdom surrounding one, brings me great joy and hope to life. Imagine the days before OPAC was available for public use; those cards and indexes. I marvel at how technology has amazingly changed the way of life. Spent hours there digging up Physics related books, jotting down their details for use in my EE bibliography.</p>
+</p><p class="whiteline"><p>Updated my blog manager and now it supports <a onclick="_gaq.push(['_trackPageview', '/extlink/akismet.com/']);"  href="http://akismet.com/">Akismet</a> for comments. Perfect as I don&#8217;t have to manually delete suspected spam comment approval requests; that&#8217;s what computers are for after all.</p>
+</p><p class="whiteline"><p>Came across this <a onclick="_gaq.push(['_trackPageview', '/extlink/jokerus2001.blogspot.com/2006/06/riezz-and-teacher.html']);"  href="http://jokerus2001.blogspot.com/2006/06/riezz-and-teacher.html">post</a> which I found pretty amusing and it <em>probably</em> reflects a large number people around.</p>
+</p><p class="whiteline"><p>If you do not believe that 0.9999... = 1, please look at this <a onclick="_gaq.push(['_trackPageview', '/extlink/polymathematics.typepad.com/polymath/2006/06/no_im_sorry_it_.html']);"  href="http://polymathematics.typepad.com/polymath/2006/06/no_im_sorry_it_.html">simple proof</a>. Also, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.computerworld.com/blogs/node/2803']);"  href="http://www.computerworld.com/blogs/node/2803">here</a>&#8217;s something that RIAA/MPAA should take note of.</p>
+</p><p class="break"><p>Oh well, a long day ahead for me tomorrow, and this mid-term study period is about to end, leading to intensive post-mid-term study sessions.</p></p>

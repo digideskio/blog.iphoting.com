@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/223-New.html
+layout: post
+title: New
+date: 2006-01-01 00:01:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/223-New.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Happy New Year! The leap second seems to have been added successfully. No reports of computers and satellites kneeling over. This would be the best season for mobile phone operators to earn on SMS messages. However, their SMS gateway service levels haven&#8217;t been of acceptable levels. I wonder how they cope during emergencies. Looks like with Christmas and New Year, my SMS quota would burst once again, and I hope this time, within reasonable levels.</p>
+</p><p class="whiteline"><p>But still, I would like to post one and only one resolution of the new year, 2006. That is, to fulfill my purpose for 2006.</p>
+</p><p class="whiteline"><p>Well, it&#8217;s 2 weeks to the announcement of MacIntel computers; I can&#8217;t wait. It&#8217;s 2 days to the start of school; I can wait.</p>
+</p><p class="break"><p>I guess the first day (of school) would be the messiest of all days ever.</p></p>

@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/406-Moo.html
+layout: post
+title: Moo
+date: 2006-10-06 20:18:59 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/406-Moo.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>As though the haze is not bad enough, people are burning candles and lanterns! Looking out of my window, the night sky looks grey; the moon looks yellow; and I can&#8217;t stop coughing.</p>
+</p><p class="break"><p>Thank God for air-conditioning.</p></p>

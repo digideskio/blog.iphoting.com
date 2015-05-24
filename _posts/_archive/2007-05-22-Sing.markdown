@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/553-Sing.html
+layout: post
+title: Sing
+date: 2007-05-22 22:34:12 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/553-Sing.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>I like the Newsboys band for the distinct tonality and rhythm.</p>
+</p><p class="break"><p>Here&#8217;s Something Beautiful.</p><p class="whiteline"><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/4OEmNhz7Ys4"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/4OEmNhz7Ys4" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+</p><p class="break"><p>And my favourite, He Reigns.</p><p class="break"><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/7mWoLzY-d7I"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/7mWoLzY-d7I" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p></p>

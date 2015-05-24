@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/484-Delights.html
+layout: post
+title: Delights
+date: 2007-02-26 21:10:57 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/484-Delights.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Oh and one more thing I&#8217;ve discovered today. <a onclick="_gaq.push(['_trackPageview', '/extlink/www.blizzard.com/war3/']);"  href="http://www.blizzard.com/war3/">Warcraft 3</a> and its expansion, <a onclick="_gaq.push(['_trackPageview', '/extlink/www.blizzard.com/war3x/']);"  href="http://www.blizzard.com/war3x/">The Frozen Throne</a>, for the Macintosh, is now a <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/universal/']);"  href="http://www.apple.com/universal/">Universal Binary</a>. Get the latest <a onclick="_gaq.push(['_trackPageview', '/extlink/www.blizzard.com/support/?id=mwr0642p']);"  href="http://www.blizzard.com/support/?id=mwr0642p">1.21 update</a> to enjoy the speedy goodness.</p>
+</p><p class="break"><p>Haha. Now the performance shall never be seen before.</p></p>

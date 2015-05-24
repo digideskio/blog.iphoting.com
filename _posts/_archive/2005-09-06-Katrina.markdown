@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/132-Katrina.html
+layout: post
+title: Katrina
+date: 2005-09-06 15:26:53 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/132-Katrina.html
+categories: 
+- life
+- thoughts
+---
+<p class="break"><p>It&#8217;s sad that the majority of those who voted from Mr Bush as president are complaining about his inefficiency in managing the crisis. Well, &#8220;you reap what you sow&#8221;.</p></p>

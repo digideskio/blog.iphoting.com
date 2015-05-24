@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/376-Fixtures.html
+layout: post
+title: Fixtures
+date: 2006-08-18 20:05:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/376-Fixtures.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>This is the day of long awaited maintenance. Three out of three desktops in my house required some form of meddling; two needed a new PSU and another needed a format. The pain about windows is that it requires a lot of time before and after a format in order for a computer to be of production ready status. Things get much complicated with Windows Activation and/or Windows Genuine Advantage.</p>
+</p><p class="whiteline"><p>Spent half a day shopping for two new PSUs which has 20 ATX pin support. The hardware installation was painlessly simple; it&#8217;s a matter of swapping the old for the new. The pain comes only when I&#8217;d realised that the new PSU I&#8217;d bought does not have support for (1st gen) P4 systems. Thankfully, the other one, the only working PSU is designed for P4 systems. Hence, a mutual swap saved the day.</p>
+</p><p class="whiteline"><p>After putting the new PSU in, both 4 year old systems worked like new again, albeit a little less snappy than my now-in-service Macbook.</p>
+</p><p class="break"><p>Looking at the old computers, I found it amusing that they managed to last so long without a pressing need for an upgrade. After all, should the hardware allow, these computers would be part of the furniture for a long time to come.</p></p>

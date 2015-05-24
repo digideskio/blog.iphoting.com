@@ -1,0 +1,10 @@
+--- 
+permalink: /blog/archives/2-Rain.html
+layout: post
+title: Rain
+date: 2005-01-02 14:13:06 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/2-Rain.html
+categories: 
+- life
+---
+<p class="break"><p>Came back this morning, to find that a few windows in my house are leaking... What a big problem, considering that it&#8217;s gonna continue down pouring (with strong winds) on my windows, for the next few days.</p></p>

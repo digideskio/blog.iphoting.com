@@ -1,0 +1,13 @@
+--- 
+permalink: /blog/archives/202-Best.html
+layout: post
+title: Best
+date: 2005-12-10 23:52:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/202-Best.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Back from Equinix, the best, most expensive and secure IDC in Singapore. I&#8217;ll leave the details out so that I won&#8217;t bore you.</p>
+</p><p class="whiteline"><p>Fedora Core&#8217;s really handicapped without the GUI. I wonder how can it be used for servers.</p>
+</p><p class="break"><p>My impression of mainland people has gone from bad to worst. Doing business with them is really going to be a last resort.</p></p>

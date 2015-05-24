@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/370-Haven.html
+layout: post
+title: Haven
+date: 2006-08-05 23:07:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/370-Haven.html
+categories: 
+- computers
+- school
+- thoughts
+---
+<p class="break"><p>I&#8217;m glad that Haven is finally over. Now for the reckoning of singing quality.</p></p>

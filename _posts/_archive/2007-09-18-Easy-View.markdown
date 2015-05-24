@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/614-Easy-View.html
+layout: post
+title: Easy View
+date: 2007-09-18 00:36:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/614-Easy-View.html
+categories: 
+- life
+- school
+- thoughts
+---
+<p class="break"><p>Some time back, the school went into a kind of frenzy, the administrative kind which attempts to create can wonderful show for external validators to watch, ranging from fancy powerpoint slides, to conducting buzzword-bingo for audiences to play. For a rough idea on what is more important than remedial lessons, check out <a onclick="_gaq.push(['_trackPageview', '/extlink/stressed-teacher.blogspot.com/2007/09/external-evaluation.html']);"  href="http://stressed-teacher.blogspot.com/2007/09/external-evaluation.html">this post</a>. Maybe some EV slides to go along when I get to them.</p></p>

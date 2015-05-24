@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/97-Sleep.html
+layout: post
+title: Sleep
+date: 2005-07-03 17:47:50 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/97-Sleep.html
+categories: 
+- life
+- thoughts
+---
+<p class="whiteline"><p>It might have been a sudden surge of stress-levels that my mind has never experienced for the past month. Or maybe, during the holidays, my work deep into the late nights might have screwed up my <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Circadian_rhythm']);"  href="http://en.wikipedia.org/wiki/Circadian_rhythm">circadian rhythm</a>. Or maybe, my pillow got changed (in my impression).</p>
+</p><p class="whiteline"><p>I suspect that I&#8217;m having <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Insomnia']);"  href="http://en.wikipedia.org/wiki/Insomnia">insomnia</a> for the past few days. I&#8217;ve never had any sleep which lasted for more than 5 hours. Terrible.</p>
+</p><p class="whiteline"><p>Fixing the circadian rhythm is difficult. I&#8217;ve tried changing the way I work and shifting my afternoon sleep patterns to match that of pre-June era. It&#8217;s starting to improve but I still think I lack sleep.</p>
+</p><p class="whiteline"><p>Or maybe, I just don&#8217;t have insomnia. I just have an overly active mind <em>even</em> when I&#8217;m on bed. When my eyes are exhausted beyond measure, my mind still functions at the rate to high for sleep. I won&#8217;t mind continue working but my eyes had hit the limits. I would love to do some studying, but with my eye closed, I&#8217;ve yet to find a way to do so. I&#8217;m thinking of trying morse code but I&#8217;ve yet to be proficient in it that my &#8220;reading&#8221; speed can reach that of my eyes. So, it&#8217;s a waste of time.</p>
+</p><p class="whiteline"><p>Hmm... maybe I could try fixing this by further partitioning my todo list from 4 quadrants to 8.</p>
+</p><p class="break"><p>1) Urgent &amp; Important</p><p class="break">2) Important but not urgent</p><p class="break">2a) Important but semi-urgent</p><p class="break">2b) Important and spreaded out evenly</p><p class="break">3) Urgent but not Important</p><p class="break">3a) Urgent but semi-important</p><p class="break">4) Neither urgent nor important</p><p class="whiteline">4a) Things to do when I cannot sleep</p>
+</p><p class="whiteline"><p>Ah ha. With that, I think I&#8217;d have a much better use of time. And then, multi-tasking would thus fit into the picture more naturally.</p>
+</p><p class="break"><p>I also suspect that I had <a onclick="_gaq.push(['_trackPageview', '/extlink/en.wikipedia.org/wiki/Rapid_eye_movement_behavior_disorder']);"  href="http://en.wikipedia.org/wiki/Rapid_eye_movement_behavior_disorder">REM behavior disorder</a> before. I remember injuring my hand on the table and &#8220;tripping&#8221; over in a dream.</p></p>

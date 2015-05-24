@@ -1,0 +1,11 @@
+--- 
+permalink: /blog/archives/192-Awards.html
+layout: post
+title: Awards
+date: 2005-11-26 21:35:52 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/192-Awards.html
+categories: 
+- school
+- thoughts
+---
+<p class="break"><p>Looks like <a onclick="_gaq.push(['_trackPageview', '/extlink/www.dhs.moe.edu.sg/']);"  href="http://www.dhs.moe.edu.sg/">this school</a> also has a great number of MoE awards, such as the SDA and SEA.</p></p>

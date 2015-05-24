@@ -1,0 +1,26 @@
+--- 
+permalink: /blog/archives/832-iMessage.html
+layout: post
+title: iMessage
+date: 2011-11-01 22:05:15 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/832-iMessage.html
+categories: 
+- computers
+- thoughts
+- apple
+- iMessage
+- iOS
+---
+<p>I&#8217;ve realised that iMessage will fall-back to SMS automatically when it detects that the recipient is unable to receive iMessages for whatever reason. This tiny feature alone one-ups Whatsapp.</p>
+
+<p>To the uninformed, iMessage was rolled out to all iOS devices that support iOS 5. This includes iPhone (3GS, 4, 4S), iPad, and iPod Touch. iMessage allows users to message one another via the Internet, free-of-charge, similar to the ubiquitous Whatsapp.</p>
+
+<p>It is deeply integrated into the SMS Messages app and will be in-use whenever the recipient of your message is on iOS 5 (and does not have iMessage disabled).  You will be able to tell that you are sending an iMessage when the interface chrome is blueish in colour, and the placeholder text in the message area reads &#8216;iMessage&#8217;.</p>
+
+<p>While it is clear that a Text Message will be sent when the recipient does not have iMessage enabled, what about cases in which the user has iMessage enabled, but does not have access to the Internet at the moment you send an iMessage to him?</p>
+
+<p>In the case of Whatsapp, your message will be stored on the server, and the user notified only after he establishes connection to the internet. Well, as some will say, you could always fall-back to SMS when you noticed that he has not read your message after awhile, albeit manually.</p>
+
+<p>As for iMessage, it will automagically fall-back to SMS the moment the system detects that the recipient has not received the message via iMessage, after a few minutes.</p>
+
+<p>So, don&#8217;t worry about not being able to switch to SMS manually. You don&#8217;t have to—the system will do all the heavy lifting for you.</p>

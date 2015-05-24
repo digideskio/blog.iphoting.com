@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/372-Shoes.html
+layout: post
+title: Shoes
+date: 2006-08-11 21:16:19 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/372-Shoes.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Oh well, time flies really fast; the next committee is on its way to be installed. Being week A, I&#8217;ve lost a recess once again.</p>
+</p><p class="whiteline"><p>It makes me wonder always (I&#8217;m always in wonderland); consider this scenario (fully fictional and coincidental) – You are late for school again and your punishment is detention class for the end of the week. You then somehow used various techniques such as lying, misleading and simply being unreasonable, to demand that the discipline master <em>compromise</em>, blaming the school for bringing forward the assembly time despite obvious incompetence on your part for leaving your house late, reducing your punishment to a mere warning and half-hour CWO after school.</p>
+</p><p class="whiteline"><p>Now, what do you think? Is the student unreasonable? Or should the discipline master even compromise in the first place?</p>
+</p><p class="whiteline"><p>Having seen <a onclick="_gaq.push(['_trackPageview', '/extlink/www.puzzleworld.org/SlidingBlockPuzzles/sqroot.htm']);"  href="http://www.puzzleworld.org/SlidingBlockPuzzles/sqroot.htm">this puzzle</a> a few days ago, I decided to spend some time to complete it as it has been bugging my subconscious longer that I would like it to. Completed it in 2 hours or so in 572 steps, with most of the steps wasted going in circles.</p>
+</p><p class="whiteline"><p>Enterprise sent me this <a onclick="_gaq.push(['_trackPageview', '/extlink/sgentrepreneurs.com/commentary/2006/04/13/why-great-student-enterprises-dont-take-excuses-for-an-answer/']);"  href="http://sgentrepreneurs.com/commentary/2006/04/13/why-great-student-enterprises-dont-take-excuses-for-an-answer/">article</a> today and I found that it explains what I see quite well.</p>
+</p><p class="break"><p>Apple is quite amazing. I guess they must be the only company to have migrated products across architectures without hiccups and major loss in market share. The Mac Pro makes a good machine to have. In fact, it makes a <em>very good</em> lan party machine in terms of looks and performance.</p></p>

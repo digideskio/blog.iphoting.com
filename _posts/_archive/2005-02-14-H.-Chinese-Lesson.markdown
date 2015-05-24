@@ -1,0 +1,12 @@
+--- 
+permalink: /blog/archives/20-H.-Chinese-Lesson.html
+layout: post
+title: H. Chinese Lesson
+date: 2005-02-14 23:51:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/20-H.-Chinese-Lesson.html
+categories: 
+- life
+- school
+---
+<p class="whiteline"><p>Today, the thing that I&#8217;ve learnt, which was interesting, was that when a person is sleeping, his eyes &#8220;roll&#8221; from left to right and back.</p>
+</p><p class="break"><p>REM sleep?</p></p>

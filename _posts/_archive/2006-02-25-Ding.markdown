@@ -1,0 +1,15 @@
+--- 
+permalink: /blog/archives/262-Ding.html
+layout: post
+title: Ding
+date: 2006-02-25 15:04:42 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/262-Ding.html
+categories: 
+- computers
+- life
+- thoughts
+---
+<p class="whiteline"><p>Ok. Added my del.icio.us collection and Flickr streams to the right.</p>
+</p><p class="whiteline"><p>In such short time, a MacBook Pro <a onclick="_gaq.push(['_trackPageview', '/extlink/www.ifixit.com/Guide/85.0.0.html']);"  href="http://www.ifixit.com/Guide/85.0.0.html">dismantling guide</a> has been released. Meanwhile, we must congratulate the <a onclick="_gaq.push(['_trackPageview', '/extlink/business.timesonline.co.uk/article/0,,9075-2051196,00.html']);"  href="http://business.timesonline.co.uk/article/0,,9075-2051196,00.html">UK Piracy Office for their anti-piracy efforts</a>! And on the home front, <a onclick="_gaq.push(['_trackPageview', '/extlink/happycitizen.blogspot.com/2006/02/nkf-regulators-no-wrong-done.html']);"  href="http://happycitizen.blogspot.com/2006/02/nkf-regulators-no-wrong-done.html">NKF regulators <i>certainly</i> did no wrong</a>.</p>
+</p><p class="whiteline"><p>I can&#8217;t wait for the next Apple&#8217;s product announcement; I&#8217;m now eyeing for the 13" MacBook, the MacBook Pro is now out of my budget.</p>
+</p><p class="break"><p>I pity the Sec 1s who&#8217;d spent over 2.5k on a locked down and weak tablet. The money could have been used for something better and of greater value.</p></p>

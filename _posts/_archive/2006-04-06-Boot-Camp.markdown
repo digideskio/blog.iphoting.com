@@ -1,0 +1,16 @@
+--- 
+permalink: /blog/archives/285-Boot-Camp.html
+layout: post
+title: Boot Camp
+date: 2006-04-06 01:13:00 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/285-Boot-Camp.html
+categories: 
+- computers
+- life
+- school
+- thoughts
+---
+<p class="whiteline"><p>Hell really did break loose. Apple has released <a onclick="_gaq.push(['_trackPageview', '/extlink/www.apple.com/macosx/bootcamp/']);"  href="http://www.apple.com/macosx/bootcamp/">Boot Camp (Beta)</a> for Intel-based Mac computers to dual-boot Mac OS X with Winblows XP! Haha... Now, this is the ultimate justification for me to get Apple hardware and not-surprisingly, Apple hardware sales should sky rocket, so will their shares, by 10% I&#8217;d last checked. I was planning to get some of their shares but thanks to this new product, it looks like I got to wait a while.</p>
+</p><p class="whiteline"><p>These days, I&#8217;m wondering about the practicability of staying back in school to do anything. Firstly, the library is a place for silent reading and that no one is allowed to make any form of noise. How to discuss projects and ideas? Name me a place with air-conditioning which is in operation and has tables and chairs. Secondly, the student-to-computer ratio isn&#8217;t very good either. I don&#8217;t know what this means in a 21st century; getting something printed requires somewhat advanced samba networking skills. Thirdly, ironically, the library closes at 5pm, right after dismissal, as does the canteen. Like that how? Those who manage to stay back till 7 pm plus must either have been stranded due to transportation problems, have their own room in (boarding) school or they just have special dedicated activities that require not much of school facilities.</p>
+</p><p class="whiteline"><p>These days, I find it strange that the stall holders in the canteen seem to look <i>very</i> unhappy, their face colour at times darker than the clouds in the sky. Air-conditioning too is turned off way too early - by the time school ends proper, the canteen is warm and humid. Advancement speculated that the rent might have been raised. That explanation sounds rather reasonable; maybe I should have a chat with one of the stall holders.</p>
+</p><p class="break"><p>Oh yah, I love the stabs at Windows on the side pane of the Boot Camp page.</p></p>

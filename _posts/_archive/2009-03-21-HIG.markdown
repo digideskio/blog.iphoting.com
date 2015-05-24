@@ -1,0 +1,18 @@
+--- 
+permalink: /blog/archives/741-HIG.html
+layout: post
+title: HIG
+date: 2009-03-21 14:51:42 +08:00
+s9y_link: http://www.iphoting.com/blog/archives/741-HIG.html
+categories: 
+- computers
+- thoughts
+---
+<p class="whiteline"><p>Andy Matuschak has written a <a onclick="_gaq.push(['_trackPageview', '/extlink/andymatuschak.org/articles/2008/05/07/user-interaction-101/']);"  href="http://andymatuschak.org/articles/2008/05/07/user-interaction-101/">great post</a> on difference between user-friendly software and developer-friendly software.</p>
+</p><blockquote><p class="break">A typical response to my reasoning goes something along the lines of: “Yeah, but with Beryl, Linux looks even better!”</p></blockquote><p>
+</p><p class="whiteline"><p>The thought process is typical of people trying very hard to promote the Windows Mobile operating system.</p>
+</p><blockquote><p class="break">The computer scientists I talk to just don’t understand that user interface is about how the program acts, not how it looks. And really, I think that’s why there’s so much terrible software out there: these are the people who are building it!</p></blockquote><p>
+</p><p class="whiteline"><p>And you&#8217;ll keep getting &#8220;touchscreen&#8221; phones that require a stylus or sharp fingernails. These should be called pokescreen instead.</p>
+</p><blockquote><p class="break">In five minutes, you’ve got to leave for a doctor’s appointment, but there’s this thing you’ve really got to get done first, and you need iFoo to do it.</p></blockquote><p>
+</p><p class="whiteline"><p>Try making a phone call in a rush with a keyboard-less WM phone.</p>
+</p><p class="break"><p>WM might have improved, but the philosophy isn&#8217;t realigned yet. They ought to take a good read of the post. There is a reason why the iPhone takes off rapidly.</p></p>
