@@ -5,3 +5,11 @@ namespace :assets do
 		end
 end
 
+desc "Deploy site"
+task :deploy do
+		system "octopress deploy"
+end
+
+task :build => ["assets:precompile"]
+task :default => ["assets:precompile"]
+
