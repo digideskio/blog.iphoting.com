@@ -5,11 +5,20 @@ namespace :assets do
 		end
 end
 
-desc "Deploy site"
-task :deploy do
-		system "octopress deploy"
+namespace :deploy do
+		desc "Deploy to git"
+		task :git do
+				system "git push"
+				system "git push heroku master"
+		end
+
+		desc "Deploy to S3"
+		task :s3 do
+				system "octopress deploy"
+		end
 end
 
+task :deploy => ["deploy:s3", "deploy:git"]
 task :build => ["assets:precompile"]
 task :default => ["assets:precompile"]
 
