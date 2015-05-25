@@ -15,8 +15,8 @@ linkblog:
   linkpost:
     marker: "&rarr;"
 
-exclude: [tmp, vendor]
-include: [.powrc]
+exclude: [tmp, vendor, Gemfile, Gemfile.lock, Procfile, Rakefile, config, config.ru]
+include: []
 
 # Build settings
 markdown: kramdown
