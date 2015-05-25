@@ -145,6 +145,7 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
     rack (1.6.1)
+    rack-embed (0.0.1)
     rainbows (4.6.2)
       kgio (~> 2.5)
       rack (~> 1.1)
@@ -192,6 +193,7 @@ DEPENDENCIES
   octopress-render-code
   octopress-return-tag
   octopress-solarized
+  rack-embed
   rainbows
   rake
   vienna

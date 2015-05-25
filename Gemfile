@@ -28,5 +28,7 @@ group :production do
 	gem 'rainbows'
 end
 
+gem 'rack-embed'
+
 gem 'rake'
 gem 'vienna'
