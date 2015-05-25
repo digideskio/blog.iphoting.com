@@ -20,7 +20,7 @@ namespace :deploy do
 		end
 
 		desc "Deploy to S3"
-		task :s3 do
+		task :s3 => [:build] do
 				system "octopress deploy"
 		end
 end
