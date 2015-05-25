@@ -1,3 +1,10 @@
+desc "Preview Site"
+task :serve do
+		system "jekyll s -D"
+end
+
+task :preview => :serve
+
 namespace :assets do
 		desc "Precompile assets"
 		task :precompile do
