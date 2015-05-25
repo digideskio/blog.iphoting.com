@@ -11,22 +11,15 @@ By day, I help clients with their US Tax Compliance (FATCA) issues and by night,
 
 This is my blog where I write about Technology and Current Affairs.
 
-[![LinkedIn][]][l] [![Twitter][]][t] [![Facebook][]][f] [![GitHub][]][g] [![Instagram][]][i] [![Foursquare][]][4sq] [![Email][]][e]
+[{% icon fa-linkedin fa-fw %}][l] [{% icon fa-twitter fa-fw %}][t] [{% icon fa-facebook fa-fw %}][f] [{% icon fa-github fa-fw %}][g] [{% icon fa-instagram fa-fw %}][i] [{% icon fa-foursquare fa-fw %}][4sq] [{% icon fa-envelope-o fa-fw %}][e]
 
 [Read More &rarr;][read]
 
-[Twitter]: /images/social-icons/twitter.png "Twitter"
 [t]: https://twitter.com/iphoting
-[Facebook]: /images/social-icons/facebook.png "Facebook"
 [f]: https://facebook.com/iphoting
-[GitHub]: /images/social-icons/github.png "GitHub"
 [g]: https://github.com/iphoting
-[Instagram]: /images/social-icons/instagram.png "Instagram"
 [i]: https://instagram.com/rhtip
-[LinkedIn]: /images/social-icons/linkedin.png "LinkedIn"
 [l]: https://sg.linkedin.com/in/iphoting
-[Foursquare]: /images/social-icons/foursquare.png "Foursquare"
 [4sq]: https://foursquare.com/iphoting
-[Email]: /images/social-icons/email.png "Email"
 [e]: mailto:hello@iphoting.com
 [read]: http://about.ronaldip.com/
