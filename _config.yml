@@ -15,7 +15,7 @@ linkblog:
   linkpost:
     marker: "&rarr;"
 
-exclude: [tmp]
+exclude: [tmp, vendor]
 include: [.powrc]
 
 # Build settings

@@ -28,4 +28,5 @@ group :production do
 	gem 'rainbows'
 end
 
+gem 'rake'
 gem 'vienna'
