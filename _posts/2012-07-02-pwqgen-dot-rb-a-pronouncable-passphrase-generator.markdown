@@ -14,16 +14,21 @@ So here it is, announcing pwqgen.rb: a Ruby implementation of passwdqc's pwqgen,
 
 It comes as a Ruby module/class and an accompanying command line tool.
 <!-- more -->
+
 ## Requirements
+
 - Ruby >= 1.9.2
 
 ## Installation
+
 ```
 gem install pwqgen.rb
 ```
 
 ## Usage
+
 ### CLI
+
 You can generate a random password from the command line.
 ```
 $ pwqgen.rb --help
@@ -37,6 +42,7 @@ Options:
 ```
 
 ### Ruby App
+
 You can `require` it within your app:
 ```
 require 'rubygems'
@@ -60,6 +66,7 @@ p pgen.generate 2             # => "Easily2desist"
 - Original Design and C implementation from <http://www.openwall.com/passwdqc/> by Solar Designer.
 
 ## Known Issues
+
 The random number generator is based on MT algorithm. I welcome pull-requests for better implementations of a random number generator.
 
 [1]: http://www.openwall.com/passwdqc/
