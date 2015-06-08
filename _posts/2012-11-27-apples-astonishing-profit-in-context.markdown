@@ -13,7 +13,7 @@ categories:
 
 [Statista][source] posted a note comparing Apple's net profit in 2012 across its various industry competitors:
 
-> <img src="http://static-s3.iphoting.com/blog/uploads/ChartOfTheDay_735_Apple_s_Astonishing_Profit_in_Context_n.jpg">
+> {% img http://static-s3.iphoting.com/blog/uploads/ChartOfTheDay_735_Apple_s_Astonishing_Profit_in_Context_n.jpg "Apple's Astonishing Profit in Context" %}
 
 > How huge these numbers really are becomes more evident when compared to the results of Apple’s competition: 
 
