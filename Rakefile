@@ -15,7 +15,12 @@ end
 namespace :deploy do
 	desc "Deploy to git"
 	task :git do
-		system "git push"
+		system "git push origin master"
+		system "git push github master"
+	end
+
+	desc "Deploy to Heroku"
+	task :heroku do
 		system "git push heroku master"
 	end
 
