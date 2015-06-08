@@ -4,3 +4,4 @@ _site
 .ink-cache
 .code-highlighter-cache
 _deploy.yml
+.travis.yml.*
