@@ -28,6 +28,9 @@ group :production do
 	gem 'rainbows'
 end
 
+group :test do
+end
+
 gem 'rack-embed'
 
 gem 'rake'
