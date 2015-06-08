@@ -30,7 +30,8 @@ namespace :deploy do
 	end
 end
 
-task :deploy => ["deploy:s3", "deploy:git"]
+task :backup => ["deploy:git"]
+task :deploy => ["deploy:s3", "deploy:heroku"]
 task :build => ["assets:precompile"]
 task :default => ["assets:precompile"]
 

@@ -13,20 +13,3 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-
-deploy:
-  - provider: s3
-    access_key_id:
-      secure: "jERjpNJxSLPop54jjxjWM0n5Wx+WZsUILguNiWGEQBFjgpDnaq7l3mEk5Y1TrRKeihJOc78ryjTzBAPV7B1/bXKmM8+rUC49ZCNGF4bJn3hRBMlnsBAsx273ovKfHIOej4v3AJCPrHvxmA89EHqfD+nPdXTB5FPOoYvnuLhCVm0tFpA4Ek0d5TiJn8GKNktkN57Q4eh6jI5Ua416uHVoOr/2d8KVjG0bO1+Dk67PUWzuQYEtlVSLOwVF/8qSKdDIW7aBnKI8fv15/13mc3z8vJhRBQeH+B1EWVAN8GH5hGoPSER6mybAR1dGHZmxH5I05kp1hFrV+NNsu0en/6TxGMixMy1SOTCrWSuviskF/ZwGDxvGW4PyQ9j7UoH429LbrAY3xsrhY3UNsK2mt5+Or3X4R3Mjq0fpdGnuhYAQK/qZRIzTcQHWw16o8r9flVXojyKDP83LWuY2WnVa6cufNsWZ6Mvsk24Y+3I+BVc61wJyZXcZgKgKjvia2yXQrhvuQNwulS+WxRLl851s7lAon+tvL2kY0hZ3O/6CRt4h8AJ4oz/x1JcJVSki0h54sQpC/vM2krs0Kr2i1P7Nusnu5y/tT2telY+vKE78V7+DQxFFOw6SzGp/54e6DEGhSKr3P4U8oQiYJV25NKVw8XfWvMFm05RGTjJjLEWtx20XNoY="
-    secret_access_key:
-      secure: "Use94UyDVCRbbrHbINe12evJkQ7izaTMUaYuQvPXDs++6xnfKV0bV9+pLxVit5ySHXc1zmGdiMFN9tZaj4IMgq9VFHeCwKY93iWso/d46KmkyNi9qPn+85tcy22hxdvOPMgtXVLJLs8cInRrDDm7Fc4QLTaYER4jNPzKC21koRf9Dk1sUiex5f5j4rzT9y6G8JgpWTcifQS7R7vn8NBMIeyUDCC9fr+Qqq8gW7IuMWdJR4lpNp6MpgdVm7JbrPYj8+PzoIRkyEzrioaGEY5WIV9xLX4G/OlwlDwJIsEVpZcYHvoP5JMIjY1wB1R0SaWZ7aA9StLf59BHz9EOZeQsxUU7uNEq7310adX54oQoBIwzxcQj+fJ35UN0JG+LSDeoAGTPgPATrqrMD4Baa3HReSQU1hLTnT2FuILXwX/63b2getHOX6Jl8+mmtRkW+sfBhkShUjjW7zgUhxLvogehoa9ydvVtC0kh6Q2lQw4beSfZipHn9fz0jEOLIVGsidUDTi/rmg6Ps1o2D1dltnpxqGTheHLAfWsJ8YcW7iSt0RQ5/JfaEYxoYy41lOzkrmoXKR+PKW+gI2e/MieAKYD2XiJmYUuYTBvoj9qFOgx5IM0GnPV6cBBRKA2iaJS+K1TA1hzmS7ac4e10XhYCVJxc1oYvN4pfvVaJWFCDGEq42xM="
-    bucket: blog.iphoting.com
-    skip_cleanup: true
-    local_dir: _site
-    detect_encoding: true
-    region: ap-southeast-1
-    endpoint: blog.iphoting.com.s3-website-ap-southeast-1.amazonaws.com
-    acl: public_read
-    cache_control: "max-age=604800"
-    on:
-      branch: master
